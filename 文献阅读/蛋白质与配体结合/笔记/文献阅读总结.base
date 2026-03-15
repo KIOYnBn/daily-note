@@ -1,0 +1,13 @@
+views:
+  - type: table
+    name: 表格
+    filters:
+      and:
+        - file.folder == "文献整理/文献阅读/笔记"
+    order:
+      - file.name
+      - tags
+      - cssclasses
+      - thesis_type
+    columnSize:
+      file.name: 603
