@@ -1,0 +1,11 @@
+views:
+  - type: table
+    name: 表格
+    filters:
+      and:
+        - file.folder == "毛选"
+    order:
+      - file.name
+      - 阅读进度
+    columnSize:
+      file.name: 280

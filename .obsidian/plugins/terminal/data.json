@@ -1,0 +1,47 @@
+{
+  "addToCommand": true,
+  "addToContextMenu": true,
+  "createInstanceNearExistingOnes": true,
+  "errorNoticeTimeout": 0,
+  "exposeInternalModules": true,
+  "focusOnNewInstance": true,
+  "hideStatusBar": "focused",
+  "interceptLogging": true,
+  "language": "",
+  "macOSOptionKeyPassthrough": true,
+  "newInstanceBehavior": "newHorizontalSplit",
+  "noticeTimeout": 5,
+  "openChangelogOnUpdate": false,
+  "pinNewInstance": false,
+  "preferredRenderer": "webgl",
+  "profiles": {
+    "77a3dcc5-f9bb-4dc8-9719-636bda005530": {
+      "args": [
+        "--login"
+      ],
+      "executable": "C:\\Program Files\\Git\\bin\\bash.exe",
+      "followTheme": true,
+      "name": "",
+      "platforms": {
+        "win32": true
+      },
+      "pythonExecutable": "python3",
+      "restoreHistory": false,
+      "rightClickAction": "copyPaste",
+      "successExitCodes": [
+        "0",
+        "SIGINT",
+        "SIGTERM"
+      ],
+      "terminalOptions": {
+        "documentOverride": null
+      },
+      "type": "integrated",
+      "useWin32Conhost": true
+    }
+  },
+  "defaultProfile": "77a3dcc5-f9bb-4dc8-9719-636bda005530",
+  "terminalOptions": {
+    "documentOverride": null
+  }
+}
