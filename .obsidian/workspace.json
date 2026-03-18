@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "52e287164af7dbb7",
+        "id": "2684aa4285239623",
         "type": "split",
         "children": [
           {
@@ -17,22 +17,22 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "生物信息学内容导航/山东大学课程/进化.md",
+                    "file": "工具使用/编程语言/c语言基础/数据类型/变量/字符.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "进化"
+                  "title": "字符"
                 }
               }
             ]
           },
           {
-            "id": "69f8842c6f4751c4",
+            "id": "bc8ce9bfb88fbc96",
             "type": "tabs",
             "children": [
               {
-                "id": "6b3ee33f94d654ca",
+                "id": "15a353a91f7beaf0",
                 "type": "leaf",
                 "pinned": true,
                 "state": {
@@ -133,8 +133,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "7d3839973ff5ccfa",
@@ -198,12 +197,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "生物信息学内容导航/山东大学课程/进化.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "进化 的大纲"
             }
           }
         ],
@@ -226,11 +226,12 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "6b3ee33f94d654ca",
+  "active": "15a353a91f7beaf0",
   "lastOpenFiles": [
+    "工具使用/编程语言/c语言基础/数据类型/变量/字符.md",
+    "工具使用/编程语言/c语言基础/数据类型/变量/指针.md",
     "生物信息学内容导航/山东大学课程/进化.md",
     "生物信息学内容导航/山东大学课程/序列Sequence.md",
-    "工具使用/编程语言/c语言基础/数据类型/变量/字符.md",
     "工具使用/编程语言/c语言基础/数据类型/变量内存大小查看.md",
     "工具使用/编程语言/c语言基础/数据类型/类型转化.md",
     "工具使用/编程语言/c语言基础/数据类型/变量修饰.md",
@@ -239,7 +240,6 @@
     "工具使用/编程语言/c语言基础/数据类型/变量/整数.md",
     "工具使用/编程语言/c语言基础/数据类型/变量/浮点数.md",
     "工具使用/编程语言/c语言基础/数据类型/变量/无符号整型.md",
-    "工具使用/编程语言/c语言基础/数据类型/变量/指针.md",
     "工具使用/编程语言/c语言基础/数据类型/变量",
     "工具使用/编程语言/python基础/第三方库/Numpy.md",
     "生物信息学内容导航/山东大学课程/生物数据库.md",
