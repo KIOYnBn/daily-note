@@ -4,36 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "2080dafa5f5d520e",
+        "id": "7dedf1c7680d02dd",
         "type": "split",
         "children": [
           {
-            "id": "168d485cfd967e45",
+            "id": "cecd595a94c9354c",
             "type": "tabs",
             "children": [
               {
-                "id": "273de7d73bc7bbf1",
+                "id": "1e2d184caeeb6065",
                 "type": "leaf",
                 "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "工具使用/编程语言/c语言基础/数据类型/流/文件流.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": false
-                  },
+                  "type": "empty",
+                  "state": {},
                   "icon": "lucide-file",
-                  "title": "文件流"
+                  "title": "新标签页"
                 }
               }
             ]
           },
           {
-            "id": "050659b902bfc78a",
+            "id": "da5f6d6503943e6f",
             "type": "tabs",
             "children": [
               {
-                "id": "a3f690c0481f8ac7",
+                "id": "f2126d7fd89ac7c2",
                 "type": "leaf",
                 "pinned": true,
                 "state": {
@@ -172,23 +167,20 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:打开快速切换": false,
-      "graph:查看关系图谱": false,
-      "canvas:新建白板": false,
-      "daily-notes:打开/创建今天的日记": false,
-      "templates:插入模板": false,
-      "command-palette:打开命令面板": false,
       "bases:创建新数据库": false,
       "terminal:Open terminal": false
     }
   },
-  "active": "a3f690c0481f8ac7",
+  "active": "f2126d7fd89ac7c2",
   "lastOpenFiles": [
-    "工具使用/编程语言/c语言基础/数据类型/流/文件流.md",
-    "工具使用/编程语言/c语言基础/数据类型/流/标准IO流.md",
-    "工具使用/编程语言/c语言基础/数据类型/流/基本概念.md",
+    "工具使用/编程语言/c语言基础/常见的库/Math.md",
+    "工具使用/编程语言/c语言基础/流/文件流.md",
+    "工具使用/编程语言/c语言基础/常见的库",
+    "工具使用/编程语言/c语言基础/数据类型/自定义数据类型.md",
+    "工具使用/编程语言/c语言基础/流/标准IO流.md",
+    "工具使用/编程语言/c语言基础/流/基本概念.md",
     "生物信息学内容导航/山东大学课程/蛋白质结构.md",
-    "工具使用/编程语言/c语言基础/数据类型/流",
+    "工具使用/编程语言/c语言基础/流",
     "生物信息学内容导航/山东大学课程/生物数据库.md",
     "工具使用/编程语言/c语言基础/数据类型/变量/字符.md",
     "工具使用/编程语言/c语言基础/数据类型/变量/指针.md",
@@ -204,7 +196,6 @@
     "工具使用/编程语言/c语言基础/数据类型/变量/无符号整型.md",
     "工具使用/编程语言/c语言基础/数据类型/变量",
     "工具使用/编程语言/python基础/第三方库/Numpy.md",
-    "工具使用/编程语言/c语言基础/数据类型/自定义数据类型.md",
     "工具使用/编程语言/c语言基础/常量.md",
     "工具使用/编程语言/c语言基础/程序思想.md",
     "工具使用/编程语言/c语言基础/标识符.md",
@@ -213,7 +204,6 @@
     "领域了解/AI/深度学习/LoRA技术实现.md",
     "工具使用/git.md",
     "领域了解/AI/深度学习",
-    "工具使用/编程语言/c语言基础/头文件.md",
     "生物信息学内容导航/山东大学课程/pictures/局部比对算法.png",
     "生物信息学内容导航/山东大学课程/pictures/CATH.png",
     "生物信息学内容导航/山东大学课程/pictures/SCOP2.png",
@@ -226,7 +216,6 @@
     "文献阅读/蛋白质功能预测/基于生物信息学的蛋白质功能预测研究综述/Pasted image 20260305174443.png",
     "文献阅读/蛋白质功能预测/基于生物信息学的蛋白质功能预测研究综述/Pasted image 20260305181820.png",
     "生物信息学内容导航/appendix",
-    "生物信息学内容导航/山东大学课程",
     "文献阅读/药物/病原体及其干预药物识别的深度学习框架研究/pictures/Pasted image 20260304210128.png",
     "文献阅读/药物/病原体及其干预药物识别的深度学习框架研究/pictures/Pasted image 20260304160936.png",
     "文献阅读/药物/病原体及其干预药物识别的深度学习框架研究/pictures/Pasted image 20260304153328.png",
