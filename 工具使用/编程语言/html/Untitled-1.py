@@ -1,12 +1,15 @@
-file:str = "未命名.md"
-temp_file:str = "temp.md"
+import matplotlib as plt
 
-with open(file, "r", encoding="utf-8") as f:
-    content = f.readlines()
 
-with open(temp_file, "w", encoding="utf-8") as f:
-    for line in content:
-        if line.startswith("\n"):
-            pass
-        else:
-            f.write(line)
+
+figure, ax = plt.subplots()
+
+x = [1, 2, 3, 4, 5]
+y = [2, 3, 5, 7, 11]
+
+ax.plot(x, y)
+
+ax.set_title('Prime Numbers')
+ax.set_xlabel('Index')
+ax.set_ylabel('Value')
+plt.show()
