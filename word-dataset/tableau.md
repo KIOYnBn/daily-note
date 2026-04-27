@@ -1,0 +1,7 @@
+---
+expression: tableau
+meaning: '戏剧的画面'
+date: 2026-04-16 15:40:27
+status: 新学
+type: WORD
+---

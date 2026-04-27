@@ -1,0 +1,59 @@
+{
+  "use_server": false,
+  "port": 8086,
+  "self_server": false,
+  "self_port": 3002,
+  "native": "zh",
+  "foreign": "en",
+  "popup_search": true,
+  "auto_pron": true,
+  "function_key": "ctrlKey",
+  "dictionaries": {
+    "youdao": {
+      "enable": true,
+      "priority": 1
+    },
+    "cambridge": {
+      "enable": false,
+      "priority": 2
+    },
+    "ai": {
+      "enable": false,
+      "priority": 3
+    },
+    "google": {
+      "enable": false,
+      "priority": 4
+    }
+  },
+  "dict_height": "300px",
+  "db_name": "WordDB",
+  "word_database": "words.md",
+  "review_database": "review.md",
+  "col_delimiter": ",",
+  "auto_refresh_db": true,
+  "use_fileDB": true,
+  "word_folder": "word-dataset",
+  "only_fileDB": true,
+  "default_paragraphs": "4",
+  "font_size": "16px",
+  "font_family": "\"Segoe UI\", -apple-system, BlinkMacSystemFont, sans-serif",
+  "line_height": "1.8em",
+  "use_machine_trans": true,
+  "word_count": true,
+  "hover_definition_enabled": true,
+  "hover_definition_lang": "zh",
+  "review_prons": "0",
+  "review_delimiter": "?",
+  "last_sync": "2026-04-25T08:32:15.076Z",
+  "last_word_db_hash": "240-8505-#### 新学\naffordability,    负担力\nalgorithm,    算法\nall but,    几乎\nassent,    批准\natoll,    海洋环境\nbe confident in,    对...自信\nbipartisan,    代表两党的\nblow up,    夸大\nbolster,    增强\nceiling,    天花板\ncentral,    最重要的\ncertainty,    必然的事\nchampagne,    香槟\nchandelier,    枝形吊-  ,  setback\n庄严的， 清醒的  ,  sober\n社会排斥  ,  social exclusion\n喷洒  ,  spray\n分散开来  ,  spread out\n庄严  ,  stateliness\n绝妙的东西  ,  stunner\n故事  ,  tale\n住户  ,  tenement\n尖锐的  ,  trenchant\n转过身来， 越过肩膀看着镜头  ,  turning to look over her shoulder at the camera\n广阔  ,  vastness",
+  "ai": {
+    "provider": "openai",
+    "api_key": "",
+    "api_url": "https://api.openai.com/v1/chat/completions",
+    "model": "gpt-4o-mini",
+    "prompt": "You are a helpful English learning assistant. Explain the meaning of words clearly and provide examples.",
+    "trans_prompt": "Translate the following sentence into Chinese accurately and naturally: {sentence}"
+  },
+  "activeTab": "general"
+}

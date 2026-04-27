@@ -1,0 +1,7 @@
+---
+expression: chip
+meaning: '芯片， 薯条'
+date: 2026-04-23 15:35:18
+status: 新学
+type: WORD
+---

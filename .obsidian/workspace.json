@@ -1,0 +1,261 @@
+{
+  "main": {
+    "id": "89e3517d663240e5",
+    "type": "split",
+    "children": [
+      {
+        "id": "7a77880304f9426e",
+        "type": "split",
+        "children": [
+          {
+            "id": "a19509b2c54c46c0",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "56d913acdc6bab7c",
+                "type": "leaf",
+                "state": {
+                  "type": "bases",
+                  "state": {
+                    "file": "word-datset.base",
+                    "viewName": "表格"
+                  },
+                  "icon": "lucide-table",
+                  "title": "word-datset"
+                }
+              }
+            ]
+          },
+          {
+            "id": "18c4aac510defbc7",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "74465601920f6e70",
+                "type": "leaf",
+                "state": {
+                  "type": "terminal:terminal",
+                  "state": {
+                    "terminal:terminal": {
+                      "cwd": "E:\\markdown\\obsidian-files\\english",
+                      "focus": false,
+                      "profile": {
+                        "args": [
+                          "--login"
+                        ],
+                        "executable": "C:\\Program Files\\Git\\bin\\bash.exe",
+                        "followTheme": true,
+                        "name": "",
+                        "platforms": {
+                          "win32": true
+                        },
+                        "pythonExecutable": "python3",
+                        "restoreHistory": false,
+                        "rightClickAction": "copyPaste",
+                        "successExitCodes": [
+                          "0",
+                          "SIGINT",
+                          "SIGTERM"
+                        ],
+                        "terminalOptions": {
+                          "documentOverride": null
+                        },
+                        "type": "integrated",
+                        "useWin32Conhost": true
+                      },
+                      "serial": null
+                    }
+                  },
+                  "icon": "terminal",
+                  "title": "终端：MINGW64:/e/markdown/obsidian-files/english"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "07b7a5d817728535",
+    "type": "split",
+    "children": [
+      {
+        "id": "dce31ca9df7e79f7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7c58f1f4e9375517",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "1e35fb379c5b86b9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "64c7cf1f44102b4b",
+            "type": "leaf",
+            "state": {
+              "type": "langr-search-panel",
+              "state": {},
+              "icon": "book",
+              "title": "查词面板"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 359.5
+  },
+  "right": {
+    "id": "f8f92b5db2032903",
+    "type": "split",
+    "children": [
+      {
+        "id": "8128997ca2ecb413",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e6ee34ceff3cabf9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "[Learn.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "[Learn 的大纲"
+            }
+          },
+          {
+            "id": "a89392ac8c382992",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "bd153cc94892b367",
+            "type": "leaf",
+            "state": {
+              "type": "langr-stat",
+              "state": {},
+              "icon": "bar-chart-4",
+              "title": "统计"
+            }
+          },
+          {
+            "id": "31b28a88eabf93b9",
+            "type": "leaf",
+            "state": {
+              "type": "langr-learn-panel",
+              "state": {},
+              "icon": "reading-glasses",
+              "title": "学习新单词"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 206.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:查看关系图谱": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "bases:创建新数据库": false,
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "terminal:Open terminal": false,
+      "obsidian-language-learner:打开查词面板": false,
+      "obsidian-language-learner:打开新词面板": false,
+      "obsidian-language-learner:打开统计": false,
+      "obsidian-language-learner:单词列表": false
+    }
+  },
+  "active": "7c58f1f4e9375517",
+  "lastOpenFiles": [
+    "word-datset.base",
+    "word-dataset/flood.md",
+    "word-dataset/tent.md",
+    "阅读材料/April/Death by paper.pdf",
+    "word-dataset/trafficker.md",
+    "word-dataset/take down.md",
+    "word-dataset/return address.md",
+    "word-dataset/trash.md",
+    "word-dataset/cannabinoid.md",
+    "积累/语法/动词类型.md",
+    "积累/语法/表语.md",
+    "阅读材料/April/The Super Bowl.pdf",
+    "word-dataset/raid.md",
+    "word-dataset/recover.md",
+    "口语/IELTS课程笔记.md",
+    "积累/语法/时态.md",
+    "word-dataset/correctional.md",
+    "word-dataset/painstaking.md",
+    "积累/写作或口语积累/句子积累.md",
+    "word-dataset/shape up as.md",
+    "word-dataset/triple.md",
+    "word-dataset/aggressive.md",
+    "word-dataset/rainbow.md",
+    "word-dataset/where do we go from here.md",
+    "word-dataset/concentrate.md",
+    "word-dataset/scout.md",
+    "word-dataset/radio.md",
+    "word-dataset/evolve.md",
+    "阅读材料/April/You can't use this AI.pdf",
+    "阅读材料/April/Vegetative states.pdf",
+    "阅读材料/April/April's poetry.pdf",
+    "阅读材料/April/The pope and the president.pdf",
+    "阅读材料/April/Building cities from scratch.pdf",
+    "阅读材料/April/Born American.pdf",
+    "阅读材料/April/Desire paths.pdf",
+    "口语/pictures/Pasted image 20260312223001.png",
+    "口语/pictures/Pasted image 20260312223754.png",
+    "口语/pictures/Pasted image 20260312223936.png",
+    "口语/pictures/Pasted image 20260312222841.png",
+    "阅读材料/Super-Agers’ Brains Have a Special Ability, New Study Suggests - The New York Times_files/12Well-AskTherapist-Letters-square640.jpg",
+    "阅读材料/Super-Agers’ Brains Have a Special Ability, New Study Suggests - The New York Times_files/06ST-FWREVIEW-ALAIA-new--square640.jpg",
+    "阅读材料/Super-Agers’ Brains Have a Special Ability, New Study Suggests - The New York Times_files/05cul-thebride-review-hlvk-square640.jpg",
+    "阅读材料/Super-Agers’ Brains Have a Special Ability, New Study Suggests - The New York Times_files/04modernlove-lindy-west-square640.png",
+    "阅读材料/Super-Agers’ Brains Have a Special Ability, New Study Suggests - The New York Times_files/03WELL-ASK-EMOTIONAL-DRINKING1-square640.jpg",
+    "六级/picutres/分值.jpg"
+  ]
+}

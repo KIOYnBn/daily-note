@@ -1,0 +1,7 @@
+---
+expression: liar
+meaning: '骗子'
+date: 2026-04-22 15:23:23
+status: 新学
+type: WORD
+---

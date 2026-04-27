@@ -1,0 +1,7 @@
+---
+expression: malwre
+meaning: '恶意软件'
+date: 2026-04-22 15:39:42
+status: 新学
+type: WORD
+---
