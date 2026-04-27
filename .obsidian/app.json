@@ -2,5 +2,6 @@
   "autoPairMarkdown": false,
   "alwaysUpdateLinks": true,
   "readableLineLength": false,
-  "showLineNumber": true
+  "showLineNumber": false,
+  "showUnsupportedFiles": true
 }
