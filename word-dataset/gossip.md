@@ -2,7 +2,7 @@
 expression: gossip
 meaning: 八卦
 date: 2026-02-24 17:04:10
-status: 了解
+status: 掌握
 type: WORD
 tags:
   - word

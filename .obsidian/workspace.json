@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "7a77880304f9426e",
+        "id": "a325181b6fcec96d",
         "type": "split",
         "children": [
           {
@@ -15,23 +15,25 @@
                 "id": "56d913acdc6bab7c",
                 "type": "leaf",
                 "state": {
-                  "type": "bases",
+                  "type": "markdown",
                   "state": {
-                    "file": "word-datset.base",
-                    "viewName": "表格"
+                    "file": "积累/写作或口语积累/Verb.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
                   },
-                  "icon": "lucide-table",
-                  "title": "word-datset"
+                  "icon": "lucide-file",
+                  "title": "Verb"
                 }
               }
             ]
           },
           {
-            "id": "18c4aac510defbc7",
+            "id": "da5a2911f85430bf",
             "type": "tabs",
             "children": [
               {
-                "id": "74465601920f6e70",
+                "id": "19e8187a1e251702",
                 "type": "leaf",
                 "state": {
                   "type": "terminal:terminal",
@@ -126,7 +128,8 @@
               "title": "查词面板"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -210,9 +213,13 @@
       "obsidian-language-learner:单词列表": false
     }
   },
-  "active": "7c58f1f4e9375517",
+  "active": "19e8187a1e251702",
   "lastOpenFiles": [
+    "积累/写作或口语积累/Verb.md",
+    "积累/写作或口语积累/句式.md",
     "word-datset.base",
+    "word-dataset/hold back.md",
+    "word-dataset/malware.md",
     "word-dataset/flood.md",
     "word-dataset/tent.md",
     "阅读材料/April/Death by paper.pdf",
@@ -237,9 +244,6 @@
     "word-dataset/rainbow.md",
     "word-dataset/where do we go from here.md",
     "word-dataset/concentrate.md",
-    "word-dataset/scout.md",
-    "word-dataset/radio.md",
-    "word-dataset/evolve.md",
     "阅读材料/April/You can't use this AI.pdf",
     "阅读材料/April/Vegetative states.pdf",
     "阅读材料/April/April's poetry.pdf",

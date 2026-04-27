@@ -2,7 +2,7 @@
 expression: chinatown
 meaning: 唐人街
 date: 2026-02-24 17:04:10
-status: 了解
+status: 掌握
 type: WORD
 tags:
   - word

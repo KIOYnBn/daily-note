@@ -1,7 +1,7 @@
 ---
 expression: cell
-meaning: '牢房'
+meaning: 牢房
 date: 2026-04-24 15:24:01
-status: 新学
+status: 了解
 type: WORD
 ---
