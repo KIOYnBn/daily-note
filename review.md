@@ -1,91 +1,150 @@
 #flashcards
 
 #word
-#### address
+#### antenna
 ?
-寄给
+天线
 
 #word
-#### cannabinoid
+#### ass
 ?
-大麻素
+臀部
 
 #word
-#### correctional
+#### be looking to do
 ?
-监狱的， 修正的
+力求做某事
+
+#word
+#### canonical
+?
+标准的， 典范的
+
+#word
+#### carnivalesque
+?
+快乐的
+
+#word
+#### critic
+?
+评论员
+
+#word
+#### discourse
+?
+演讲， 论述， 谈话
+
+#word
+#### disgusting
+?
+令人反感的
+
+#word
+#### drama
+?
+剧本
+
+#word
+#### engage with
+?
+深刻探讨
 **Sentences**:
-*He had been shipping drugs to correctional facilities in North Carolina*
+*Levinson is looking to engage with what America is , exactly.*
 
 #word
-#### flood
+#### episode
 ?
-淹没
+一段时期， 一集
 
 #word
-#### painstaking
+#### forefront
 ?
-刻苦的
+重要位置
 **Sentences**:
-*painstaking investigation*
+*at the forefront*
 
 #word
-#### raid
+#### introspective
 ?
-突袭检查
+反省的
+
+#word
+#### jump the shark
+?
+意为作品质量下降
+
+#word
+#### laughing-while-the-world-end
+?
+末日狂欢
+
+#word
+#### pitiless
+?
+冷酷的， 无情的
+
+#word
+#### rapacious
+?
+贪婪的
+
+#word
+#### ratchet up
+?
+增加
+
+#word
+#### sensationalize
+?
+炒作
+
+#word
+#### sensitive
+?
+敏感的
+
+#word
+#### shark
+?
+鲨鱼
+
+#word
+#### sort
+?
+方式， 程度， 排序， 品种
 **Sentences**:
-*The guerrillas raided banks and destroyed a police barracks and an electricity substation*
+*have a sort of*
 
 #word
-#### recover
+#### swirl
 ?
-寻回， 收回， 回收利用
+漩涡， 纷争
+
+#word
+#### tit
+?
+乳头
+
+#word
+#### turn to
+?
+求助于， 致力于， 开始做某事
+
+#word
+#### turnout
+?
+参加人数， 投票率
+
+#word
+#### vibe
+?
+氛围
+
+#word
+#### vulgar
+?
+庸俗的
 **Sentences**:
-*Police raided five houses in Brooklyn and recovered stolen goods*
-
-#word
-#### return address
-?
-回信地址
-**Sentences**:
-*some had return addresses for law offices*
-
-#word
-#### sewer
-?
-下水道
-**Sentences**:
-*Heavy rain blocked the sewers and caused street flooding.*
-
-#word
-#### shape up as
-?
-逐渐演变成
-
-#word
-#### take down
-?
-打击， 被攻击
-
-#word
-#### tent
-?
-帐篷
-
-#word
-#### trafficker
-?
-贩子， 商人
-
-#word
-#### trash
-?
-垃圾
-**Sentences**:
-*The yards are overgrown and cluttered with trash*
-
-#word
-#### triple
-?
-三倍的， 翻三倍
+**
 

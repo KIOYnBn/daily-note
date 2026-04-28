@@ -6,4 +6,5 @@ status: 新学
 type: WORD
 tags:
   - word
+sentence1: Sara was not amused by Franklin's teasing.
 ---

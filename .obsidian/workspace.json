@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "a325181b6fcec96d",
+        "id": "75719fb0ffce12ae",
         "type": "split",
         "children": [
           {
@@ -25,15 +25,29 @@
                   "icon": "lucide-file",
                   "title": "Verb"
                 }
+              },
+              {
+                "id": "19e8187a1e251702",
+                "type": "leaf",
+                "state": {
+                  "type": "bases",
+                  "state": {
+                    "file": "word-datset.base",
+                    "viewName": "表格"
+                  },
+                  "icon": "lucide-table",
+                  "title": "word-datset"
+                }
               }
-            ]
+            ],
+            "currentTab": 1
           },
           {
-            "id": "da5a2911f85430bf",
+            "id": "e2a9d1d16e24aece",
             "type": "tabs",
             "children": [
               {
-                "id": "19e8187a1e251702",
+                "id": "352a67f266d8ee3e",
                 "type": "leaf",
                 "state": {
                   "type": "terminal:terminal",
@@ -128,8 +142,7 @@
               "title": "查词面板"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -197,8 +210,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 206.5,
-    "collapsed": true
+    "width": 206.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -213,44 +225,43 @@
       "obsidian-language-learner:单词列表": false
     }
   },
-  "active": "19e8187a1e251702",
+  "active": "352a67f266d8ee3e",
   "lastOpenFiles": [
-    "积累/写作或口语积累/Verb.md",
-    "积累/写作或口语积累/句式.md",
     "word-datset.base",
-    "word-dataset/hold back.md",
-    "word-dataset/malware.md",
-    "word-dataset/flood.md",
-    "word-dataset/tent.md",
+    "word-dataset/flavor.md",
+    "word-dataset/turnout.md",
+    "word-dataset/antenna.md",
+    "阅读材料/April/Euphoria Is a Spectacle.pdf",
+    "word-dataset/laughing-while-the-world-end.md",
+    "word-dataset/forefront.md",
+    "word-dataset/vibe.md",
+    "word-dataset/sort.md",
+    "word-dataset/ass.md",
+    "word-dataset/tit.md",
+    "word-dataset/ratchet up.md",
+    "积累/写作或口语积累/Verb.md",
+    "word-dataset/drama.md",
+    "word-dataset/canonical.md",
+    "word-dataset/introspective.md",
+    "word-dataset/sensitive.md",
+    "word-dataset/jump the shark.md",
+    "word-dataset/shark.md",
+    "word-dataset/be looking to do.md",
+    "word-dataset/engage with.md",
+    "word-dataset/sensationalize.md",
+    "word-dataset/critic.md",
+    "word-dataset/discourse.md",
+    "word-dataset/swirl.md",
+    "word-dataset/pitiless.md",
+    "word-dataset/rapacious.md",
     "阅读材料/April/Death by paper.pdf",
-    "word-dataset/trafficker.md",
-    "word-dataset/take down.md",
-    "word-dataset/return address.md",
-    "word-dataset/trash.md",
-    "word-dataset/cannabinoid.md",
-    "积累/语法/动词类型.md",
-    "积累/语法/表语.md",
     "阅读材料/April/The Super Bowl.pdf",
-    "word-dataset/raid.md",
-    "word-dataset/recover.md",
-    "口语/IELTS课程笔记.md",
-    "积累/语法/时态.md",
-    "word-dataset/correctional.md",
-    "word-dataset/painstaking.md",
-    "积累/写作或口语积累/句子积累.md",
-    "word-dataset/shape up as.md",
-    "word-dataset/triple.md",
-    "word-dataset/aggressive.md",
-    "word-dataset/rainbow.md",
-    "word-dataset/where do we go from here.md",
-    "word-dataset/concentrate.md",
     "阅读材料/April/You can't use this AI.pdf",
     "阅读材料/April/Vegetative states.pdf",
     "阅读材料/April/April's poetry.pdf",
     "阅读材料/April/The pope and the president.pdf",
     "阅读材料/April/Building cities from scratch.pdf",
     "阅读材料/April/Born American.pdf",
-    "阅读材料/April/Desire paths.pdf",
     "口语/pictures/Pasted image 20260312223001.png",
     "口语/pictures/Pasted image 20260312223754.png",
     "口语/pictures/Pasted image 20260312223936.png",

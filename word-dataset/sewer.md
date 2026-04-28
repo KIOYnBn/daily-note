@@ -1,10 +1,10 @@
 ---
 expression: sewer
-meaning: '下水道'
+meaning: 下水道
 date: 2026-04-25 16:32:09
-status: 新学
+status: 了解
 type: WORD
-sentence1: 'Heavy rain blocked the sewers and caused street flooding.'
-trans1: ''
-origin1: ''
+sentence1: Heavy rain blocked the sewers and caused street flooding.
+trans1: ""
+origin1: ""
 ---
