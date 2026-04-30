@@ -1,150 +1,192 @@
 #flashcards
 
 #word
-#### antenna
+#### action
 ?
-天线
+情节， 情节
 
 #word
-#### ass
+#### action-packed
 ?
-臀部
+内容丰富的
 
 #word
-#### be looking to do
+#### ambitious
 ?
-力求做某事
+有野心的
 
 #word
-#### canonical
+#### attribute
 ?
-标准的， 典范的
-
-#word
-#### carnivalesque
-?
-快乐的
-
-#word
-#### critic
-?
-评论员
-
-#word
-#### discourse
-?
-演讲， 论述， 谈话
-
-#word
-#### disgusting
-?
-令人反感的
-
-#word
-#### drama
-?
-剧本
-
-#word
-#### engage with
-?
-深刻探讨
+把..归因于， 象征
 **Sentences**:
-*Levinson is looking to engage with what America is , exactly.*
+*What do you attribute that tonal shift to?*
 
 #word
-#### episode
+#### audacious
 ?
-一段时期， 一集
+无畏的
 
 #word
-#### forefront
+#### be dying of
 ?
-重要位置
+因...死亡
+
+#word
+#### boob
+?
+乳房
+
+#word
+#### business
+?
+商业， 事物， 私事
+
+#word
+#### cinematic
+?
+电影的
+
+#word
+#### dissuade
+?
+劝阻
+
+#word
+#### get down
+?
+专注于某事
+
+#word
+#### get their bag
+?
+（俚语）赚大钱
+
+#word
+#### hardened
+?
+麻木不仁的
 **Sentences**:
-*at the forefront*
+*They're kind of hardened by the real world*
 
 #word
-#### introspective
+#### headline
 ?
-反省的
+标题， 头条新闻， 大肆宣传
 
 #word
-#### jump the shark
+#### hell
 ?
-意为作品质量下降
-
-#word
-#### laughing-while-the-world-end
-?
-末日狂欢
-
-#word
-#### pitiless
-?
-冷酷的， 无情的
-
-#word
-#### rapacious
-?
-贪婪的
-
-#word
-#### ratchet up
-?
-增加
-
-#word
-#### sensationalize
-?
-炒作
-
-#word
-#### sensitive
-?
-敏感的
-
-#word
-#### shark
-?
-鲨鱼
-
-#word
-#### sort
-?
-方式， 程度， 排序， 品种
+地狱
 **Sentences**:
-*have a sort of*
+*I've never believed.Not in heaven or hell or God or Satan until now.*
 
 #word
-#### swirl
+#### incredible
 ?
-漩涡， 纷争
+不可思议的， 极好的
 
 #word
-#### tit
+#### joke
 ?
-乳头
+玩笑， 开玩笑
+**Sentences**:
+*I was joking to my editor*
 
 #word
-#### turn to
+#### kick
 ?
-求助于， 致力于， 开始做某事
+踢， 极大的乐趣
+**Sentences**:
+*I get a kick out of watching intense drama series.*
 
 #word
-#### turnout
+#### let's cut to the chase
 ?
-参加人数， 投票率
+让我们开门见山
 
 #word
-#### vibe
+#### literal
 ?
-氛围
+字面意义的， 确切的， 不夸张的
 
 #word
-#### vulgar
+#### nightmarish
 ?
-庸俗的
+可怕的
+
+#word
+#### overdose
+?
+药量过多
+
+#word
+#### paddle
+?
+划船
 **Sentences**:
 **
+
+#word
+#### piece
+?
+张， 碎片， 一部作品
+
+#word
+#### porny
+?
+色情的
+
+#word
+#### put forth
+?
+展示
+
+#word
+#### remark
+?
+评论
+**Sentences**:
+**
+
+#word
+#### showcase
+?
+展示
+
+#word
+#### strip
+?
+脱衣服， 脱衣服的表演
+**Sentences**:
+*a strip-club*
+
+#word
+#### stripper
+?
+脱衣舞演员
+
+#word
+#### take
+?
+看法
+**Sentences**:
+*My general take would be to say that "Euphoria" is really not about the acting this season.*
+
+#word
+#### tonal
+?
+色调的
+
+#word
+#### traffick
+?
+非法交易
+
+#word
+#### vista
+?
+远景
+**Sentences**:
+*From my bedroom window looked out on a crowded vista of hills and rooftops.*
 

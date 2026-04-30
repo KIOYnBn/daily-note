@@ -54,6 +54,8 @@
 	- I finally *figured out* the rule
 ### 搞混
 - Confuse sth with sth
+## 务实（开始干正事）
+- get down to business
 ---
 ## 人和环境
 ### 适合

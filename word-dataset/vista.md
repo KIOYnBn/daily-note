@@ -1,8 +1,8 @@
 ---
 expression: vista
 meaning: 远景
-date: 2026-03-19 20:41:39
-status: 了解
+date: 2026-04-30 15:15:00
+status: 新学
 type: WORD
-sentence1: From my bedroom window I looked out on a crowded vista of hills and rooftops
+sentence1: From my bedroom window looked out on a crowded vista of hills and rooftops.
 ---

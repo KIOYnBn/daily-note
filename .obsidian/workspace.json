@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "75719fb0ffce12ae",
+        "id": "33ce3a184dc21538",
         "type": "split",
         "children": [
           {
@@ -27,6 +27,18 @@
                 }
               },
               {
+                "id": "352a67f266d8ee3e",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "阅读材料/April/Euphoria Is a Spectacle.pdf"
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "Euphoria Is a Spectacle"
+                }
+              },
+              {
                 "id": "19e8187a1e251702",
                 "type": "leaf",
                 "state": {
@@ -40,14 +52,14 @@
                 }
               }
             ],
-            "currentTab": 1
+            "currentTab": 2
           },
           {
-            "id": "e2a9d1d16e24aece",
+            "id": "bd23bfd6162c053c",
             "type": "tabs",
             "children": [
               {
-                "id": "352a67f266d8ee3e",
+                "id": "395c7577afd2dfe7",
                 "type": "leaf",
                 "state": {
                   "type": "terminal:terminal",
@@ -142,7 +154,8 @@
               "title": "查词面板"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -210,7 +223,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 206.5
+    "width": 206.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -225,35 +239,35 @@
       "obsidian-language-learner:单词列表": false
     }
   },
-  "active": "352a67f266d8ee3e",
+  "active": "395c7577afd2dfe7",
   "lastOpenFiles": [
     "word-datset.base",
-    "word-dataset/flavor.md",
-    "word-dataset/turnout.md",
-    "word-dataset/antenna.md",
+    "word-dataset/paddle.md",
     "阅读材料/April/Euphoria Is a Spectacle.pdf",
-    "word-dataset/laughing-while-the-world-end.md",
-    "word-dataset/forefront.md",
-    "word-dataset/vibe.md",
-    "word-dataset/sort.md",
-    "word-dataset/ass.md",
-    "word-dataset/tit.md",
-    "word-dataset/ratchet up.md",
+    "word-dataset/cinematic.md",
+    "word-dataset/take.md",
+    "word-dataset/incredible.md",
+    "积累/语法/时态.md",
+    "word-dataset/be dying of.md",
+    "word-dataset/traffick.md",
+    "word-dataset/dissuade.md",
+    "word-dataset/literal.md",
+    "积累/写作或口语积累/句子积累.md",
+    "word-dataset/remark.md",
+    "word-dataset/strip.md",
+    "word-dataset/joke.md",
+    "word-dataset/headline.md",
+    "word-dataset/put forth.md",
+    "word-dataset/nightmarish.md",
+    "word-dataset/showcase.md",
+    "word-dataset/stripper.md",
+    "word-dataset/let's cut to the chase.md",
+    "word-dataset/boob.md",
+    "word-dataset/get their bag.md",
     "积累/写作或口语积累/Verb.md",
-    "word-dataset/drama.md",
-    "word-dataset/canonical.md",
-    "word-dataset/introspective.md",
-    "word-dataset/sensitive.md",
-    "word-dataset/jump the shark.md",
-    "word-dataset/shark.md",
-    "word-dataset/be looking to do.md",
-    "word-dataset/engage with.md",
-    "word-dataset/sensationalize.md",
-    "word-dataset/critic.md",
-    "word-dataset/discourse.md",
-    "word-dataset/swirl.md",
-    "word-dataset/pitiless.md",
-    "word-dataset/rapacious.md",
+    "积累/写作或口语积累/Noun.md",
+    "积累/写作或口语积累/Conjunction.md",
+    "积累/写作或口语积累/Adverb.md",
     "阅读材料/April/Death by paper.pdf",
     "阅读材料/April/The Super Bowl.pdf",
     "阅读材料/April/You can't use this AI.pdf",
