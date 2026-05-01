@@ -1,0 +1,7 @@
+---
+expression: unwashed
+meaning: '不清洁的'
+date: 2026-05-01 16:06:23
+status: 新学
+type: WORD
+---

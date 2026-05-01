@@ -1,192 +1,105 @@
 #flashcards
 
 #word
-#### action
+#### anything but
 ?
-情节， 情节
-
-#word
-#### action-packed
-?
-内容丰富的
-
-#word
-#### ambitious
-?
-有野心的
-
-#word
-#### attribute
-?
-把..归因于， 象征
+根本不
 **Sentences**:
-*What do you attribute that tonal shift to?*
+*Chatbots are anything but fair-minded mediator*
 
 #word
-#### audacious
+#### approach
 ?
-无畏的
+交谈
 
 #word
-#### be dying of
+#### commuter
 ?
-因...死亡
+上班往返的人
 
 #word
-#### boob
+#### counsel
 ?
-乳房
+忠告
 
 #word
-#### business
+#### count on
 ?
-商业， 事物， 私事
-
-#word
-#### cinematic
-?
-电影的
-
-#word
-#### dissuade
-?
-劝阻
-
-#word
-#### get down
-?
-专注于某事
-
-#word
-#### get their bag
-?
-（俚语）赚大钱
-
-#word
-#### hardened
-?
-麻木不仁的
+依赖
 **Sentences**:
-*They're kind of hardened by the real world*
+*don't count on the computer to tell you true*
 
 #word
-#### headline
+#### fair-minded
 ?
-标题， 头条新闻， 大肆宣传
+公正的
 
 #word
-#### hell
+#### navigate
 ?
-地狱
+处理， 导航
 **Sentences**:
-*I've never believed.Not in heaven or hell or God or Satan until now.*
+*navigate a disagreement*
 
 #word
-#### incredible
+#### open-minded
 ?
-不可思议的， 极好的
+开明的， 谦虚的
 
 #word
-#### joke
+#### parish
 ?
-玩笑， 开玩笑
+教区
+
+#word
+#### park the wrong way
+?
+逆向停车
 **Sentences**:
-*I was joking to my editor*
+*My neighbor parks the wrong way on our one-way street*
 
 #word
-#### kick
+#### puff
 ?
-踢， 极大的乐趣
-**Sentences**:
-*I get a kick out of watching intense drama series.*
+吸， 吹， 气喘吁吁
 
 #word
-#### let's cut to the chase
+#### representative
 ?
-让我们开门见山
+代理人， 销售
 
 #word
-#### literal
+#### snoop
 ?
-字面意义的， 确切的， 不夸张的
+窥探者 
 
 #word
-#### nightmarish
+#### submissive
 ?
-可怕的
+卑躬屈膝的
 
 #word
-#### overdose
+#### supportive
 ?
-药量过多
+拥护的， 给予帮助的。
 
 #word
-#### paddle
+#### sycophantic
 ?
-划船
-**Sentences**:
-**
+奉承的
 
 #word
-#### piece
+#### toady
 ?
-张， 碎片， 一部作品
+马屁精
 
 #word
-#### porny
+#### unwashed
 ?
-色情的
+不清洁的
 
 #word
-#### put forth
+#### wit
 ?
-展示
-
-#word
-#### remark
-?
-评论
-**Sentences**:
-**
-
-#word
-#### showcase
-?
-展示
-
-#word
-#### strip
-?
-脱衣服， 脱衣服的表演
-**Sentences**:
-*a strip-club*
-
-#word
-#### stripper
-?
-脱衣舞演员
-
-#word
-#### take
-?
-看法
-**Sentences**:
-*My general take would be to say that "Euphoria" is really not about the acting this season.*
-
-#word
-#### tonal
-?
-色调的
-
-#word
-#### traffick
-?
-非法交易
-
-#word
-#### vista
-?
-远景
-**Sentences**:
-*From my bedroom window looked out on a crowded vista of hills and rooftops.*
+机智
 

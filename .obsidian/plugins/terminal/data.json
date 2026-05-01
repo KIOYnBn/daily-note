@@ -1,10 +1,10 @@
 {
-  "addToCommand": true,
-  "addToContextMenu": true,
+  "addToCommand": false,
+  "addToContextMenu": false,
   "createInstanceNearExistingOnes": true,
   "errorNoticeTimeout": 0,
   "exposeInternalModules": true,
-  "focusOnNewInstance": true,
+  "focusOnNewInstance": false,
   "hideStatusBar": "focused",
   "interceptLogging": true,
   "language": "",
