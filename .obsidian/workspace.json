@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "2698e0951b2c3afc",
+        "id": "49ec3e1e9a56de70",
         "type": "split",
         "children": [
           {
@@ -31,12 +31,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "生物化学/RS命名法.md",
+                    "file": "生物化学/第三章 蛋白质三维结构.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "RS命名法"
+                  "title": "第三章 蛋白质三维结构"
                 }
               },
               {
@@ -54,14 +54,14 @@
                 }
               }
             ],
-            "currentTab": 2
+            "currentTab": 1
           },
           {
-            "id": "da12a42637e67d80",
+            "id": "0e7ffe1741920150",
             "type": "tabs",
             "children": [
               {
-                "id": "11d030d6c0a6d3dc",
+                "id": "a766cf6103faa30b",
                 "type": "leaf",
                 "pinned": true,
                 "state": {
@@ -137,7 +137,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "中间丝",
+                "query": "motif",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -158,12 +158,12 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "04afecf6d35a93bd",
@@ -256,24 +256,25 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "11d030d6c0a6d3dc",
+  "active": "a766cf6103faa30b",
   "lastOpenFiles": [
-    "生物化学/第二章 氨基酸， 肽， 蛋白质.md",
-    "生物化学/知识块.md",
-    "生物化学/RS命名法.md",
     "生物化学/第三章 蛋白质三维结构.md",
-    "发育生物学/器官发生——四肢.md",
+    "生物化学/pictures/希腊钥匙拓扑结构.png",
+    "生物化学/第二章 氨基酸， 肽， 蛋白质.md",
+    "temp.md",
     "生物化学/第一章 生命分子基础.md",
+    "生物化学/pictures/α螺旋的氢键.png",
+    "生物化学/pictures/NMR谱示例.png",
+    "生物化学/pictures/拉氏图.png",
+    "生物化学/RS命名法.md",
+    "生物化学/知识块.md",
+    "发育生物学/器官发生——四肢.md",
     "生物化学/pictures/MALDI-TOF MS.png",
     "生物化学/pictures/Edman测序法.png",
     "生物化学/pictures/蛋白质N端残基鉴定.png",
     "生物化学/pictures/缀合蛋白质分类.png",
     "生物化学/pictures/简单蛋白质分类.png",
     "生物化学/pictures/肽键的共振杂化体.png",
-    "生物化学/pictures/氨基酸分析仪.png",
-    "生物化学/pictures/薄层层析.png",
-    "生物化学/pictures/柱层析.png",
-    "生物化学/pictures/巯基-氧化剂.png",
     "生物化学/pictures",
     "生物化学/新建文件夹",
     "生物学知识引用块/细胞器.md",
@@ -298,8 +299,6 @@
     "生殖生物学/胚后发育.md",
     "专业英语.md",
     "生殖生物学/发育生物学.md",
-    "未命名.md",
-    "生殖生物学/器官发生.md",
     "生殖生物学final.zip",
     "发育生物学/pictures",
     "发育生物学/新建文件夹",
