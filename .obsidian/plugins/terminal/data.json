@@ -1,18 +1,18 @@
 {
-  "addToCommand": true,
-  "addToContextMenu": true,
+  "addToCommand": false,
+  "addToContextMenu": false,
   "createInstanceNearExistingOnes": true,
   "errorNoticeTimeout": 0,
   "exposeInternalModules": true,
-  "focusOnNewInstance": true,
+  "focusOnNewInstance": false,
   "hideStatusBar": "focused",
   "interceptLogging": true,
   "language": "zh-Hans",
-  "macOSOptionKeyPassthrough": true,
-  "newInstanceBehavior": "newHorizontalSplit",
+  "macOSOptionKeyPassthrough": false,
+  "newInstanceBehavior": "newWindow",
   "noticeTimeout": 5,
-  "openChangelogOnUpdate": true,
-  "pinNewInstance": true,
+  "openChangelogOnUpdate": false,
+  "pinNewInstance": false,
   "preferredRenderer": "webgl",
   "profiles": {
     "67e1114f-8b86-4ad0-900f-ecc87f067c74": {
@@ -60,7 +60,7 @@
       "type": "external"
     }
   },
-  "defaultProfile": null,
+  "defaultProfile": "67e1114f-8b86-4ad0-900f-ecc87f067c74",
   "terminalOptions": {
     "documentOverride": null
   }
