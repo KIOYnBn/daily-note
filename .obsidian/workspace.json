@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "af7ed00675a3253c",
+        "id": "a9c566043f7008d1",
         "type": "split",
         "children": [
           {
@@ -15,18 +15,6 @@
                 "id": "56d913acdc6bab7c",
                 "type": "leaf",
                 "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "阅读材料/May/Your suck-up chatbot.pdf"
-                  },
-                  "icon": "lucide-file-text",
-                  "title": "Your suck-up chatbot"
-                }
-              },
-              {
-                "id": "19e8187a1e251702",
-                "type": "leaf",
-                "state": {
                   "type": "bases",
                   "state": {
                     "file": "word-datset.base",
@@ -35,16 +23,27 @@
                   "icon": "lucide-table",
                   "title": "word-datset"
                 }
+              },
+              {
+                "id": "19e8187a1e251702",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "阅读材料/May/Your suck-up chatbot.pdf"
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "Your suck-up chatbot"
+                }
               }
-            ],
-            "currentTab": 1
+            ]
           },
           {
-            "id": "92dd882e33506823",
+            "id": "e8dd111a66dbcc37",
             "type": "tabs",
             "children": [
               {
-                "id": "c19da81bef78c051",
+                "id": "024da205e73a11f7",
                 "type": "leaf",
                 "state": {
                   "type": "terminal:terminal",
@@ -139,13 +138,11 @@
               "title": "查词面板"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 359.5,
-    "collapsed": true
+    "width": 359.5
   },
   "right": {
     "id": "f8f92b5db2032903",
@@ -161,13 +158,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "[Learn.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "[Learn 的大纲"
+              "title": "大纲"
             }
           },
           {
@@ -209,7 +205,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 206.5
+    "width": 272.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -224,14 +221,24 @@
       "obsidian-language-learner:单词列表": false
     }
   },
-  "active": "c19da81bef78c051",
+  "active": "024da205e73a11f7",
   "lastOpenFiles": [
     "word-datset.base",
+    "word-dataset/leftover.md",
+    "word-dataset/cruellest.md",
+    "阅读材料/May/Your suck-up chatbot.pdf",
+    "word-dataset/grown.md",
+    "word-dataset/manipulation.md",
+    "积累/写作或口语积累/句子积累.md",
+    "word-dataset/bin.md",
+    "word-dataset/clean up after yourself.md",
+    "word-dataset/commendable.md",
+    "word-dataset/garbage.md",
+    "word-dataset/string.md",
     "word-dataset/wit.md",
     "word-dataset/parish.md",
     "word-dataset/submissive.md",
     "word-dataset/traffic.md",
-    "阅读材料/May/Your suck-up chatbot.pdf",
     "word-dataset/supportive.md",
     "word-dataset/open-minded.md",
     "word-dataset/sycophantic.md",
@@ -243,19 +250,9 @@
     "word-dataset/count on.md",
     "word-dataset/park the wrong way.md",
     "word-dataset/representative.md",
-    "word-dataset/navigate.md",
-    "word-dataset/approach.md",
-    "word-dataset/unwashed.md",
-    "word-dataset/counsel.md",
-    "word-dataset/snoop.md",
-    "word-dataset/commuter.md",
     "阅读材料/May",
     "阅读材料/新建文件夹",
-    "word-dataset/paddle.md",
     "阅读材料/April/Euphoria Is a Spectacle.pdf",
-    "word-dataset/cinematic.md",
-    "word-dataset/take.md",
-    "word-dataset/incredible.md",
     "阅读材料/April/Death by paper.pdf",
     "阅读材料/April/The Super Bowl.pdf",
     "阅读材料/April/You can't use this AI.pdf",

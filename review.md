@@ -1,105 +1,50 @@
 #flashcards
 
 #word
-#### anything but
+#### bin
 ?
-根本不
+垃圾桶
 **Sentences**:
-*Chatbots are anything but fair-minded mediator*
+*trash bins*
 
 #word
-#### approach
+#### clean up after yourself
 ?
-交谈
-
-#word
-#### commuter
-?
-上班往返的人
-
-#word
-#### counsel
-?
-忠告
-
-#word
-#### count on
-?
-依赖
+自己打扫干净
 **Sentences**:
-*don't count on the computer to tell you true*
+*Your intention  to clean up after yourself is commendable.*
 
 #word
-#### fair-minded
+#### commendable
 ?
-公正的
+值得赞扬的
 
 #word
-#### navigate
+#### garbage
 ?
-处理， 导航
+垃圾
+
+#word
+#### grown
+?
+成年的
 **Sentences**:
-*navigate a disagreement*
+*grown person*
 
 #word
-#### open-minded
+#### leftover
 ?
-开明的， 谦虚的
+剩下的， 剩菜
 
 #word
-#### parish
+#### manipulation
 ?
-教区
+操纵
 
 #word
-#### park the wrong way
+#### string
 ?
-逆向停车
+绳子， 系， 悬挂
 **Sentences**:
-*My neighbor parks the wrong way on our one-way street*
-
-#word
-#### puff
-?
-吸， 吹， 气喘吁吁
-
-#word
-#### representative
-?
-代理人， 销售
-
-#word
-#### snoop
-?
-窥探者 
-
-#word
-#### submissive
-?
-卑躬屈膝的
-
-#word
-#### supportive
-?
-拥护的， 给予帮助的。
-
-#word
-#### sycophantic
-?
-奉承的
-
-#word
-#### toady
-?
-马屁精
-
-#word
-#### unwashed
-?
-不清洁的
-
-#word
-#### wit
-?
-机智
+*string up*
 
