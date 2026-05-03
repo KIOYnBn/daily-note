@@ -1,8 +1,7 @@
 ---
 expression: charade
-meaning: 装模作样
-date: 2026-03-24 11:15:27
-status: 了解
+meaning: '装模做样'
+date: 2026-05-03 21:23:40
+status: 新学
 type: WORD
-sentence1: I wondered why he had gone through the elaborate charade
 ---

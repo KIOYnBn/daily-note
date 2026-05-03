@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "a9c566043f7008d1",
+        "id": "f2846c622e9e6b92",
         "type": "split",
         "children": [
           {
@@ -15,35 +15,40 @@
                 "id": "56d913acdc6bab7c",
                 "type": "leaf",
                 "state": {
-                  "type": "bases",
+                  "type": "markdown",
                   "state": {
-                    "file": "word-datset.base",
-                    "viewName": "表格"
+                    "file": "积累/写作或口语积累/Adjective.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
                   },
-                  "icon": "lucide-table",
-                  "title": "word-datset"
+                  "icon": "lucide-file",
+                  "title": "Adjective"
                 }
               },
               {
                 "id": "19e8187a1e251702",
                 "type": "leaf",
                 "state": {
-                  "type": "pdf",
+                  "type": "markdown",
                   "state": {
-                    "file": "阅读材料/May/Your suck-up chatbot.pdf"
+                    "file": "积累/句型积累.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
                   },
-                  "icon": "lucide-file-text",
-                  "title": "Your suck-up chatbot"
+                  "icon": "lucide-file",
+                  "title": "句型积累"
                 }
               }
             ]
           },
           {
-            "id": "e8dd111a66dbcc37",
+            "id": "eafb01715af3ac14",
             "type": "tabs",
             "children": [
               {
-                "id": "024da205e73a11f7",
+                "id": "079a0c1052aab6c1",
                 "type": "leaf",
                 "state": {
                   "type": "terminal:terminal",
@@ -205,8 +210,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 272.5,
-    "collapsed": true
+    "width": 272.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -221,35 +225,37 @@
       "obsidian-language-learner:单词列表": false
     }
   },
-  "active": "024da205e73a11f7",
+  "active": "079a0c1052aab6c1",
   "lastOpenFiles": [
+    "积累/写作或口语积累/Adjective.md",
+    "积累/写作或口语积累/Adverb.md",
+    "积累/写作或口语积累/Conjunction.md",
+    "积累/写作或口语积累/Noun.md",
+    "积累/写作或口语积累/Verb.md",
+    "积累/长难句积累.md",
+    "积累/写作或口语积累/未命名.md",
+    "积累/句型积累.md",
+    "word-dataset/abide.md",
+    "word-dataset/filmmaking.md",
+    "word-dataset/daffy.md",
+    "阅读材料/May/Your suck-up chatbot.pdf",
+    "word-dataset/appreciate.md",
+    "积累/美句.md",
+    "积累/写作或口语积累/句式.md",
+    "口语/情景/描述自然景观.md",
+    "口语/短语.md",
+    "口语/俗语.md",
+    "口语/发音.md",
+    "口语/IELTS课程笔记.md",
+    "口语/情景/购物.md",
+    "word/附件/2026-02-03.pdf",
+    "单词/反义词/04-02-2026.md",
     "word-datset.base",
+    "word-dataset/preliminary.md",
+    "word-dataset/the extent of job growth.md",
+    "word-dataset/notoriously.md",
     "word-dataset/leftover.md",
     "word-dataset/cruellest.md",
-    "阅读材料/May/Your suck-up chatbot.pdf",
-    "word-dataset/grown.md",
-    "word-dataset/manipulation.md",
-    "积累/写作或口语积累/句子积累.md",
-    "word-dataset/bin.md",
-    "word-dataset/clean up after yourself.md",
-    "word-dataset/commendable.md",
-    "word-dataset/garbage.md",
-    "word-dataset/string.md",
-    "word-dataset/wit.md",
-    "word-dataset/parish.md",
-    "word-dataset/submissive.md",
-    "word-dataset/traffic.md",
-    "word-dataset/supportive.md",
-    "word-dataset/open-minded.md",
-    "word-dataset/sycophantic.md",
-    "word-dataset/puff.md",
-    "word-dataset/toady.md",
-    "word-dataset/anything but.md",
-    "积累/写作或口语积累/Verb.md",
-    "word-dataset/fair-minded.md",
-    "word-dataset/count on.md",
-    "word-dataset/park the wrong way.md",
-    "word-dataset/representative.md",
     "阅读材料/May",
     "阅读材料/新建文件夹",
     "阅读材料/April/Euphoria Is a Spectacle.pdf",
@@ -257,7 +263,6 @@
     "阅读材料/April/The Super Bowl.pdf",
     "阅读材料/April/You can't use this AI.pdf",
     "阅读材料/April/Vegetative states.pdf",
-    "阅读材料/April/April's poetry.pdf",
     "口语/pictures/Pasted image 20260312223001.png",
     "口语/pictures/Pasted image 20260312223754.png",
     "口语/pictures/Pasted image 20260312223936.png",

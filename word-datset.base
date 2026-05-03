@@ -4,7 +4,7 @@ views:
     filters:
       and:
         - file.folder == "word-dataset"
-        - status == "新学"
+        - status == "了解"
     order:
       - file.name
       - status
@@ -13,6 +13,8 @@ views:
       - aliases
       - file.ctime
     sort:
+      - property: sentence1
+        direction: ASC
       - property: file.ctime
         direction: ASC
     columnSize:

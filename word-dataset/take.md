@@ -2,7 +2,7 @@
 expression: take
 meaning: 看法
 date: 2026-04-30 15:10:29
-status: 了解
+status: 掌握
 type: WORD
 sentence1: My general take would be to say that "Euphoria" is really not about the acting this season.
 trans1: ""

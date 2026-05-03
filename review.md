@@ -1,50 +1,47 @@
 #flashcards
 
 #word
-#### bin
+#### abide
 ?
-垃圾桶
-**Sentences**:
-*trash bins*
+容忍， 遵守
 
 #word
-#### clean up after yourself
+#### appreciate
 ?
-自己打扫干净
-**Sentences**:
-*Your intention  to clean up after yourself is commendable.*
+理解
 
 #word
-#### commendable
+#### charade
 ?
-值得赞扬的
+装模做样
 
 #word
-#### garbage
+#### daffy
 ?
-垃圾
+愚笨的
 
 #word
-#### grown
+#### expedition
 ?
-成年的
-**Sentences**:
-*grown person*
+考察
 
 #word
-#### leftover
+#### filmmaking
 ?
-剩下的， 剩菜
+制片
 
 #word
-#### manipulation
+#### proceeding
 ?
-操纵
+事件的过程， 诉讼
 
 #word
-#### string
+#### shenanigan
 ?
-绳子， 系， 悬挂
-**Sentences**:
-*string up*
+恶作剧
+
+#word
+#### valiantly
+?
+勇敢地
 
