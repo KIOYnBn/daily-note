@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "生物化学/第二章 氨基酸， 肽， 蛋白质.md",
+                "file": "生物化学/第三章 蛋白质三维结构.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "第二章 氨基酸， 肽， 蛋白质"
+              "title": "第三章 蛋白质三维结构"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "生物化学/第三章 蛋白质三维结构.md",
+                "file": "生物化学/知识块.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "第三章 蛋白质三维结构"
+              "title": "知识块"
             }
           },
           {
@@ -103,8 +103,7 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -202,19 +201,19 @@
     }
   },
   "floating": {
-    "id": "eb2d88c07c47c182",
+    "id": "df1eed35f2f1a055",
     "type": "floating",
     "children": [
       {
-        "id": "1a06308570bd2523",
+        "id": "aaff7aef6e862209",
         "type": "window",
         "children": [
           {
-            "id": "e936972c80a00ca4",
+            "id": "7b3b7d3efb0a9cf1",
             "type": "tabs",
             "children": [
               {
-                "id": "e901ede39897ed35",
+                "id": "4f772df68d37cc08",
                 "type": "leaf",
                 "state": {
                   "type": "terminal:terminal",
@@ -266,11 +265,12 @@
       }
     ]
   },
-  "active": "e901ede39897ed35",
+  "active": "4f772df68d37cc08",
   "lastOpenFiles": [
-    "生物化学/第三章 蛋白质三维结构.md",
-    "生物化学/第二章 氨基酸， 肽， 蛋白质.md",
     "生物化学/知识块.md",
+    "生物化学/第三章 蛋白质三维结构.md",
+    "生物化学/第四章 蛋白质生物学功能.md",
+    "生物化学/第二章 氨基酸， 肽， 蛋白质.md",
     "生物化学/pictures/希腊钥匙拓扑结构.png",
     "temp.md",
     "生物化学/第一章 生命分子基础.md",
