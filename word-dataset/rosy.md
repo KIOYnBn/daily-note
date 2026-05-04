@@ -1,7 +1,8 @@
 ---
 expression: rosy
-meaning: 有希望的
+meaning: 有希望的， 有希望的
 date: 2026-03-05 12:25:14
 status: 新学
 type: WORD
+sentence1: The economic outlook is far from rosy
 ---

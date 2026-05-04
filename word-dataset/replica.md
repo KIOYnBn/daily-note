@@ -1,7 +1,8 @@
 ---
 expression: replica
 meaning: 复制品
-date: 2026-03-10 10:46:32
-status: 了解
+date: 2026-05-04 16:09:16
+status: 新学
 type: WORD
+sentence1: The designer made a miniature replica of the historic building.
 ---

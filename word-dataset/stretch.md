@@ -1,10 +1,10 @@
 ---
 expression: stretch
-meaning: 一段
-date: 2026-03-24 14:47:36
-status: 了解
+meaning: '（土地或水域的）一片'
+date: 2026-05-04 15:45:21
+status: 新学
 type: WORD
-sentence1: stretches of wild nature
-trans1: ""
-origin1: ""
+sentence1: 'stretch of highway.'
+trans1: ''
+origin1: ''
 ---

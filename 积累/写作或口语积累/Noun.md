@@ -13,3 +13,6 @@
 - a majority of： 大部分
 ## 人生重要的事
 - the real business
+## 机制
+- mechanism
+	- e.g. The market mechanism can effectively allocate resources.

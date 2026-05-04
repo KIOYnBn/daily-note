@@ -1,0 +1,7 @@
+---
+expression: aurora
+meaning: '极光'
+date: 2026-05-04 16:09:39
+status: 新学
+type: WORD
+---

@@ -1,5 +1,6 @@
 1. well <-> badly
 2. slowly <-> quickly | swiftly
+3. notoriously
 
 ## adversative relation
 1. yet

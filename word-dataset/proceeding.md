@@ -1,7 +1,8 @@
 ---
 expression: proceeding
-meaning: '事件的过程， 诉讼'
+meaning: 事件的过程， 诉讼, 行动
 date: 2026-05-03 21:28:36
 status: 新学
 type: WORD
+sentence1: They have started legal proceedings against the company.
 ---

@@ -56,6 +56,12 @@
 - Confuse sth with sth
 ## 务实（开始干正事）
 - get down to business
+## 引导
+- channel
+	- e.g. The government plans to channel more funds into green energy.
+## 下定决心
+- make up their minds
+- make decision.
 ---
 ## 人和环境
 ### 适合
