@@ -21,7 +21,7 @@
             }
           },
           {
-            "id": "87e40503898c5b33",
+            "id": "d4836b57464c7ea2",
             "type": "leaf",
             "state": {
               "type": "terminal:terminal",
@@ -129,12 +129,12 @@
               "title": "查词面板"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 359.5,
-    "collapsed": true
+    "width": 359.5
   },
   "right": {
     "id": "f8f92b5db2032903",
@@ -197,52 +197,50 @@
       }
     ],
     "direction": "horizontal",
-    "width": 272.5,
-    "collapsed": true
+    "width": 272.5
   },
   "left-ribbon": {
     "hiddenItems": {
       "graph:查看关系图谱": false,
       "daily-notes:打开/创建今天的日记": false,
       "bases:创建新数据库": false,
-      "markdown-importer:打开 Markdown 格式转换器": false,
-      "terminal:Open terminal": false,
       "obsidian-language-learner:打开查词面板": false,
       "obsidian-language-learner:打开新词面板": false,
       "obsidian-language-learner:打开统计": false,
       "obsidian-language-learner:单词列表": false,
-      "switcher:打开快速切换": false
+      "switcher:打开快速切换": false,
+      "terminal:Open terminal": false
     }
   },
-  "active": "87e40503898c5b33",
+  "active": "d4836b57464c7ea2",
   "lastOpenFiles": [
     "word-datset.base",
-    "积累/写作或口语积累/Verb.md",
-    "积累/写作或口语积累/Adverb.md",
+    "word-dataset/paralyse.md",
+    "word-dataset/socket.md",
+    "word-dataset/faulty.md",
+    "word-dataset/hurtle.md",
+    "word-dataset/impact.md",
     "单词/近义词.md",
-    "word-dataset/childish.md",
-    "word-dataset/elaborate.md",
-    "积累/写作或口语积累/prep.md",
-    "积累/写作或口语积累/Adjective.md",
-    "积累/写作或口语积累/句子积累.md",
-    "word-dataset/incumbent.md",
+    "word-dataset/cherish.md",
+    "word-dataset/stun.md",
+    "word-dataset/discharge.md",
+    "word-dataset/pragmatist.md",
+    "word-dataset/level-headed.md",
+    "word-dataset/scheme.md",
+    "word-dataset/grand.md",
+    "word-dataset/procedural.md",
+    "word-dataset/arrow.md",
+    "积累/长难句积累.md",
+    "积累/语法/虚拟语气.md",
     "阅读材料/May/Lights in the sky.pdf",
-    "word-dataset/yield.md",
-    "word-dataset/luminosity.md",
-    "word-dataset/solar.md",
-    "积累/写作或口语积累/Noun.md",
-    "word-dataset/mechanism.md",
-    "word-dataset/channel.md",
-    "word-dataset/haunting.md",
-    "word-dataset/apparatus.md",
-    "word-dataset/copper.md",
-    "word-dataset/aurora borealis.md",
-    "word-dataset/aurora.md",
-    "word-dataset/finnish.md",
-    "积累/句型积累.md",
-    "word-dataset/simultaneously.md",
-    "word-dataset/against.md",
-    "word-dataset/cityscape.md",
+    "word-dataset/phantom.md",
+    "积累/写作或口语积累/句子积累.md",
+    "word-dataset/marvel.md",
+    "word-dataset/gravity.md",
+    "word-dataset/contemplate.md",
+    "word-dataset/wrangle.md",
+    "word-dataset/inconceivably.md",
+    "word-dataset/dreamer.md",
     "阅读材料/May/Your suck-up chatbot.pdf",
     "word/附件/2026-02-03.pdf",
     "阅读材料/May",

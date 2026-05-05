@@ -16,9 +16,15 @@
 ### 表明
 - illustrate
 - manifest
+### 解释
+- account for
 ### 奠定基础
 - lay the groundwork for 
 	- Her ideas lay the groundwork for modern wireless communications
+### 取得进步/成功
+- make great progress
+- come a long way
+	- Scientists have come a long way since Lemstrom's time.
 ### 发生
 - Occur: sth. occur
 	- note: 不及物动词
@@ -52,6 +58,9 @@
 ### 弄懂
 - Figure out: Figure out sth(how to do|why?what)
 	- I finally *figured out* the rule
+- wrap their heads around auroras: 理解， 弄懂
+	- they're still trying to wrap their heads around auroras.
+- absorb
 ### 搞混
 - Confuse sth with sth
 ## 务实（开始干正事）

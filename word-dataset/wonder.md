@@ -1,10 +1,8 @@
 ---
 expression: wonder
-meaning: 奇观
-date: 2026-04-14 15:44:15
-status: 了解
+meaning: 琢磨
+date: 2026-05-05 11:50:10
+status: 新学
 type: WORD
-sentence1: the wonder of a shared national experience
-trans1: ""
-origin1: ""
+sentence1: I wonder if we truly understand electromagnetism.
 ---

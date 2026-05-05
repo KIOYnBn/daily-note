@@ -1,8 +1,7 @@
 ---
 expression: antenna
-meaning: 天线
-date: 2026-04-28 14:51:39
+meaning: '天线'
+date: 2026-05-05 11:22:59
 status: 新学
 type: WORD
-sentence1: The TV antenna is on the roof
 ---
