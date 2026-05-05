@@ -13,12 +13,52 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "生物化学/第三章 蛋白质三维结构.md",
+                "file": "生物化学/第四章 蛋白质生物学功能.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "第三章 蛋白质三维结构"
+              "title": "第四章 蛋白质生物学功能"
+            }
+          },
+          {
+            "id": "08196db3e8466816",
+            "type": "leaf",
+            "state": {
+              "type": "terminal:terminal",
+              "state": {
+                "terminal:terminal": {
+                  "cwd": "E:\\markdown\\obsidian-files\\课程作业",
+                  "focus": false,
+                  "profile": {
+                    "args": [
+                      "--login"
+                    ],
+                    "executable": "C:\\Program Files\\Git\\bin\\bash.exe",
+                    "followTheme": true,
+                    "name": "git",
+                    "platforms": {
+                      "win32": true
+                    },
+                    "pythonExecutable": "python3",
+                    "restoreHistory": false,
+                    "rightClickAction": "copyPaste",
+                    "successExitCodes": [
+                      "0",
+                      "SIGINT",
+                      "SIGTERM"
+                    ],
+                    "terminalOptions": {
+                      "documentOverride": null
+                    },
+                    "type": "integrated",
+                    "useWin32Conhost": true
+                  },
+                  "serial": null
+                }
+              },
+              "icon": "terminal",
+              "title": "终端：MINGW64:/e/markdown/obsidian-files/课程作业"
             }
           },
           {
@@ -82,7 +122,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "亚基",
+                "query": "信号",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -123,8 +163,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "遗传学/染色体结构与DNA.md",
-                "collapseAll": false,
+                "file": "生物化学/第四章 蛋白质生物学功能.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -133,7 +173,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "染色体结构与DNA 的反向链接列表"
+              "title": "第四章 蛋白质生物学功能 的反向链接列表"
             }
           },
           {
@@ -171,16 +211,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "遗传学/染色体结构与DNA.md",
+                "file": "生物化学/第四章 蛋白质生物学功能.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "染色体结构与DNA 的大纲"
+              "title": "第四章 蛋白质生物学功能 的大纲"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -200,77 +241,17 @@
       "terminal:Open terminal": false
     }
   },
-  "floating": {
-    "id": "df1eed35f2f1a055",
-    "type": "floating",
-    "children": [
-      {
-        "id": "aaff7aef6e862209",
-        "type": "window",
-        "children": [
-          {
-            "id": "7b3b7d3efb0a9cf1",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "4f772df68d37cc08",
-                "type": "leaf",
-                "state": {
-                  "type": "terminal:terminal",
-                  "state": {
-                    "terminal:terminal": {
-                      "cwd": "E:\\markdown\\obsidian-files\\课程作业",
-                      "focus": false,
-                      "profile": {
-                        "args": [
-                          "--login"
-                        ],
-                        "executable": "C:\\Program Files\\Git\\bin\\bash.exe",
-                        "followTheme": true,
-                        "name": "git",
-                        "platforms": {
-                          "win32": true
-                        },
-                        "pythonExecutable": "python3",
-                        "restoreHistory": false,
-                        "rightClickAction": "copyPaste",
-                        "successExitCodes": [
-                          "0",
-                          "SIGINT",
-                          "SIGTERM"
-                        ],
-                        "terminalOptions": {
-                          "documentOverride": null
-                        },
-                        "type": "integrated",
-                        "useWin32Conhost": true
-                      },
-                      "serial": null
-                    }
-                  },
-                  "icon": "terminal",
-                  "title": "终端：MINGW64:/e/markdown/obsidian-files/课程作业"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 341,
-        "y": 56,
-        "width": 1025,
-        "height": 800,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "4f772df68d37cc08",
+  "active": "08196db3e8466816",
   "lastOpenFiles": [
-    "生物化学/知识块.md",
-    "生物化学/第三章 蛋白质三维结构.md",
     "生物化学/第四章 蛋白质生物学功能.md",
+    "生物化学/pictures/血红素结构.png",
+    "生物学知识引用块/蛋白家族/珠蛋白.md",
     "生物化学/第二章 氨基酸， 肽， 蛋白质.md",
+    "生物学知识引用块/蛋白家族",
+    "细胞生物学/专业名词.md",
+    "细胞生物学",
+    "生物化学/第三章 蛋白质三维结构.md",
+    "生物化学/知识块.md",
     "生物化学/pictures/希腊钥匙拓扑结构.png",
     "temp.md",
     "生物化学/第一章 生命分子基础.md",
@@ -284,7 +265,6 @@
     "生物化学/pictures/蛋白质N端残基鉴定.png",
     "生物化学/pictures/缀合蛋白质分类.png",
     "生物化学/pictures/简单蛋白质分类.png",
-    "生物化学/pictures/肽键的共振杂化体.png",
     "生物化学/pictures",
     "生物化学/新建文件夹",
     "生物学知识引用块/细胞器.md",
@@ -306,12 +286,7 @@
     "遗传学/DNA复制.md",
     "遗传学/第十六章 染色体畸变.md",
     "生殖生物学/囊胚作用.md",
-    "生殖生物学/胚后发育.md",
-    "专业英语.md",
-    "生殖生物学/发育生物学.md",
     "生殖生物学final.zip",
-    "发育生物学/pictures",
-    "发育生物学/新建文件夹",
-    "发育生物学"
+    "发育生物学/pictures"
   ]
 }
