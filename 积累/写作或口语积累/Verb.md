@@ -1,5 +1,8 @@
 
 ## 事件描述
+### 以...为例
+- take
+	- Take the phenomenon of online pop music.
 ### 表达
 - frame
 	- frame sth斟酌语言、表达 / 陈述某事 

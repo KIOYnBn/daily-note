@@ -24,6 +24,19 @@
             "id": "d4836b57464c7ea2",
             "type": "leaf",
             "state": {
+              "type": "bases",
+              "state": {
+                "file": "word-datset.base",
+                "viewName": "表格"
+              },
+              "icon": "lucide-table",
+              "title": "word-datset"
+            }
+          },
+          {
+            "id": "481eed535601965b",
+            "type": "leaf",
+            "state": {
               "type": "terminal:terminal",
               "state": {
                 "terminal:terminal": {
@@ -76,7 +89,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -129,12 +142,12 @@
               "title": "查词面板"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 359.5
+    "width": 359.5,
+    "collapsed": true
   },
   "right": {
     "id": "f8f92b5db2032903",
@@ -212,35 +225,36 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "d4836b57464c7ea2",
+  "active": "481eed535601965b",
   "lastOpenFiles": [
     "word-datset.base",
-    "word-dataset/paralyse.md",
-    "word-dataset/socket.md",
-    "word-dataset/faulty.md",
-    "word-dataset/hurtle.md",
-    "word-dataset/impact.md",
+    "word-dataset/choreographer.md",
+    "word-dataset/conceive.md",
+    "word-dataset/spear.md",
+    "word-dataset/bow.md",
     "单词/近义词.md",
-    "word-dataset/cherish.md",
-    "word-dataset/stun.md",
-    "word-dataset/discharge.md",
-    "word-dataset/pragmatist.md",
-    "word-dataset/level-headed.md",
-    "word-dataset/scheme.md",
-    "word-dataset/grand.md",
-    "word-dataset/procedural.md",
-    "word-dataset/arrow.md",
-    "积累/长难句积累.md",
-    "积累/语法/虚拟语气.md",
+    "word-dataset/hub.md",
+    "word-dataset/wreck.md",
+    "单词/易混词.md",
+    "word-dataset/covert.md",
+    "word-dataset/rifle.md",
+    "阅读材料/May/The greatest living songwriters.pdf",
+    "word-dataset/luxuriate.md",
+    "word-dataset/sonic.md",
+    "word-dataset/unfurl.md",
+    "word-dataset/blurry.md",
+    "word-dataset/controlled.md",
+    "word-dataset/sensual.md",
+    "积累/写作或口语积累/prep.md",
+    "积累/写作或口语积累/Verb.md",
+    "word-dataset/urgently.md",
+    "word-dataset/treacly.md",
+    "word-dataset/smash(smash hits).md",
+    "word-dataset/soundtrack.md",
+    "word-dataset/enthusiasm.md",
+    "word-dataset/harrumph.md",
+    "word-dataset/bummed.md",
     "阅读材料/May/Lights in the sky.pdf",
-    "word-dataset/phantom.md",
-    "积累/写作或口语积累/句子积累.md",
-    "word-dataset/marvel.md",
-    "word-dataset/gravity.md",
-    "word-dataset/contemplate.md",
-    "word-dataset/wrangle.md",
-    "word-dataset/inconceivably.md",
-    "word-dataset/dreamer.md",
     "阅读材料/May/Your suck-up chatbot.pdf",
     "word/附件/2026-02-03.pdf",
     "阅读材料/May",
@@ -248,7 +262,6 @@
     "阅读材料/April/Euphoria Is a Spectacle.pdf",
     "阅读材料/April/Death by paper.pdf",
     "阅读材料/April/The Super Bowl.pdf",
-    "阅读材料/April/You can't use this AI.pdf",
     "口语/pictures/Pasted image 20260312223001.png",
     "口语/pictures/Pasted image 20260312223754.png",
     "口语/pictures/Pasted image 20260312223936.png",

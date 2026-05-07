@@ -1,8 +1,8 @@
 ---
 expression: intimate
 meaning: 亲密的
-date: 2026-04-10 17:17:04
-status: 了解
+date: 2026-05-06 14:40:21
+status: 新学
 type: WORD
-sentence1: I discussed with my intimate friends whether I would immediately have a baby
+sentence1: He did not feel he had got to kno them intimately
 ---
