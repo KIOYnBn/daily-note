@@ -1,0 +1,7 @@
+---
+expression: album
+meaning: '唱片'
+date: 2026-05-08 16:12:09
+status: 新学
+type: WORD
+---

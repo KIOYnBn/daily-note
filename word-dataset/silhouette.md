@@ -1,0 +1,7 @@
+---
+expression: silhouette
+meaning: '轮廓'
+date: 2026-05-08 17:06:30
+status: 新学
+type: WORD
+---

@@ -1,8 +1,10 @@
 ---
 expression: scam
 meaning: 欺诈
-date: 2026-04-22 15:40:33
-status: 了解
+date: 2026-05-08 17:54:55
+status: 新学
 type: WORD
-sentence1: When I told them they were being scammed, they couldn't believe it
+sentence1: When I told them they were being scammed, they couldn't believe it.
+trans1: ""
+origin1: ""
 ---

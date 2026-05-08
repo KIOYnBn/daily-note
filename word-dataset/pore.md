@@ -1,8 +1,10 @@
 ---
 expression: pore
-meaning: 仔细阅读
-date: 2026-03-16 10:47:35
-status: 了解
+meaning: '仔细阅读'
+date: 2026-05-08 16:24:43
+status: 新学
 type: WORD
-sentence1: We spent hours poring over travel brochures
+sentence1: 'She has become the most pored-over writer'
+trans1: ''
+origin1: ''
 ---

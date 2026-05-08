@@ -21,20 +21,7 @@
             }
           },
           {
-            "id": "d4836b57464c7ea2",
-            "type": "leaf",
-            "state": {
-              "type": "bases",
-              "state": {
-                "file": "word-datset.base",
-                "viewName": "表格"
-              },
-              "icon": "lucide-table",
-              "title": "word-datset"
-            }
-          },
-          {
-            "id": "481eed535601965b",
+            "id": "9fd862467a092326",
             "type": "leaf",
             "state": {
               "type": "terminal:terminal",
@@ -89,7 +76,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -142,7 +129,8 @@
               "title": "查词面板"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -210,7 +198,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 272.5
+    "width": 272.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -225,35 +214,35 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "481eed535601965b",
+  "active": "9fd862467a092326",
   "lastOpenFiles": [
     "word-datset.base",
-    "word-dataset/choreographer.md",
-    "word-dataset/conceive.md",
-    "word-dataset/spear.md",
-    "word-dataset/bow.md",
     "单词/近义词.md",
-    "word-dataset/hub.md",
-    "word-dataset/wreck.md",
-    "单词/易混词.md",
-    "word-dataset/covert.md",
-    "word-dataset/rifle.md",
     "阅读材料/May/The greatest living songwriters.pdf",
-    "word-dataset/luxuriate.md",
-    "word-dataset/sonic.md",
-    "word-dataset/unfurl.md",
-    "word-dataset/blurry.md",
-    "word-dataset/controlled.md",
-    "word-dataset/sensual.md",
-    "积累/写作或口语积累/prep.md",
-    "积累/写作或口语积累/Verb.md",
-    "word-dataset/urgently.md",
-    "word-dataset/treacly.md",
-    "word-dataset/smash(smash hits).md",
-    "word-dataset/soundtrack.md",
-    "word-dataset/enthusiasm.md",
-    "word-dataset/harrumph.md",
-    "word-dataset/bummed.md",
+    "word-dataset/perverse.md",
+    "word-dataset/vocalist.md",
+    "word-dataset/silhouette.md",
+    "word-dataset/downplay.md",
+    "word-dataset/extremism.md",
+    "word-dataset/off-the-rack.md",
+    "word-dataset/greatness.md",
+    "word-dataset/forecast.md",
+    "word-dataset/credibility.md",
+    "word-dataset/swing.md",
+    "word-dataset/delivery.md",
+    "word-dataset/entendre.md",
+    "word-dataset/pun.md",
+    "word-dataset/inflection.md",
+    "word-dataset/configuration.md",
+    "word-dataset/intricate.md",
+    "word-dataset/verse.md",
+    "word-dataset/tactician.md",
+    "word-dataset/worldly.md",
+    "word-dataset/dazzle.md",
+    "word-dataset/rant.md",
+    "word-dataset/craft.md",
+    "word-dataset/expertise.md",
+    "word-dataset/in any medium.md",
     "阅读材料/May/Lights in the sky.pdf",
     "阅读材料/May/Your suck-up chatbot.pdf",
     "word/附件/2026-02-03.pdf",
