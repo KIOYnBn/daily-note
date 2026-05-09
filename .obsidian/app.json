@@ -1,0 +1,16 @@
+{
+  "showLineNumber": false,
+  "autoPairMarkdown": false,
+  "showUnsupportedFiles": true,
+  "showInlineTitle": false,
+  "spellcheck": false,
+  "autoPairBrackets": false,
+  "mobileToolbarCommands": [
+    "editor:redo",
+    "editor:attach-file",
+    "editor:undo"
+  ],
+  "livePreview": true,
+  "defaultViewMode": "source",
+  "alwaysUpdateLinks": false
+}

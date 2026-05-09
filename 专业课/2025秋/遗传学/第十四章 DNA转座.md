@@ -1,0 +1,50 @@
+* 可转座的遗传元件： Transposable Genetic Elements
+# 细菌的转座元件
+* 插入序列 IS
+	* 半乳糖操纵子
+		* 结构： P-gal E - gal T - gal K
+			* gal E: 半乳糖差向异构酶
+			* gal T： 半乳糖-1-磷酸尿苷酰转移酶
+			* gal K： 半乳糖激酶
+		* 作用： $$ gal \xrightarrow{K} Gal-1-P \xrightarrow{T} UDP-Gal \xrightarrow{E} UDP-Gal$$
+		* 存在极性突变
+			* Gal-1-P有毒， 移码突变
+* 极性突变： 某个基因的突变影响下游基因表达
+	* 原因： 基因插入引起移码突变
+	* IS： 插入序列， 具有移动能力
+		* IS结构
+			* 转座酶(Transposase)基因
+			* 末端颠倒重复ITRs
+			* 末端直接重复DR
+				* 由交错切割产生： IS插入造成宿主序列重复
+		* DNA转座机理
+			* 非复制型转座
+				* 本身不复制， 而是一个IS不断移动
+			* 复制型转座子
+				* 复合转座子： Tn
+				* 俩ing个IS元件携带段DNA进行转座
+* 真核生物的可转座元件
+	* 示例： Ac/Ds系统
+		* Ac是一个可转座元件
+		* Ds是Ac的突变体， 没有转座酶基因
+	* 逆转座子： 借助RNA反转录成cRNA进行转座的元件
+	* 类型
+		* LTR逆转座子
+			* 与逆转录病毒基因组异同点
+				* 具有逆转录酶和整合酶
+				* LTR： 长末端重复
+					* 逆转录病毒cDNA及逆转座子两端相同重复序列
+			* 转座过程
+				* DNA->RNA->逆转录酶+整合酶
+				* $RNA \xrightarrow{逆转录酶} cRNA \xrightarrow{整合酶} 其他DNA$
+		* 非LTR逆转座子
+			* 与LTR逆转座子的异同
+				* 没有LTR
+				* 一端有AT同源区
+				* 编码逆转录酶
+				* 被RNA POL Ⅱ转录
+		* 逆转录子
+			* 与非LTR逆转座子区别
+				* 不编码蛋白
+				* 依靠非LTR反逆转座子的逆转录酶进行转座
+				* 被RNA POL Ⅲ转录

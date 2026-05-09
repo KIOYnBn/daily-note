@@ -1,0 +1,12 @@
+{
+  "cssTheme": "Phycat",
+  "accentColor": "",
+  "theme": "moonstone",
+  "textFontFamily": "Courier",
+  "interfaceFontFamily": "Courier",
+  "monospaceFontFamily": "Courier New",
+  "baseFontSizeAction": true,
+  "baseFontSize": 20,
+  "enabledCssSnippets": [],
+  "showViewHeader": false
+}

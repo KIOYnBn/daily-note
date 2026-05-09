@@ -1,0 +1,202 @@
+{
+  "main": {
+    "id": "95d4242a27bcb697",
+    "type": "split",
+    "children": [
+      {
+        "id": "8470d9d50d03f924",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0641cfa0537c9ec8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "科研/单细胞测序.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "单细胞测序"
+            }
+          },
+          {
+            "id": "805d0c05bb6fab92",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "专业课/2025秋/遗传学/DNA复制.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "DNA复制"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "17528e87c721f043",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "1a691248b7fb5878",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "文件列表"
+        }
+      },
+      {
+        "id": "6f94a37fe00f51c3",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": true,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "搜索"
+        }
+      },
+      {
+        "id": "c75b8c1092f111a6",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "书签"
+        }
+      },
+      {
+        "id": "40b9843093d561aa",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-archive",
+          "title": "添加笔记属性"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "1b7329f95bee26d8",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "659e3f9ed5d1ea8b",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "实验技术/质谱.md",
+            "followCursor": true,
+            "showSearch": true,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "大纲"
+        }
+      },
+      {
+        "id": "376ce7b288645f6e",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "专业课/生殖生物学/发育生物学.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "反向链接"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:创建新数据库": false,
+      "graph:查看关系图谱": false,
+      "daily-notes:打开/创建今天的日记": false
+    }
+  },
+  "active": "0641cfa0537c9ec8",
+  "lastOpenFiles": [
+    "科研/单细胞分析流程.md",
+    "科研/单细胞测序.md",
+    "科研/降维聚类.md",
+    "ppt思路.md",
+    "科研",
+    "实验技术/质谱.md",
+    "专业课/分子生物学.md",
+    "pictures/CLAMP LOADER.jpg",
+    "pictures/DNA复制的解旋过程.png",
+    "pictures/真核生物复制时解旋酶激活.png",
+    "pictures/E.coli replicon.png",
+    "专业课/2025秋/遗传学/DNA复制.md",
+    "专业课/2025秋/遗传学/转录.md",
+    "专业课/2025秋/遗传学/遗传学Genetics.md",
+    "日记/2026-03-11.md",
+    "专业课/蛋白质组学.md",
+    "专业课/政治/第九章 全面依法治国.md",
+    "专业课/政治/第七章 社会主义现代化建设的教育， 科技， 人才战略.md",
+    "专业课/政治/第六章 推动高质量发展.md",
+    "专业课/政治/第五章 全面深化改革.md",
+    "生物学基本概念/核酸酶.md",
+    "实验技术/色谱/HPLC高效液相色谱仪.md",
+    "实验技术/色谱/MudPIT.md",
+    "专业课/基因组学.md",
+    "专业课/人类进化生物学.md",
+    "专业课/政治/第三章 坚持党的全面领导.md",
+    "专业课/政治/第二章.md",
+    "专业课/政治/第四章 坚持以人民为中心.md",
+    "专业课/政治.md",
+    "未命名.base",
+    "专业课/神经生物学概论.md",
+    "实验技术/色谱",
+    "实验技术/电泳/按介质分/聚丙烯酰胺凝胶电泳.md",
+    "实验技术/电泳/按分离原理分类",
+    "实验技术/电泳/按介质分",
+    "pictures/原核生物的DNA POL类型.jpg",
+    "实验技术/测序",
+    "生物学基本概念",
+    "pictures/11-23翻译.jpg",
+    "未命名 2.base",
+    "未命名 1.base",
+    "实验技术/电泳",
+    "pictures/DNA手指结构域.jpg",
+    "pictures/DNA聚合酶活性.jpg",
+    "pictures/DNA POL区分dNTP, rNTP.jpg",
+    "pictures/DNA合成亲核反应.jpg",
+    "未命名.canvas"
+  ]
+}
