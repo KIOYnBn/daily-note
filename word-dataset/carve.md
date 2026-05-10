@@ -1,10 +1,8 @@
 ---
 expression: carve
-meaning: 开创
-date: 2026-04-10 16:53:41
-status: 了解
+meaning: 雕刻， 冲蚀， 割下
+date: 2026-05-09 20:57:24
+status: 新学
 type: WORD
-sentence1: carve an incursion into the snow bank
-trans1: ""
-origin1: ""
+sentence1: One of the prisoners has carved a beautiful wooden chess set.
 ---

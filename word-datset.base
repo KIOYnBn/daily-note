@@ -4,7 +4,7 @@ views:
     filters:
       and:
         - file.folder == "word-dataset"
-        - status == "新学"
+        - status == "了解"
     order:
       - file.name
       - status
@@ -20,6 +20,6 @@ views:
     columnSize:
       file.name: 184
       note.status: 121
-      note.sentence1: 746
+      note.sentence1: 610
       note.meaning: 157
       note.aliases: 7

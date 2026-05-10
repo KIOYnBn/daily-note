@@ -4,4 +4,7 @@
 ## 否定
 - far from
 	- e.g. The economic outlook is far from rosy.
-## 以..为例
+## 为了
+as to
+## 就..而言
+as to

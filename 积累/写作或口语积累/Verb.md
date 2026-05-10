@@ -3,6 +3,8 @@
 ### 以...为例
 - take
 	- Take the phenomenon of online pop music.
+## 以...为主体
+- make up the bulk of
 ### 表达
 - frame
 	- frame sth斟酌语言、表达 / 陈述某事 
