@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "d091b79f5e16bdbd",
+        "id": "c4c7f5667bc09814",
         "type": "split",
         "children": [
           {
@@ -17,23 +17,23 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "文献阅读/蛋白质与配体结合/笔记/AF2BIND/笔记.md",
+                    "file": "工具使用/git.md",
                     "mode": "source",
                     "source": false,
                     "backlinks": false
                   },
                   "icon": "lucide-file",
-                  "title": "笔记"
+                  "title": "git"
                 }
               }
             ]
           },
           {
-            "id": "dedb5cb93fd3a146",
+            "id": "c6861f0bb80aa0da",
             "type": "tabs",
             "children": [
               {
-                "id": "7f03294cf4da735f",
+                "id": "956ca600cff32007",
                 "type": "leaf",
                 "pinned": true,
                 "state": {
@@ -180,44 +180,44 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "7f03294cf4da735f",
+  "active": "956ca600cff32007",
   "lastOpenFiles": [
-    "文献阅读/蛋白质与配体结合/笔记/AF2BIND/笔记.md",
-    "文献阅读/蛋白质与配体结合/笔记/AF2BIND/RMSD.md",
-    "文献阅读/蛋白质与配体结合/笔记/AF2BIND/SiteMap.md",
+    "工具使用/git.md",
+    "工具使用/安卓git教程.md",
+    "蛋白质组学/基于功能的数据挖掘.md",
+    "蛋白质组学/定量蛋白.md",
+    "蛋白质组学/定量蛋白质组学.md",
+    "蛋白质组学/基于蛋白质表达量的数据挖掘.md",
+    "蛋白质组学/差异分析.md",
+    "蛋白质组学/笔记.md",
+    "数据库/蛋白质/蛋白质功能/InterPro.md",
+    "数据库/蛋白质/蛋白质功能",
+    "数据库/蛋白质",
+    "数据库",
+    "蛋白质组学",
+    "工具使用/编程语言/python基础/上下文管理器.md",
+    "工具使用/编程语言/python基础/数据类型.md",
+    "工具使用/编程语言/python基础/文件操作.md",
+    "工具使用/编程语言/python基础/异常处理.md",
+    "工具使用/编程语言/python基础/语句.md",
+    "工具使用/编程语言/python基础/运算符.md",
+    "工具使用/编程语言/python基础/正则表达式.md",
+    "工具使用/编程语言/python基础/json.md",
+    "工具使用/编程语言/python基础/类/__slots__.md",
+    "工具使用/编程语言/python基础/类/元编程.md",
+    "工具使用/编程语言/python基础/类/面向对象编程OOP.md",
+    "工具使用/编程语言/python基础/包.md",
+    "工具使用/编程语言/python基础/6_Python 进阶：网络编程基础全面解析.md",
+    "工具使用/编程语言/python基础/迭代器.md",
+    "生物信息学内容导航/山东大学课程/生物数据库.md",
+    "AtomModel科研项目/蛋白质数据特征处理方法.md",
+    "生物信息学内容导航/山东大学课程/进化.md",
+    "文献阅读/蛋白质与配体结合/笔记/A novel methodology",
     "文献阅读/蛋白质与配体结合/笔记/文献阅读总结.base",
     "文献阅读/蛋白质与配体结合/笔记/AF2BIND/AF2BIND.pdf",
-    "生物信息学内容导航/山东大学课程/生物数据库.md",
-    "工具使用/编程语言/c语言基础/数据类型/自定义数据类型.md",
-    "工具使用/编程语言/c语言基础/打包操作.md",
-    "工具使用/编程语言/c语言基础/命令行参数.md",
-    "工具使用/编程语言/c语言基础/环境变量.md",
-    "工具使用/编程语言/c语言基础/函数.md",
-    "工具使用/编程语言/c语言基础/关键字.md",
-    "工具使用/编程语言/c语言基础/错误处理.md",
-    "工具使用/编程语言/c语言基础/标识符.md",
-    "工具使用/编程语言/python基础/第三方库/matplotlib turorial/基本操作.md",
-    "工具使用/编程语言/python基础/第三方库/matplotlib turorial/坐标轴.md",
     "工具使用/matplotlib turorial.zip",
-    "工具使用/编程语言/python基础/第三方库/matplotlib turorial/Artist.md",
-    "工具使用/编程语言/python基础/第三方库/matplotlib turorial/GUI-tk.md",
-    "工具使用/编程语言/python基础/第三方库/matplotlib turorial/文本.md",
-    "工具使用/编程语言/python基础/第三方库/matplotlib turorial/图类型.md",
-    "工具使用/编程语言/python基础/第三方库/matplotlib turorial/图交互.md",
-    "工具使用/编程语言/python基础/第三方库/matplotlib turorial/图基本操作.md",
-    "工具使用/编程语言/python基础/第三方库/matplotlib turorial/后端.md",
-    "写作/数据处理.md",
     "写作",
-    "工具使用/编程语言/c语言基础/程序思想.md",
     "文献阅读/蛋白质与配体结合/笔记/AF2BIND",
-    "工具使用/编程语言/c语言基础/头文件.md",
-    "领域了解/AI/智能体/常见术语.md",
-    "工具使用/编程语言/c语言基础/数据结构/链表.md",
-    "领域了解/AI/智能体",
-    "工具使用/编程语言/c语言基础/数据结构",
-    "工具使用/编程语言/html/Untitled-1.py",
-    "工具使用/编程语言/html",
-    "工具使用/科研软件/生信工具",
     "生物信息学内容导航/山东大学课程/pictures/局部比对算法.png",
     "生物信息学内容导航/山东大学课程/pictures/CATH.png",
     "生物信息学内容导航/山东大学课程/pictures/SCOP2.png",

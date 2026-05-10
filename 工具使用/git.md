@@ -10,7 +10,7 @@
 	添加
 		Host github.com
 			HostName ssh.github.com
-			Port 433
+			Port 443
 			User git
 			IdentityFile ~/.ssh/配置文件的名字
 
@@ -43,3 +43,38 @@ test： test
 * feature
 * release
 * hotfix: fix
+```
+
+# 安卓git教程
+*软件*： Termux
+## 配置流程
+1. 安装Termux
+2. 基础软件安装
+```
+apt update
+apt install git
+pkg install vim
+```
+3. 更改默认启动路径
+```
+cd ~/.termux
+vim termux.properties
+default-working-directory = /storage/emulated/0(鸿蒙）
+```
+4. 给目标路径添加为安全路径
+```
+git config --global --add safe.directory /xxx/xxx/xxx
+```
+5. git配置
+```
+git config --global user.name "名字" 
+git config --global user.email "邮箱@xxx.com"
+ssh-keygen -t rsa -C "mail@example.com" -f ~/.ssh/自定义令牌问价名称
+vim ~/.ssh/config
+	添加
+		Host github.com
+			HostName ssh.github.com
+			Port 443
+			User git
+			IdentityFile ~/.ssh/配置文件的名字
+```
