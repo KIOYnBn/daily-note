@@ -1,10 +1,8 @@
 ---
 expression: agency
-meaning: 社会行为者独立选择的能力
-date: 2026-05-08 16:26:52
-status: 了解
+meaning: 机构
+date: 2026-05-12 15:51:43
+status: 新学
 type: WORD
-sentence1: the agency and emotional lives of young women
-trans1: ""
-origin1: ""
+sentence1: She is calling for a collaboration of local, state and federal agencies to deal with the problem
 ---

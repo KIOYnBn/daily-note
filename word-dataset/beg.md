@@ -1,7 +1,7 @@
 ---
 expression: beg
-meaning: 乞求
-date: 2026-04-22 15:22:38
-status: 了解
+meaning: '乞求'
+date: 2026-05-12 16:42:06
+status: 新学
 type: WORD
 ---

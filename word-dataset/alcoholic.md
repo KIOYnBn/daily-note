@@ -2,7 +2,7 @@
 expression: alcoholic
 meaning: 酒鬼
 date: 2026-05-10 13:45:12
-status: 新学
+status: 了解
 type: WORD
 sentence1: He showed great courage by admitting on television that he is an alcoholic
 ---

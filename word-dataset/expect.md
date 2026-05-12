@@ -1,7 +1,8 @@
 ---
 expression: expect
-meaning: 预期
-date: 2026-03-24 10:21:57
-status:
+meaning: 预计
+date: 2026-05-12 16:07:01
+status: 新学
 type: WORD
+sentence1: I wasn't expecting a visitor
 ---

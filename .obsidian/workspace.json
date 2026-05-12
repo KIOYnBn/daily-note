@@ -21,7 +21,7 @@
             }
           },
           {
-            "id": "c98d859f3dc8b916",
+            "id": "26f9a175fb25a2e6",
             "type": "leaf",
             "state": {
               "type": "terminal:terminal",
@@ -58,6 +58,18 @@
               },
               "icon": "terminal",
               "title": "终端：MINGW64:/e/markdown/obsidian-files/english"
+            }
+          },
+          {
+            "id": "c98d859f3dc8b916",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "阅读材料/May/Going for broke.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Going for broke"
             }
           }
         ],
@@ -114,8 +126,7 @@
               "title": "查词面板"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -198,35 +209,35 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "c98d859f3dc8b916",
+  "active": "26f9a175fb25a2e6",
   "lastOpenFiles": [
     "word-datset.base",
-    "word-dataset/scalp.md",
-    "word-dataset/strategically.md",
-    "word-dataset/acupuncture.md",
-    "word-dataset/go on.md",
-    "word-dataset/foul.md",
-    "阅读材料/May/Going for broke.pdf",
-    "word-dataset/hole.md",
+    "word-dataset/disruptive.md",
+    "word-dataset/possession.md",
+    "word-dataset/prize.md",
     "积累/单词/近义词.md",
-    "word-dataset/compound.md",
-    "word-dataset/take sth. to the bank.md",
-    "word-dataset/mortgage.md",
-    "word-dataset/pummel.md",
-    "word-dataset/check.md",
-    "word-dataset/stimulus.md",
-    "word-dataset/candy.md",
-    "word-dataset/cost.md",
-    "word-dataset/inequitable.md",
-    "word-dataset/character.md",
-    "word-dataset/corrupt.md",
-    "word-dataset/ledger.md",
-    "word-dataset/throw caution to the wind.md",
-    "word-dataset/treasury.md",
-    "word-dataset/party.md",
-    "word-dataset/medicare.md",
-    "word-dataset/capital return.md",
-    "word-dataset/belt.md",
+    "word-dataset/ferociously.md",
+    "word-dataset/grossly.md",
+    "积累/单词/易混词.md",
+    "word-dataset/brass.md",
+    "word-dataset/forensic.md",
+    "word-dataset/shape up.md",
+    "word-dataset/exaggerate.md",
+    "word-dataset/hostess.md",
+    "word-dataset/rear.md",
+    "word-dataset/storyline.md",
+    "阅读材料/May/Going for broke.pdf",
+    "word-dataset/shrink.md",
+    "word-dataset/retire.md",
+    "word-dataset/boom.md",
+    "word-dataset/mess.md",
+    "word-dataset/way out of.md",
+    "word-dataset/bet.md",
+    "word-dataset/collectively.md",
+    "word-dataset/hyperinflation.md",
+    "word-dataset/cash.md",
+    "word-dataset/starve.md",
+    "word-dataset/skyrocket.md",
     "阅读材料/May/Lights in the sky.pdf",
     "积累/单词/特定单词用法",
     "复习记录",

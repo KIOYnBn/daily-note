@@ -1,170 +1,183 @@
 #flashcards
 
 #word
-#### acupuncture
+#### agency
 ?
-针灸
-
-#word
-#### belt
-?
-腰带
-
-#word
-#### call for
-?
-需要
+机构
 **Sentences**:
-*a serious problem calling for immediate action*
+*She is calling for a collaboration of local, state and federal agencies to deal with the problem*
 
 #word
-#### candy
+#### beg
 ?
-糖果
+乞求
 
 #word
-#### capital return
+#### bet
 ?
-资本收益率
+打赌
 
 #word
-#### character
+#### boom
 ?
-品质
+繁荣
 
 #word
-#### check
+#### brass
 ?
-支票
+黄铜
 
 #word
-#### compound
+#### buckle
 ?
-加重
+屈服， 让步， 纽扣
 
 #word
-#### corrupt
+#### cash
 ?
-腐败的
+现金
 
 #word
-#### cost
+#### collectively
 ?
-成本
+共同地
+
+#word
+#### credit
+?
+信用
+
+#word
+#### default
+?
+违约
+
+#word
+#### disruptive
+?
+破坏的
+
+#word
+#### exaggerate
+?
+夸大
+
+#word
+#### expect
+?
+预计
 **Sentences**:
-*borrowing cost*
+*I wasn't expecting a visitor*
 
 #word
-#### defect
+#### ferociously
 ?
-背叛， 缺点
-**Sentences**:
-*He was born with a hearing defect.*
+残忍地
 
 #word
-#### foul
+#### fiscal
 ?
-下流的
+财政的
 
 #word
-#### go on
+#### forensic
 ?
-进行， 发生
+法医的
 
 #word
-#### hole
+#### grossly
 ?
-洞
+非常
 
 #word
-#### humiliate
+#### hawk
 ?
-蒙羞
+鹰派分子
 
 #word
-#### inequitable
+#### hike
 ?
-不公平的
+价格提高， 远足
 
 #word
-#### ledger
+#### hostess
 ?
-账本
+女主人， 女服务员
 
 #word
-#### medicare
+#### hyperinflation
 ?
-医疗保健制度
+通货膨胀
 
 #word
-#### mortgage
+#### mess
 ?
-抵押
+困境
 
 #word
-#### party
+#### possession
 ?
-党派
+个人财产
 
 #word
-#### pummel
+#### prize
 ?
-击， 打
-
-#word
-#### referendum
-?
-全民投票
-
-#word
-#### scalp
-?
-头皮
-
-#word
-#### scandal
-?
-丑闻， 流言蜚语
-
-#word
-#### smuggle
-?
-走私
+珍视， 珍贵的
 **Sentences**:
 **
 
 #word
-#### stewed
+#### projection
 ?
-焦虑不安的
+预测
 
 #word
-#### stimulus
+#### protract
 ?
-刺激
+延伸
 
 #word
-#### strategically
+#### rate
 ?
-战略上地
+评定
 
 #word
-#### take sth. to the bank
+#### rear
 ?
-深信不疑， 吃透规律
+养育， 栽种， 饲养
 
 #word
-#### throw caution to the wind
+#### reckon
 ?
-不顾一切
+估算
 
 #word
-#### treasury
+#### retire
 ?
-财政部，国库
+偿清债务
 
 #word
-#### trillion
+#### shrink
 ?
-万亿
+减少
+
+#word
+#### skyrocket
+?
+价格飞涨
+
+#word
+#### starve
+?
+使其缺乏
+
+#word
+#### storyline
+?
+故事情节
+
+#word
+#### way out of
+?
+远离
 
