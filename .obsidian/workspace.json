@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "1a9bc9d16eceea72",
+        "id": "54c84af96735985b",
         "type": "split",
         "children": [
           {
@@ -17,25 +17,24 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "工具使用/编程语言/Cython/笔记.md",
+                    "file": "工具使用/编程语言/Cython/Cython.md",
                     "mode": "source",
                     "source": false,
                     "backlinks": false
                   },
                   "icon": "lucide-file",
-                  "title": "笔记"
+                  "title": "Cython"
                 }
               }
             ]
           },
           {
-            "id": "6cab7dc29c44ec3f",
+            "id": "4f75d938ef5615b5",
             "type": "tabs",
             "children": [
               {
-                "id": "91d3a8f06d792516",
+                "id": "e829210785d1e747",
                 "type": "leaf",
-                "pinned": true,
                 "state": {
                   "type": "terminal:terminal",
                   "state": {
@@ -69,7 +68,6 @@
                       "serial": null
                     }
                   },
-                  "pinned": true,
                   "icon": "terminal",
                   "title": "终端：MINGW64:/e/markdown/obsidian-files/科研"
                 }
@@ -173,16 +171,13 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "pdf-plus:PDF++: Toggle auto-copy": false,
-      "pdf-plus:PDF++: Toggle auto-focus": false,
-      "pdf-plus:PDF++: Toggle auto-paste": false,
       "bases:创建新数据库": false,
       "terminal:Open terminal": false
     }
   },
-  "active": "91d3a8f06d792516",
+  "active": "e829210785d1e747",
   "lastOpenFiles": [
-    "工具使用/编程语言/Cython/笔记.md",
+    "工具使用/编程语言/Cython/Cython.md",
     "工具使用/编程语言/Cython",
     "工具使用/git.md",
     "工具使用/安卓git教程.md",

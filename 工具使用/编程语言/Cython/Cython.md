@@ -86,13 +86,13 @@ from Cython.Build import cythonize
 
 setup(
     name="demo",
-    ext_modules=cythonize("demo.pyx", compiler_directives={"language_level": "3"})
+    ext_modules=cythonize("demo.pyx")
 )
 ```
 ### 3. 编译并运行
 ```bash
 rm -rf build *.so && python setup.py build_ext --inplace
-python -c "import demo; print(demo.sum_n(1000000))"
+python setup.py build_ext --inplace
 ```
 ## 五、常用编译选项
 
