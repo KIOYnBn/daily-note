@@ -1,7 +1,8 @@
 ---
 expression: elbow
 meaning: 肘
-date: 2026-03-19 21:32:17
-status: 了解
+date: 2026-05-13 15:18:54
+status: 新学
 type: WORD
+sentence1: He slipped and fell, badly bruising and elbow
 ---

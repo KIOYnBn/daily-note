@@ -21,7 +21,7 @@
             }
           },
           {
-            "id": "26f9a175fb25a2e6",
+            "id": "12707f011eea4640",
             "type": "leaf",
             "state": {
               "type": "terminal:terminal",
@@ -59,18 +59,6 @@
               "icon": "terminal",
               "title": "终端：MINGW64:/e/markdown/obsidian-files/english"
             }
-          },
-          {
-            "id": "c98d859f3dc8b916",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "阅读材料/May/Going for broke.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Going for broke"
-            }
           }
         ],
         "currentTab": 1
@@ -105,7 +93,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "萦绕",
+                "query": "buckle",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -126,12 +114,12 @@
               "title": "查词面板"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 374.5,
-    "collapsed": true
+    "width": 374.5
   },
   "right": {
     "id": "f8f92b5db2032903",
@@ -194,7 +182,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 272.5
+    "width": 272.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -209,35 +198,36 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "26f9a175fb25a2e6",
+  "active": "12707f011eea4640",
   "lastOpenFiles": [
     "word-datset.base",
-    "word-dataset/disruptive.md",
-    "word-dataset/possession.md",
-    "word-dataset/prize.md",
+    "word-dataset/laughter.md",
+    "word-dataset/cheque.md",
+    "word-dataset/loan.md",
+    "word-dataset/expand.md",
     "积累/单词/近义词.md",
-    "word-dataset/ferociously.md",
-    "word-dataset/grossly.md",
-    "积累/单词/易混词.md",
-    "word-dataset/brass.md",
-    "word-dataset/forensic.md",
-    "word-dataset/shape up.md",
-    "word-dataset/exaggerate.md",
-    "word-dataset/hostess.md",
-    "word-dataset/rear.md",
-    "word-dataset/storyline.md",
+    "word-dataset/chaos.md",
+    "word-dataset/coarsely.md",
+    "word-dataset/comedian.md",
+    "word-dataset/slam.md",
     "阅读材料/May/Going for broke.pdf",
-    "word-dataset/shrink.md",
-    "word-dataset/retire.md",
-    "word-dataset/boom.md",
-    "word-dataset/mess.md",
-    "word-dataset/way out of.md",
-    "word-dataset/bet.md",
-    "word-dataset/collectively.md",
-    "word-dataset/hyperinflation.md",
-    "word-dataset/cash.md",
-    "word-dataset/starve.md",
-    "word-dataset/skyrocket.md",
+    "阅读材料/May/Word of wisdom.pdf",
+    "word-dataset/best.md",
+    "word-dataset/blur.md",
+    "word-dataset/polio.md",
+    "word-dataset/wear out.md",
+    "word-dataset/rust out.md",
+    "word-dataset/rust.md",
+    "word-dataset/motto.md",
+    "word-dataset/reframe.md",
+    "word-dataset/lighthearted.md",
+    "word-dataset/quilter.md",
+    "word-dataset/quilt.md",
+    "word-dataset/handful.md",
+    "word-dataset/favorite expression.md",
+    "word-dataset/reminder.md",
+    "word-dataset/pithy.md",
+    "word-dataset/find oneself doing sth.md",
     "阅读材料/May/Lights in the sky.pdf",
     "积累/单词/特定单词用法",
     "复习记录",
@@ -245,7 +235,6 @@
     "阅读材料/May/Your suck-up chatbot.pdf",
     "word/附件/2026-02-03.pdf",
     "阅读材料/May",
-    "阅读材料/新建文件夹",
     "口语/pictures/Pasted image 20260312223001.png",
     "口语/pictures/Pasted image 20260312223754.png",
     "口语/pictures/Pasted image 20260312223936.png",

@@ -1,183 +1,168 @@
 #flashcards
 
 #word
-#### agency
+#### best
 ?
-机构
+胜过
+
+#word
+#### blur
+?
+模糊
+
+#word
+#### chaos
+?
+混乱
+
+#word
+#### cheque
+?
+支票
+
+#word
+#### coarsely
+?
+粗俗的
+
+#word
+#### comedian
+?
+喜剧演员
+
+#word
+#### elbow
+?
+肘
 **Sentences**:
-*She is calling for a collaboration of local, state and federal agencies to deal with the problem*
+*He slipped and fell, badly bruising and elbow*
 
 #word
-#### beg
+#### encompass
 ?
-乞求
+包含
 
 #word
-#### bet
+#### expand
 ?
-打赌
-
-#word
-#### boom
-?
-繁荣
-
-#word
-#### brass
-?
-黄铜
-
-#word
-#### buckle
-?
-屈服， 让步， 纽扣
-
-#word
-#### cash
-?
-现金
-
-#word
-#### collectively
-?
-共同地
-
-#word
-#### credit
-?
-信用
-
-#word
-#### default
-?
-违约
-
-#word
-#### disruptive
-?
-破坏的
-
-#word
-#### exaggerate
-?
-夸大
-
-#word
-#### expect
-?
-预计
-**Sentences**:
-*I wasn't expecting a visitor*
-
-#word
-#### ferociously
-?
-残忍地
-
-#word
-#### fiscal
-?
-财政的
-
-#word
-#### forensic
-?
-法医的
-
-#word
-#### grossly
-?
-非常
-
-#word
-#### hawk
-?
-鹰派分子
-
-#word
-#### hike
-?
-价格提高， 远足
-
-#word
-#### hostess
-?
-女主人， 女服务员
-
-#word
-#### hyperinflation
-?
-通货膨胀
-
-#word
-#### mess
-?
-困境
-
-#word
-#### possession
-?
-个人财产
-
-#word
-#### prize
-?
-珍视， 珍贵的
+细谈
 **Sentences**:
 **
 
 #word
-#### projection
+#### favorite expression
 ?
-预测
+口头禅（口语）
 
 #word
-#### protract
+#### find oneself doing sth
 ?
-延伸
+不知不觉就
 
 #word
-#### rate
+#### forbid
 ?
-评定
+禁止
 
 #word
-#### rear
+#### handful
 ?
-养育， 栽种， 饲养
+少量
+**Sentences**:
+*We have picked a handful of reader's responses to share in today's newsletter*
 
 #word
-#### reckon
+#### heaven forbid
 ?
-估算
+但愿不可能（口语）
 
 #word
-#### retire
+#### laugher
 ?
-偿清债务
+笑声
 
 #word
-#### shrink
+#### lighthearted
 ?
-减少
+快乐的
 
 #word
-#### skyrocket
+#### loan
 ?
-价格飞涨
+贷款
 
 #word
-#### starve
+#### motto
 ?
-使其缺乏
+格言
 
 #word
-#### storyline
+#### pithy
 ?
-故事情节
+精炼的
 
 #word
-#### way out of
+#### polio
 ?
-远离
+小儿麻痹症
+
+#word
+#### quilt
+?
+缝被子， 被子
+
+#word
+#### quilter
+?
+缝被子的人
+
+#word
+#### reframe
+?
+再定义
+
+#word
+#### reminder
+?
+提示
+
+#word
+#### rust
+?
+生锈
+
+#word
+#### rust out
+?
+完全生锈
+
+#word
+#### serve
+?
+端上
+
+#word
+#### slam
+?
+砰的关上， 冲
+
+#word
+#### sneer
+?
+嘲讽
+
+#word
+#### stick around
+?
+停留
+
+#word
+#### wear out
+?
+磨损
+
+#word
+#### yuck
+?
+讨厌的东西
 
