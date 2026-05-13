@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "c4c7f5667bc09814",
+        "id": "1a9bc9d16eceea72",
         "type": "split",
         "children": [
           {
@@ -17,23 +17,23 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "工具使用/git.md",
+                    "file": "工具使用/编程语言/Cython/笔记.md",
                     "mode": "source",
                     "source": false,
                     "backlinks": false
                   },
                   "icon": "lucide-file",
-                  "title": "git"
+                  "title": "笔记"
                 }
               }
             ]
           },
           {
-            "id": "c6861f0bb80aa0da",
+            "id": "6cab7dc29c44ec3f",
             "type": "tabs",
             "children": [
               {
-                "id": "956ca600cff32007",
+                "id": "91d3a8f06d792516",
                 "type": "leaf",
                 "pinned": true,
                 "state": {
@@ -180,8 +180,10 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "956ca600cff32007",
+  "active": "91d3a8f06d792516",
   "lastOpenFiles": [
+    "工具使用/编程语言/Cython/笔记.md",
+    "工具使用/编程语言/Cython",
     "工具使用/git.md",
     "工具使用/安卓git教程.md",
     "蛋白质组学/基于功能的数据挖掘.md",
@@ -211,13 +213,11 @@
     "工具使用/编程语言/python基础/迭代器.md",
     "生物信息学内容导航/山东大学课程/生物数据库.md",
     "AtomModel科研项目/蛋白质数据特征处理方法.md",
-    "生物信息学内容导航/山东大学课程/进化.md",
     "文献阅读/蛋白质与配体结合/笔记/A novel methodology",
     "文献阅读/蛋白质与配体结合/笔记/文献阅读总结.base",
     "文献阅读/蛋白质与配体结合/笔记/AF2BIND/AF2BIND.pdf",
     "工具使用/matplotlib turorial.zip",
     "写作",
-    "文献阅读/蛋白质与配体结合/笔记/AF2BIND",
     "生物信息学内容导航/山东大学课程/pictures/局部比对算法.png",
     "生物信息学内容导航/山东大学课程/pictures/CATH.png",
     "生物信息学内容导航/山东大学课程/pictures/SCOP2.png",
