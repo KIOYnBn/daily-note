@@ -2,7 +2,7 @@
 expression: chaos
 meaning: 混乱
 date: 2026-05-13 15:50:38
-status: 新学
+status: 了解
 type: WORD
-sentence1: The world's first transatlantic ballon race
+sentence1: The room was in chaos.
 ---
