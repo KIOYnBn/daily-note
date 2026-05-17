@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "54c84af96735985b",
+        "id": "4599f60bfb3e9ddb",
         "type": "split",
         "children": [
           {
@@ -17,23 +17,23 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "工具使用/编程语言/Cython/Cython.md",
+                    "file": "工具使用/编程语言/C++/笔记.md",
                     "mode": "source",
                     "source": false,
                     "backlinks": false
                   },
                   "icon": "lucide-file",
-                  "title": "Cython"
+                  "title": "笔记"
                 }
               }
             ]
           },
           {
-            "id": "4f75d938ef5615b5",
+            "id": "7ecd435170cfcc3c",
             "type": "tabs",
             "children": [
               {
-                "id": "e829210785d1e747",
+                "id": "15c0a50aded2118d",
                 "type": "leaf",
                 "state": {
                   "type": "terminal:terminal",
@@ -175,8 +175,27 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "e829210785d1e747",
+  "active": "15c0a50aded2118d",
   "lastOpenFiles": [
+    "工具使用/编程语言/C++/笔记.md",
+    "工具使用/编程语言/c语言基础/语句/puts.md",
+    "工具使用/编程语言/C++",
+    "工具使用/编程语言/c语言基础/语句/printf.md",
+    "工具使用/编程语言/c语言基础/语句/循环.md",
+    "工具使用/编程语言/c语言基础/语句/判断.md",
+    "工具使用/编程语言/c语言基础/语句/读取函数与解析函数.md",
+    "工具使用/编程语言/c语言基础/标识符.md",
+    "工具使用/编程语言/c语言基础/程序思想.md",
+    "工具使用/编程语言/c语言基础/错误处理.md",
+    "工具使用/编程语言/c语言基础/打包操作.md",
+    "工具使用/编程语言/c语言基础/关键字.md",
+    "工具使用/编程语言/c语言基础/函数.md",
+    "工具使用/编程语言/c语言基础/环境变量.md",
+    "工具使用/编程语言/c语言基础/命令行参数.md",
+    "工具使用/编程语言/c语言基础/头文件.md",
+    "工具使用/编程语言/c语言基础/栈内存和堆内存.md",
+    "工具使用/编程语言/c语言基础/注释.md",
+    "文献阅读/药物/Computational and AI-Driven Ecosystem for Structure-Based Covalent Drug Discovery/笔记.md",
     "工具使用/编程语言/Cython/Cython.md",
     "工具使用/编程语言/Cython",
     "工具使用/git.md",
@@ -186,33 +205,14 @@
     "蛋白质组学/定量蛋白质组学.md",
     "蛋白质组学/基于蛋白质表达量的数据挖掘.md",
     "蛋白质组学/差异分析.md",
-    "蛋白质组学/笔记.md",
-    "数据库/蛋白质/蛋白质功能/InterPro.md",
     "数据库/蛋白质/蛋白质功能",
     "数据库/蛋白质",
     "数据库",
     "蛋白质组学",
-    "工具使用/编程语言/python基础/上下文管理器.md",
-    "工具使用/编程语言/python基础/数据类型.md",
-    "工具使用/编程语言/python基础/文件操作.md",
-    "工具使用/编程语言/python基础/异常处理.md",
-    "工具使用/编程语言/python基础/语句.md",
-    "工具使用/编程语言/python基础/运算符.md",
-    "工具使用/编程语言/python基础/正则表达式.md",
-    "工具使用/编程语言/python基础/json.md",
-    "工具使用/编程语言/python基础/类/__slots__.md",
-    "工具使用/编程语言/python基础/类/元编程.md",
-    "工具使用/编程语言/python基础/类/面向对象编程OOP.md",
-    "工具使用/编程语言/python基础/包.md",
-    "工具使用/编程语言/python基础/6_Python 进阶：网络编程基础全面解析.md",
-    "工具使用/编程语言/python基础/迭代器.md",
-    "生物信息学内容导航/山东大学课程/生物数据库.md",
-    "AtomModel科研项目/蛋白质数据特征处理方法.md",
     "文献阅读/蛋白质与配体结合/笔记/A novel methodology",
     "文献阅读/蛋白质与配体结合/笔记/文献阅读总结.base",
     "文献阅读/蛋白质与配体结合/笔记/AF2BIND/AF2BIND.pdf",
     "工具使用/matplotlib turorial.zip",
-    "写作",
     "生物信息学内容导航/山东大学课程/pictures/局部比对算法.png",
     "生物信息学内容导航/山东大学课程/pictures/CATH.png",
     "生物信息学内容导航/山东大学课程/pictures/SCOP2.png",
