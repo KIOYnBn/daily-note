@@ -1,168 +1,152 @@
 #flashcards
 
 #word
-#### best
+#### bring on
 ?
-胜过
+引发， 导致
 
 #word
-#### blur
+#### chaotic
 ?
-模糊
+混乱的
 
 #word
-#### chaos
+#### clearheaded
 ?
-混乱
+头脑清醒的
 
 #word
-#### cheque
+#### collect myself
 ?
-支票
+冷静下来
 
 #word
-#### coarsely
+#### copper
 ?
-粗俗的
+铜
 
 #word
-#### comedian
+#### cover
 ?
-喜剧演员
+床单， 被子
 
 #word
-#### elbow
+#### defiantly
 ?
-肘
-**Sentences**:
-*He slipped and fell, badly bruising and elbow*
+挑战地
 
 #word
-#### encompass
+#### delusional
 ?
-包含
+妄想的
 
 #word
-#### expand
+#### develop
 ?
-细谈
-**Sentences**:
-**
+逐渐养成
 
 #word
-#### favorite expression
+#### engagement
 ?
-口头禅（口语）
+约会
 
 #word
-#### find oneself doing sth
+#### envision
 ?
-不知不觉就
+设想
 
 #word
-#### forbid
+#### folly
 ?
-禁止
+愚蠢
 
 #word
-#### handful
+#### fritter
 ?
-少量
-**Sentences**:
-*We have picked a handful of reader's responses to share in today's newsletter*
+浪费（时间/金钱）
 
 #word
-#### heaven forbid
+#### hit the road
 ?
-但愿不可能（口语）
+上路
 
 #word
-#### laugher
+#### in this regard
 ?
-笑声
+在这方面
 
 #word
-#### lighthearted
+#### laborious
 ?
-快乐的
+耗时的， 辛苦的
 
 #word
-#### loan
+#### leisurely
 ?
-贷款
+慢悠悠的
 
 #word
-#### motto
+#### maitre
 ?
-格言
+管家
 
 #word
-#### pithy
+#### misery
 ?
-精炼的
+痛苦
 
 #word
-#### polio
+#### outrageous
 ?
-小儿麻痹症
+无法容忍的
 
 #word
-#### quilt
+#### presentable
 ?
-缝被子， 被子
+漂亮的， 穿着整洁的
 
 #word
-#### quilter
+#### queasy
 ?
-缝被子的人
+呕吐的
 
 #word
-#### reframe
+#### reflection
 ?
-再定义
+反思
 
 #word
-#### reminder
+#### respectable
 ?
-提示
+体面的
 
 #word
-#### rust
+#### ridiculous
 ?
-生锈
+可笑的
 
 #word
-#### rust out
+#### rot
 ?
-完全生锈
+腐败
 
 #word
-#### serve
+#### rush
 ?
-端上
+冲， 匆忙
 
 #word
-#### slam
+#### shceduled
 ?
-砰的关上， 冲
+未事先安排的
 
 #word
-#### sneer
+#### tardiness
 ?
-嘲讽
+缓慢， 延迟
 
 #word
-#### stick around
+#### unmoored
 ?
-停留
-
-#word
-#### wear out
-?
-磨损
-
-#word
-#### yuck
-?
-讨厌的东西
+无固定的， 漂泊的
 

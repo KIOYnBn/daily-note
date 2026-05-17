@@ -1,0 +1,7 @@
+---
+expression: rot
+meaning: '腐败'
+date: 2026-05-15 15:07:46
+status: 新学
+type: WORD
+---

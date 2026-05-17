@@ -1,7 +1,8 @@
 ---
 expression: lighthearted
-meaning: '快乐的'
+meaning: 快乐的
 date: 2026-05-13 15:17:35
 status: 新学
 type: WORD
+sentence1: She has a lighthearted attitude towards life.
 ---

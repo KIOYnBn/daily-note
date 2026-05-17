@@ -21,7 +21,7 @@
             }
           },
           {
-            "id": "12707f011eea4640",
+            "id": "b2b75b33cc2f3a83",
             "type": "leaf",
             "state": {
               "type": "terminal:terminal",
@@ -58,6 +58,18 @@
               },
               "icon": "terminal",
               "title": "终端：MINGW64:/e/markdown/obsidian-files/english"
+            }
+          },
+          {
+            "id": "12707f011eea4640",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "阅读材料/May/Running late.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Running late"
             }
           }
         ],
@@ -114,8 +126,7 @@
               "title": "查词面板"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -198,43 +209,44 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "12707f011eea4640",
+  "active": "b2b75b33cc2f3a83",
   "lastOpenFiles": [
     "word-datset.base",
-    "word-dataset/laughter.md",
-    "word-dataset/cheque.md",
-    "word-dataset/loan.md",
-    "word-dataset/expand.md",
+    "掌握.csv",
+    "新学.csv",
+    "了解.csv",
+    "word-dataset/griffon.md~",
+    "word-dataset/serine.md~",
+    "鎺屾彙.txt",
+    "鏂板.txt",
+    "浜嗚В.txt",
+    "main.exe",
+    "word-dataset/Untitled.md",
+    "word-dataset/laborious.md",
+    "阅读材料/May/Running late.pdf",
+    "word-dataset/maitre.md",
+    "word-dataset/unmoored.md",
+    "word-dataset/collect myself.md",
+    "word-dataset/leisurely.md",
     "积累/单词/近义词.md",
-    "word-dataset/chaos.md",
-    "word-dataset/coarsely.md",
-    "word-dataset/comedian.md",
-    "word-dataset/slam.md",
-    "阅读材料/May/Going for broke.pdf",
-    "阅读材料/May/Word of wisdom.pdf",
-    "word-dataset/best.md",
-    "word-dataset/blur.md",
-    "word-dataset/polio.md",
-    "word-dataset/wear out.md",
-    "word-dataset/rust out.md",
-    "word-dataset/rust.md",
-    "word-dataset/motto.md",
-    "word-dataset/reframe.md",
-    "word-dataset/lighthearted.md",
-    "word-dataset/quilter.md",
-    "word-dataset/quilt.md",
-    "word-dataset/handful.md",
-    "word-dataset/favorite expression.md",
-    "word-dataset/reminder.md",
-    "word-dataset/pithy.md",
-    "word-dataset/find oneself doing sth.md",
-    "阅读材料/May/Lights in the sky.pdf",
-    "积累/单词/特定单词用法",
-    "复习记录",
-    "阅读材料/May/The greatest living songwriters.pdf",
-    "阅读材料/May/Your suck-up chatbot.pdf",
-    "word/附件/2026-02-03.pdf",
-    "阅读材料/May",
+    "word-dataset/queasy.md",
+    "word-dataset/folly.md",
+    "word-dataset/reflection.md",
+    "word-dataset/clearheaded.md",
+    "word-dataset/hit the road.md",
+    "word-dataset/delusional.md",
+    "word-dataset/defiantly.md",
+    "word-dataset/engagement.md",
+    "word-dataset/shceduled.md",
+    "word-dataset/ridiculous.md",
+    "word-dataset/develop.md",
+    "word-dataset/misery.md",
+    "word-dataset/rush.md",
+    "word-dataset/chaotic.md",
+    "word-dataset/tardiness.md",
+    "word-dataset/respectable.md",
+    "word-dataset/outrageous.md",
+    "word-dataset/fritter.md",
     "口语/pictures/Pasted image 20260312223001.png",
     "口语/pictures/Pasted image 20260312223754.png",
     "口语/pictures/Pasted image 20260312223936.png",

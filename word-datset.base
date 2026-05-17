@@ -23,3 +23,5 @@ views:
       note.sentence1: 610
       note.meaning: 157
       note.aliases: 7
+  - type: table
+    name: 视图
