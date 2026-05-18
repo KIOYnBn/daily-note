@@ -1,152 +1,79 @@
 #flashcards
 
 #word
-#### bring on
+#### admit
 ?
-引发， 导致
+承认
 
 #word
-#### chaotic
+#### commitment
 ?
-混乱的
+信奉
 
 #word
-#### clearheaded
+#### cosmos
 ?
-头脑清醒的
+宇宙
 
 #word
-#### collect myself
+#### cram
 ?
-冷静下来
+塞满
 
 #word
-#### copper
+#### fixation
 ?
-铜
+专注
 
 #word
-#### cover
+#### geologic
 ?
-床单， 被子
+地质的
 
 #word
-#### defiantly
+#### hustle culture
 ?
-挑战地
+内卷文化
 
 #word
-#### delusional
+#### impulse
 ?
-妄想的
+冲动
 
 #word
-#### develop
+#### meditation
 ?
-逐渐养成
+沉思录， 冥想
+**Sentences**:
+*Many busy executives have begun to practise yoga and meditation.*
 
 #word
-#### engagement
+#### obligation
 ?
-约会
+必须要做的事
 
 #word
-#### envision
+#### obsessively
 ?
-设想
+过分地， 着迷地
 
 #word
-#### folly
+#### recede
 ?
-愚蠢
+逐渐下降
 
 #word
-#### fritter
+#### recontextualize
 ?
-浪费（时间/金钱）
+重新审视
 
 #word
-#### hit the road
+#### sentence
 ?
-上路
+判决
 
 #word
-#### in this regard
+#### what if
 ?
-在这方面
-
-#word
-#### laborious
-?
-耗时的， 辛苦的
-
-#word
-#### leisurely
-?
-慢悠悠的
-
-#word
-#### maitre
-?
-管家
-
-#word
-#### misery
-?
-痛苦
-
-#word
-#### outrageous
-?
-无法容忍的
-
-#word
-#### presentable
-?
-漂亮的， 穿着整洁的
-
-#word
-#### queasy
-?
-呕吐的
-
-#word
-#### reflection
-?
-反思
-
-#word
-#### respectable
-?
-体面的
-
-#word
-#### ridiculous
-?
-可笑的
-
-#word
-#### rot
-?
-腐败
-
-#word
-#### rush
-?
-冲， 匆忙
-
-#word
-#### shceduled
-?
-未事先安排的
-
-#word
-#### tardiness
-?
-缓慢， 延迟
-
-#word
-#### unmoored
-?
-无固定的， 漂泊的
+倘若
 

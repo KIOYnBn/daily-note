@@ -1,8 +1,8 @@
 ---
 expression: meditation
-meaning: 冥想
-date: 2026-04-19 17:46:10
-status: 了解
+meaning: 沉思录， 冥想
+date: 2026-05-18 09:10:20
+status: 新学
 type: WORD
-sentence1: Walking under the night sky, he fell into deep meditation on nature's hidden forces.
+sentence1: Many busy executives have begun to practise yoga and meditation.
 ---
