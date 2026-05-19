@@ -11,19 +11,17 @@
             "id": "bda09a9e2fce8a16",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "口语/情景/代问候.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "file": "word-datset.base",
+                "viewName": "表格"
               },
-              "icon": "lucide-file",
-              "title": "代问候"
+              "icon": "lucide-table",
+              "title": "word-datset"
             }
           },
           {
-            "id": "1d700530803650cb",
+            "id": "78a213cac63c1489",
             "type": "leaf",
             "state": {
               "type": "terminal:terminal",
@@ -120,7 +118,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 374.5
+    "width": 374.5,
+    "collapsed": true
   },
   "right": {
     "id": "f8f92b5db2032903",
@@ -183,8 +182,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 272.5,
-    "collapsed": true
+    "width": 272.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -199,44 +197,43 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "1d700530803650cb",
+  "active": "78a213cac63c1489",
   "lastOpenFiles": [
-    "口语/情景/代问候.md",
-    "口语/情景/安排下次聚会.md",
-    "口语/情景/互留联系方式.md",
-    "口语/情景/结束对话.md",
-    "口语/情景/祝贺别人.md",
-    "口语/情景/赞美别人.md",
-    "口语/情景/婚礼.md",
     "word-datset.base",
-    "word-dataset/sentence.md",
+    "word-dataset/skyscraper.md",
     "阅读材料/May/Good luck, grads.pdf",
+    "word-dataset/dismal.md",
+    "word-dataset/virtually.md",
+    "word-dataset/sag.md",
+    "word-dataset/degree holder.md",
+    "word-dataset/steer.md",
+    "word-dataset/deliverance.md",
+    "word-dataset/scroll.md",
+    "word-dataset/doom.md",
+    "word-dataset/rallying cry.md",
+    "word-dataset/rally.md",
+    "word-dataset/cry.md",
+    "word-dataset/resonant.md",
+    "word-dataset/alright.md",
+    "word-dataset/rule.md",
+    "word-dataset/subscribe.md",
+    "word-dataset/essayist.md",
+    "word-dataset/a small army of.md",
+    "word-dataset/army.md",
+    "word-dataset/verdict.md",
+    "word-dataset/tariff.md",
+    "word-dataset/petrified.md",
+    "word-dataset/glacial.md",
+    "word-dataset/hiring.md",
+    "word-dataset/sour.md",
+    "阅读材料/May/Word of wisdom.pdf",
     "阅读材料/May/Running late.pdf",
     "阅读材料/Good luck, grads.pdf",
-    "word-dataset/admit.md",
-    "积累/句型积累.md",
-    "word-dataset/what if.md",
-    "word-dataset/impulse.md",
-    "word-dataset/obligation.md",
-    "积累/长难句积累.md",
-    "word-dataset/recede.md",
-    "word-dataset/cosmos.md",
-    "word-dataset/obsessively.md",
-    "word-dataset/geologic.md",
-    "word-dataset/recontextualize.md",
-    "word-dataset/commitment.md",
-    "word-dataset/hustle culture.md",
-    "word-dataset/cram.md",
-    "积累/写作或口语积累/句子积累.md",
-    "word-dataset/fixation.md",
-    "word-dataset/unshceduled.md",
-    "word-dataset/tit.md",
     "掌握.csv",
     "新学.csv",
     "了解.csv",
     "word-dataset/griffon.md~",
     "word-dataset/serine.md~",
-    "鎺屾彙.txt",
     "口语/pictures/Pasted image 20260312223001.png",
     "口语/pictures/Pasted image 20260312223754.png",
     "口语/pictures/Pasted image 20260312223936.png",

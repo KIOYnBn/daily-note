@@ -1,79 +1,156 @@
 #flashcards
 
 #word
-#### admit
+#### a small army of
 ?
-承认
+一大群
 
 #word
-#### commitment
+#### alright
 ?
-信奉
+=all right
 
 #word
-#### cosmos
+#### army
 ?
-宇宙
+大群
 
 #word
-#### cram
+#### cry
 ?
-塞满
+口号
 
 #word
-#### fixation
+#### dare
 ?
-专注
+挑战
 
 #word
-#### geologic
+#### degree holder
 ?
-地质的
+高学历拥有者
 
 #word
-#### hustle culture
+#### deliverance
 ?
-内卷文化
+释放， 解救
 
 #word
-#### impulse
+#### dignified
 ?
-冲动
+庄严的
 
 #word
-#### meditation
+#### dismal
 ?
-沉思录， 冥想
+糟糕的， 惨淡的
+
+#word
+#### doom
+?
+悲观， 沮丧
+
+#word
+#### essayist
+?
+散文作家
+
+#word
+#### glacial
+?
+冰冷的， 冰河时代的
+
+#word
+#### hiring
+?
+雇佣
+
+#word
+#### hold back
+?
+犹豫, 阻止， 隐瞒， 克制
+
+#word
+#### manicured
+?
+修剪整齐的
+
+#word
+#### petrified
+?
+惊呆的
+
+#word
+#### quad
+?
+四方院子
+
+#word
+#### rally
+?
+聚会， 召集
+
+#word
+#### rallying cry
+?
+口号
+
+#word
+#### resonant
+?
+共振的， 共鸣的
+
+#word
+#### rule
+?
+占据重要地位
 **Sentences**:
-*Many busy executives have begun to practise yoga and meditation.*
+*Pessimism rules*
 
 #word
-#### obligation
+#### sag
 ?
-必须要做的事
+衰退， 下跌
 
 #word
-#### obsessively
+#### scroll
 ?
-过分地， 着迷地
+滚屏
 
 #word
-#### recede
+#### sour
 ?
-逐渐下降
+坏的， 酸的， 不友善的
 
 #word
-#### recontextualize
+#### steer
 ?
-重新审视
+引导
 
 #word
-#### sentence
+#### subscribe
 ?
-判决
+赞同
+**Sentences**:
+*Young Americans subscribe to this view*
 
 #word
-#### what if
+#### take
 ?
-倘若
+拍摄
+
+#word
+#### tariff
+?
+关税
+
+#word
+#### verdict
+?
+判决， 判断， 定论
+
+#word
+#### virtually
+?
+几乎
 
