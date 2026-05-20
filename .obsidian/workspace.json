@@ -21,6 +21,46 @@
             }
           },
           {
+            "id": "b60692c47728c5c5",
+            "type": "leaf",
+            "state": {
+              "type": "terminal:terminal",
+              "state": {
+                "terminal:terminal": {
+                  "cwd": "E:\\markdown\\obsidian-files\\english",
+                  "focus": false,
+                  "profile": {
+                    "args": [
+                      "--login"
+                    ],
+                    "executable": "C:\\Program Files\\Git\\bin\\bash.exe",
+                    "followTheme": true,
+                    "name": "",
+                    "platforms": {
+                      "win32": true
+                    },
+                    "pythonExecutable": "python3",
+                    "restoreHistory": false,
+                    "rightClickAction": "copyPaste",
+                    "successExitCodes": [
+                      "0",
+                      "SIGINT",
+                      "SIGTERM"
+                    ],
+                    "terminalOptions": {
+                      "documentOverride": null
+                    },
+                    "type": "integrated",
+                    "useWin32Conhost": true
+                  },
+                  "serial": null
+                }
+              },
+              "icon": "terminal",
+              "title": "终端：MINGW64:/e/markdown/obsidian-files/english"
+            }
+          },
+          {
             "id": "78a213cac63c1489",
             "type": "leaf",
             "state": {
@@ -101,7 +141,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -154,11 +194,13 @@
               "title": "查词面板"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 374.5
+    "width": 374.5,
+    "collapsed": true
   },
   "right": {
     "id": "f8f92b5db2032903",
@@ -236,35 +278,35 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "5616a2bd16b40226",
+  "active": "b60692c47728c5c5",
   "lastOpenFiles": [
     "word-datset.base",
-    "word-dataset/skyscraper.md",
+    "word-dataset/slogan.md",
+    "word-dataset/stadium.md",
+    "word-dataset/unanimous.md",
+    "word-dataset/underdog.md",
+    "word-dataset/application.md",
+    "word-dataset/impenetrable.md",
+    "word-dataset/in terms of.md",
+    "word-dataset/net.md",
+    "word-dataset/postpone.md",
+    "word-dataset/saddle.md",
+    "word-dataset/gloom.md",
+    "word-dataset/succumb.md",
+    "word-dataset/mark.md",
+    "word-dataset/boo.md",
+    "word-dataset/agree.md",
+    "word-dataset/menace.md",
+    "word-dataset/hazy.md",
+    "word-dataset/dean.md",
+    "word-dataset/hectic.md",
+    "word-dataset/fog.md",
+    "word-dataset/senate.md",
+    "word-dataset/grit.md",
+    "word-dataset/racial.md",
+    "word-dataset/gender.md",
+    "word-dataset/bum.md",
     "阅读材料/May/Good luck, grads.pdf",
-    "word-dataset/dismal.md",
-    "word-dataset/virtually.md",
-    "word-dataset/sag.md",
-    "word-dataset/degree holder.md",
-    "word-dataset/steer.md",
-    "word-dataset/deliverance.md",
-    "word-dataset/scroll.md",
-    "word-dataset/doom.md",
-    "word-dataset/rallying cry.md",
-    "word-dataset/rally.md",
-    "word-dataset/cry.md",
-    "word-dataset/resonant.md",
-    "word-dataset/alright.md",
-    "word-dataset/rule.md",
-    "word-dataset/subscribe.md",
-    "word-dataset/essayist.md",
-    "word-dataset/a small army of.md",
-    "word-dataset/army.md",
-    "word-dataset/verdict.md",
-    "word-dataset/tariff.md",
-    "word-dataset/petrified.md",
-    "word-dataset/glacial.md",
-    "word-dataset/hiring.md",
-    "word-dataset/sour.md",
     "阅读材料/May/Word of wisdom.pdf",
     "阅读材料/May/Running late.pdf",
     "阅读材料/Good luck, grads.pdf",

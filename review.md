@@ -1,156 +1,141 @@
 #flashcards
 
 #word
-#### a small army of
+#### agree
 ?
-一大群
+取得一致意见
 
 #word
-#### alright
+#### application
 ?
-=all right
+申请表
 
 #word
-#### army
+#### boo
 ?
-大群
+嘘
 
 #word
-#### cry
+#### bum
+?
+使灰心
+
+#word
+#### dean
+?
+院长
+
+#word
+#### fog
+?
+雾， 使困惑
+
+#word
+#### gender
+?
+性别
+
+#word
+#### gloom
+?
+忧郁
+
+#word
+#### grit
+?
+毅力， 勇气
+
+#word
+#### hazy
+?
+模糊的
+
+#word
+#### hectic
+?
+忙碌的
+
+#word
+#### impenetrable
+?
+不可见的
+
+#word
+#### in terms of
+?
+在...方面
+
+#word
+#### mark
+?
+成绩
+**Sentences**:
+*high mark*
+
+#word
+#### menace
+?
+威胁
+
+#word
+#### net
+?
+净的， 净赚
+**Sentences**:
+*net worth*
+
+#word
+#### postpone
+?
+推迟
+
+#word
+#### racial
+?
+种族的
+
+#word
+#### resilience
+?
+适应力
+
+#word
+#### saddle
+?
+承担任务
+
+#word
+#### senate
+?
+参议院
+
+#word
+#### slogan
 ?
 口号
 
 #word
-#### dare
+#### stadium
 ?
-挑战
+体育场
 
 #word
-#### degree holder
+#### succumb
 ?
-高学历拥有者
+屈服
 
 #word
-#### deliverance
+#### unanimous
 ?
-释放， 解救
+全体同意的
 
 #word
-#### dignified
+#### underdog
 ?
-庄严的
+弱者
 
 #word
-#### dismal
+#### unenviable
 ?
-糟糕的， 惨淡的
-
-#word
-#### doom
-?
-悲观， 沮丧
-
-#word
-#### essayist
-?
-散文作家
-
-#word
-#### glacial
-?
-冰冷的， 冰河时代的
-
-#word
-#### hiring
-?
-雇佣
-
-#word
-#### hold back
-?
-犹豫, 阻止， 隐瞒， 克制
-
-#word
-#### manicured
-?
-修剪整齐的
-
-#word
-#### petrified
-?
-惊呆的
-
-#word
-#### quad
-?
-四方院子
-
-#word
-#### rally
-?
-聚会， 召集
-
-#word
-#### rallying cry
-?
-口号
-
-#word
-#### resonant
-?
-共振的， 共鸣的
-
-#word
-#### rule
-?
-占据重要地位
-**Sentences**:
-*Pessimism rules*
-
-#word
-#### sag
-?
-衰退， 下跌
-
-#word
-#### scroll
-?
-滚屏
-
-#word
-#### sour
-?
-坏的， 酸的， 不友善的
-
-#word
-#### steer
-?
-引导
-
-#word
-#### subscribe
-?
-赞同
-**Sentences**:
-*Young Americans subscribe to this view*
-
-#word
-#### take
-?
-拍摄
-
-#word
-#### tariff
-?
-关税
-
-#word
-#### verdict
-?
-判决， 判断， 定论
-
-#word
-#### virtually
-?
-几乎
+艰难的
 
