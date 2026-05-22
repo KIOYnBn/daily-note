@@ -1,141 +1,162 @@
 #flashcards
 
 #word
-#### agree
+#### accommodate
 ?
-取得一致意见
+容纳
 
 #word
-#### application
+#### air-conditioner
 ?
-申请表
+空调
 
 #word
-#### boo
+#### authoritarian
 ?
-嘘
+专制的
 
 #word
-#### bum
+#### bot
 ?
-使灰心
+自动程序
 
 #word
-#### dean
+#### chip
 ?
-院长
+芯片
 
 #word
-#### fog
+#### cleavage
 ?
-雾， 使困惑
+劈开， 卵裂
 
 #word
-#### gender
+#### concect
 ?
-性别
+虚构， 杜撰
 
 #word
-#### gloom
+#### courtsy
 ?
-忧郁
+礼貌
 
 #word
-#### grit
+#### damn
 ?
-毅力， 勇气
+谴责
 
 #word
-#### hazy
+#### delusion
 ?
-模糊的
+妄想， 错觉， 欺骗
 
 #word
-#### hectic
+#### editorial
 ?
-忙碌的
+社论， 主编的
 
 #word
-#### impenetrable
+#### gig
 ?
-不可见的
+临时工作
 
 #word
-#### in terms of
+#### groan
 ?
-在...方面
+抱怨
 
 #word
-#### mark
+#### groan with sth
 ?
-成绩
-**Sentences**:
-*high mark*
+被某物堆满
 
 #word
-#### menace
+#### hallucination
 ?
-威胁
+幻觉
 
 #word
-#### net
+#### make-up
 ?
-净的， 净赚
-**Sentences**:
-*net worth*
+编造的， 不真实的
 
 #word
-#### postpone
+#### mastead
 ?
-推迟
+刊头
 
 #word
-#### racial
+#### misattribute
 ?
-种族的
+错误归因
 
 #word
-#### resilience
+#### newsletter
 ?
-适应力
+新闻稿
 
 #word
-#### saddle
+#### on our own
 ?
-承担任务
+独立自主地
 
 #word
-#### senate
+#### overhaul
 ?
-参议院
+改造
 
 #word
-#### slogan
+#### peptition
 ?
-口号
+申请书
 
 #word
-#### stadium
+#### plea
 ?
-体育场
+恳求
 
 #word
-#### succumb
+#### prayer
 ?
-屈服
+祈祷
 
 #word
-#### unanimous
+#### precedent
 ?
-全体同意的
+先例
 
 #word
-#### underdog
+#### relief
 ?
-弱者
+宽慰
 
 #word
-#### unenviable
+#### ruling
 ?
-艰难的
+判决
+
+#word
+#### search bar
+?
+搜索栏
+
+#word
+#### sitcom
+?
+情景喜剧
+
+#word
+#### typo
+?
+文稿的小错误
+
+#word
+#### veracity
+?
+真实性
+
+#word
+#### whistle
+?
+吹口哨
 

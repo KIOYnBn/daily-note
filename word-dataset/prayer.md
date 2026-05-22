@@ -1,8 +1,7 @@
 ---
 expression: prayer
-meaning: 可能性
-date: 2026-04-04 11:01:12
-status: 了解
+meaning: '祈祷'
+date: 2026-05-22 21:18:26
+status: 新学
 type: WORD
-sentence1: He doesn't have a prayer of winning
 ---

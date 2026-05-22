@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "bda09a9e2fce8a16",
+            "id": "b60692c47728c5c5",
             "type": "leaf",
             "state": {
               "type": "bases",
@@ -21,87 +21,7 @@
             }
           },
           {
-            "id": "b60692c47728c5c5",
-            "type": "leaf",
-            "state": {
-              "type": "terminal:terminal",
-              "state": {
-                "terminal:terminal": {
-                  "cwd": "E:\\markdown\\obsidian-files\\english",
-                  "focus": false,
-                  "profile": {
-                    "args": [
-                      "--login"
-                    ],
-                    "executable": "C:\\Program Files\\Git\\bin\\bash.exe",
-                    "followTheme": true,
-                    "name": "",
-                    "platforms": {
-                      "win32": true
-                    },
-                    "pythonExecutable": "python3",
-                    "restoreHistory": false,
-                    "rightClickAction": "copyPaste",
-                    "successExitCodes": [
-                      "0",
-                      "SIGINT",
-                      "SIGTERM"
-                    ],
-                    "terminalOptions": {
-                      "documentOverride": null
-                    },
-                    "type": "integrated",
-                    "useWin32Conhost": true
-                  },
-                  "serial": null
-                }
-              },
-              "icon": "terminal",
-              "title": "终端：MINGW64:/e/markdown/obsidian-files/english"
-            }
-          },
-          {
-            "id": "78a213cac63c1489",
-            "type": "leaf",
-            "state": {
-              "type": "terminal:terminal",
-              "state": {
-                "terminal:terminal": {
-                  "cwd": "E:\\markdown\\obsidian-files\\english",
-                  "focus": false,
-                  "profile": {
-                    "args": [
-                      "--login"
-                    ],
-                    "executable": "C:\\Program Files\\Git\\bin\\bash.exe",
-                    "followTheme": true,
-                    "name": "",
-                    "platforms": {
-                      "win32": true
-                    },
-                    "pythonExecutable": "python3",
-                    "restoreHistory": false,
-                    "rightClickAction": "copyPaste",
-                    "successExitCodes": [
-                      "0",
-                      "SIGINT",
-                      "SIGTERM"
-                    ],
-                    "terminalOptions": {
-                      "documentOverride": null
-                    },
-                    "type": "integrated",
-                    "useWin32Conhost": true
-                  },
-                  "serial": null
-                }
-              },
-              "icon": "terminal",
-              "title": "终端：MINGW64:/e/markdown/obsidian-files/english"
-            }
-          },
-          {
-            "id": "5616a2bd16b40226",
+            "id": "41aedfd681275cb6",
             "type": "leaf",
             "state": {
               "type": "terminal:terminal",
@@ -194,13 +114,11 @@
               "title": "查词面板"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 374.5,
-    "collapsed": true
+    "width": 374.5
   },
   "right": {
     "id": "f8f92b5db2032903",
@@ -278,34 +196,34 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "b60692c47728c5c5",
+  "active": "41aedfd681275cb6",
   "lastOpenFiles": [
     "word-datset.base",
-    "word-dataset/slogan.md",
-    "word-dataset/stadium.md",
-    "word-dataset/unanimous.md",
-    "word-dataset/underdog.md",
-    "word-dataset/application.md",
-    "word-dataset/impenetrable.md",
-    "word-dataset/in terms of.md",
-    "word-dataset/net.md",
-    "word-dataset/postpone.md",
-    "word-dataset/saddle.md",
-    "word-dataset/gloom.md",
-    "word-dataset/succumb.md",
-    "word-dataset/mark.md",
-    "word-dataset/boo.md",
-    "word-dataset/agree.md",
-    "word-dataset/menace.md",
-    "word-dataset/hazy.md",
-    "word-dataset/dean.md",
-    "word-dataset/hectic.md",
-    "word-dataset/fog.md",
-    "word-dataset/senate.md",
-    "word-dataset/grit.md",
-    "word-dataset/racial.md",
-    "word-dataset/gender.md",
-    "word-dataset/bum.md",
+    "word-dataset/courtesy.md",
+    "word-dataset/concoct.md",
+    "word-dataset/whistle.md",
+    "口语/情景/意见.md",
+    "口语/情景/欢迎.md",
+    "口语/情景/祝福.md",
+    "口语/情景/请求原谅.md",
+    "口语/情景/祝贺别人.md",
+    "口语/情景/接收道歉.md",
+    "口语/情景/道歉.md",
+    "口语/情景/表示不客气.md",
+    "口语/情景/表达感谢.md",
+    "word-dataset/cleavage.md",
+    "word-dataset/air-conditioner.md",
+    "word-dataset/damn.md",
+    "word-dataset/editorial.md",
+    "word-dataset/mastead.md",
+    "word-dataset/on our own.md",
+    "word-dataset/typo.md",
+    "word-dataset/bot.md",
+    "word-dataset/peptition.md",
+    "word-dataset/plea.md",
+    "word-dataset/groan with sth.md",
+    "word-dataset/groan.md",
+    "word-dataset/newsletter.md",
     "阅读材料/May/Good luck, grads.pdf",
     "阅读材料/May/Word of wisdom.pdf",
     "阅读材料/May/Running late.pdf",
