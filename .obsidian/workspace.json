@@ -38,6 +38,46 @@
             }
           },
           {
+            "id": "5a25a9ea5231d990",
+            "type": "leaf",
+            "state": {
+              "type": "terminal:terminal",
+              "state": {
+                "terminal:terminal": {
+                  "cwd": "E:\\markdown\\obsidian-files\\课程作业",
+                  "focus": false,
+                  "profile": {
+                    "args": [
+                      "--login"
+                    ],
+                    "executable": "C:\\Program Files\\Git\\bin\\bash.exe",
+                    "followTheme": true,
+                    "name": "git",
+                    "platforms": {
+                      "win32": true
+                    },
+                    "pythonExecutable": "python3",
+                    "restoreHistory": false,
+                    "rightClickAction": "copyPaste",
+                    "successExitCodes": [
+                      "0",
+                      "SIGINT",
+                      "SIGTERM"
+                    ],
+                    "terminalOptions": {
+                      "documentOverride": null
+                    },
+                    "type": "integrated",
+                    "useWin32Conhost": true
+                  },
+                  "serial": null
+                }
+              },
+              "icon": "terminal",
+              "title": "终端：MINGW64:/e/markdown/obsidian-files/课程作业"
+            }
+          },
+          {
             "id": "f968473b645cd852",
             "type": "leaf",
             "state": {
@@ -177,7 +217,7 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "f968473b645cd852",
+  "active": "5a25a9ea5231d990",
   "lastOpenFiles": [
     "生物化学/第七章 酶动力学.md",
     "生物化学/pictures/酶的抑制作用.jpg",
