@@ -1,0 +1,15 @@
+views:
+  - type: table
+    name: 表格
+    filters:
+      and:
+        - file.folder == "积累/单词/后缀"
+    order:
+      - file.name
+      - 动词
+      - 名词
+      - 形容词
+    columnSize:
+      file.name: 156
+      note.动词: 162
+      note.名词: 219

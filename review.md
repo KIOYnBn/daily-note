@@ -1,162 +1,72 @@
 #flashcards
 
 #word
-#### accommodate
+#### artery
 ?
-容纳
+动脉
 
 #word
-#### air-conditioner
+#### biospy
 ?
-空调
+活检
 
 #word
-#### authoritarian
+#### capillary
 ?
-专制的
+心血管的
 
 #word
-#### bot
+#### cardiovascular
 ?
-自动程序
+心血管的
 
 #word
-#### chip
+#### come across
 ?
-芯片
+发现， 偶然遇到
 
 #word
-#### cleavage
+#### connective
 ?
-劈开， 卵裂
+结缔的
 
 #word
-#### concect
+#### far-reaching
 ?
-虚构， 杜撰
+深远的
 
 #word
-#### courtsy
+#### fascia
 ?
-礼貌
+筋膜
 
 #word
-#### damn
+#### implication
 ?
-谴责
+影响
 
 #word
-#### delusion
+#### interstitial
 ?
-妄想， 错觉， 欺骗
+间质的
 
 #word
-#### editorial
+#### italy
 ?
-社论， 主编的
+意大利
 
 #word
-#### gig
+#### lymphatic
 ?
-临时工作
+淋巴的
 
 #word
-#### groan
+#### tattoo
 ?
-抱怨
+纹身
 
 #word
-#### groan with sth
+#### vein
 ?
-被某物堆满
-
-#word
-#### hallucination
-?
-幻觉
-
-#word
-#### make-up
-?
-编造的， 不真实的
-
-#word
-#### mastead
-?
-刊头
-
-#word
-#### misattribute
-?
-错误归因
-
-#word
-#### newsletter
-?
-新闻稿
-
-#word
-#### on our own
-?
-独立自主地
-
-#word
-#### overhaul
-?
-改造
-
-#word
-#### peptition
-?
-申请书
-
-#word
-#### plea
-?
-恳求
-
-#word
-#### prayer
-?
-祈祷
-
-#word
-#### precedent
-?
-先例
-
-#word
-#### relief
-?
-宽慰
-
-#word
-#### ruling
-?
-判决
-
-#word
-#### search bar
-?
-搜索栏
-
-#word
-#### sitcom
-?
-情景喜剧
-
-#word
-#### typo
-?
-文稿的小错误
-
-#word
-#### veracity
-?
-真实性
-
-#word
-#### whistle
-?
-吹口哨
+静脉
 

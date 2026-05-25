@@ -1,0 +1,7 @@
+---
+expression: come across
+meaning: '发现， 偶然遇到'
+date: 2026-05-25 17:49:53
+status: 新学
+type: PHRASE
+---

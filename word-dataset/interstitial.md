@@ -1,0 +1,7 @@
+---
+expression: interstitial
+meaning: '间质的'
+date: 2026-05-25 17:50:35
+status: 新学
+type: WORD
+---

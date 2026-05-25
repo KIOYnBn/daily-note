@@ -1,0 +1,13 @@
+views:
+  - type: table
+    name: 表格
+    filters:
+      and:
+        - file.folder == "积累/单词/词根"
+    order:
+      - file.name
+      - 拉丁源
+      - 含义
+    columnSize:
+      file.name: 128
+      note.拉丁源: 108
