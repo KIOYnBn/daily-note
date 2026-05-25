@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "e914e5ed4cfc4c87",
+        "id": "786b8f48bc762807",
         "type": "split",
         "children": [
           {
@@ -17,13 +17,13 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "工具使用/深度学习/模块/前馈网络.md",
+                    "file": "工具使用/深度学习/数学原理/正则化.md",
                     "mode": "source",
                     "source": false,
                     "backlinks": false
                   },
                   "icon": "lucide-file",
-                  "title": "前馈网络"
+                  "title": "正则化"
                 }
               },
               {
@@ -44,11 +44,11 @@
             ]
           },
           {
-            "id": "524cb4f08c7f3dec",
+            "id": "ba19f953cef86b8d",
             "type": "tabs",
             "children": [
               {
-                "id": "3763f881f309f4ef",
+                "id": "31409ae383ecabe5",
                 "type": "leaf",
                 "state": {
                   "type": "terminal:terminal",
@@ -190,8 +190,12 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "3763f881f309f4ef",
+  "active": "31409ae383ecabe5",
   "lastOpenFiles": [
+    "工具使用/深度学习/数学原理/正则化.md",
+    "工具使用/深度学习/未命名.md",
+    "工具使用/深度学习/数学原理",
+    "工具使用/深度学习/大模型基础知识.md",
     "工具使用/深度学习/模块/前馈网络.md",
     "文献阅读/药物/ALLSites/代码学习.md",
     "工具使用/深度学习/模块/Layernorm.md",
@@ -202,7 +206,6 @@
     "工具使用/深度学习/模块/GLU.md",
     "工具使用/深度学习/模块/残差缩放.md",
     "工具使用/深度学习/代码示例/Conv1D+GLU.md",
-    "工具使用/深度学习/未命名.md",
     "工具使用/深度学习/模块",
     "工具使用/深度学习/代码示例",
     "工具使用/编程语言/R语言/R包的下载.md",
@@ -228,10 +231,7 @@
     "文献阅读/药物/新建文件夹",
     "工具使用/编程语言/R语言/文件流.md",
     "工具使用/编程语言/R语言/R studio.md",
-    "工具使用/编程语言/R语言",
     "工具使用/编程语言/C++/笔记.md",
-    "工具使用/编程语言/c语言基础/语句/puts.md",
-    "工具使用/编程语言/c语言基础/语句/printf.md",
     "生物信息学内容导航/山东大学课程/pictures/局部比对算法.png",
     "生物信息学内容导航/山东大学课程/pictures/CATH.png",
     "生物信息学内容导航/山东大学课程/pictures/SCOP2.png",
