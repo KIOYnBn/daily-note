@@ -9,7 +9,7 @@
   "interceptLogging": false,
   "language": "",
   "macOSOptionKeyPassthrough": false,
-  "newInstanceBehavior": "newHorizontalSplit",
+  "newInstanceBehavior": "replaceTab",
   "noticeTimeout": 5,
   "openChangelogOnUpdate": false,
   "pinNewInstance": false,

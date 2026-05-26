@@ -4,124 +4,50 @@
     "type": "split",
     "children": [
       {
-        "id": "3b057d584e18e206",
-        "type": "split",
+        "id": "ba19f953cef86b8d",
+        "type": "tabs",
         "children": [
           {
-            "id": "ba19f953cef86b8d",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "31409ae383ecabe5",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "工具使用/深度学习/模块/注意力机制.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": false
+            "id": "31409ae383ecabe5",
+            "type": "leaf",
+            "state": {
+              "type": "terminal:terminal",
+              "state": {
+                "terminal:terminal": {
+                  "cwd": "E:\\markdown\\obsidian-files\\科研",
+                  "focus": false,
+                  "profile": {
+                    "args": [
+                      "--login"
+                    ],
+                    "executable": "C:\\Program Files\\Git\\bin\\bash.exe",
+                    "followTheme": true,
+                    "name": "",
+                    "platforms": {
+                      "win32": true
+                    },
+                    "pythonExecutable": "python3",
+                    "restoreHistory": false,
+                    "rightClickAction": "copyPaste",
+                    "successExitCodes": [
+                      "0",
+                      "SIGINT",
+                      "SIGTERM"
+                    ],
+                    "terminalOptions": {
+                      "documentOverride": null
+                    },
+                    "type": "integrated",
+                    "useWin32Conhost": true
                   },
-                  "icon": "lucide-file",
-                  "title": "注意力机制"
+                  "serial": null
                 }
-              }
-            ]
-          },
-          {
-            "id": "2a43fbde873cbab5",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "b34fdeb66ae681a4",
-                "type": "leaf",
-                "state": {
-                  "type": "terminal:terminal",
-                  "state": {
-                    "terminal:terminal": {
-                      "cwd": "E:\\markdown\\obsidian-files\\科研",
-                      "focus": false,
-                      "profile": {
-                        "args": [
-                          "--login"
-                        ],
-                        "executable": "C:\\Program Files\\Git\\bin\\bash.exe",
-                        "followTheme": true,
-                        "name": "",
-                        "platforms": {
-                          "win32": true
-                        },
-                        "pythonExecutable": "python3",
-                        "restoreHistory": false,
-                        "rightClickAction": "copyPaste",
-                        "successExitCodes": [
-                          "0",
-                          "SIGINT",
-                          "SIGTERM"
-                        ],
-                        "terminalOptions": {
-                          "documentOverride": null
-                        },
-                        "type": "integrated",
-                        "useWin32Conhost": true
-                      },
-                      "serial": null
-                    }
-                  },
-                  "icon": "terminal",
-                  "title": "终端：MINGW64:/e/markdown/obsidian-files/科研"
-                }
-              }
-            ]
-          },
-          {
-            "id": "6641436ce01684b0",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "0dc137458ef01d85",
-                "type": "leaf",
-                "state": {
-                  "type": "terminal:terminal",
-                  "state": {
-                    "terminal:terminal": {
-                      "cwd": "E:\\markdown\\obsidian-files\\科研",
-                      "focus": false,
-                      "profile": {
-                        "args": [
-                          "--login"
-                        ],
-                        "executable": "C:\\Program Files\\Git\\bin\\bash.exe",
-                        "followTheme": true,
-                        "name": "",
-                        "platforms": {
-                          "win32": true
-                        },
-                        "pythonExecutable": "python3",
-                        "restoreHistory": false,
-                        "rightClickAction": "copyPaste",
-                        "successExitCodes": [
-                          "0",
-                          "SIGINT",
-                          "SIGTERM"
-                        ],
-                        "terminalOptions": {
-                          "documentOverride": null
-                        },
-                        "type": "integrated",
-                        "useWin32Conhost": true
-                      },
-                      "serial": null
-                    }
-                  },
-                  "icon": "terminal",
-                  "title": "终端：选择 C:\\Windows\\System32\\conhost.exe"
-                }
-              }
-            ]
+              },
+              "icon": "terminal",
+              "title": "终端：MINGW64:/e/markdown/obsidian-files/科研"
+            }
           }
-        ],
-        "direction": "horizontal"
+        ]
       }
     ],
     "direction": "vertical"
@@ -221,9 +147,21 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "b34fdeb66ae681a4",
+  "active": "31409ae383ecabe5",
   "lastOpenFiles": [
+    "文献阅读/蛋白质结构/蛋白质结构域预测/D-I-TASSER/笔记.md",
+    "文献阅读/蛋白质结构/蛋白质结构域预测/pictures/fig 1.webp",
+    "文献阅读/蛋白质结构/蛋白质结构域预测/pictures/fig 1.webp.crdownload",
+    "文献阅读/蛋白质结构/蛋白质结构域预测/pictures",
+    "文献阅读/蛋白质结构/蛋白质结构域预测/新建文件夹",
+    "Pasted image 20260526162801.png",
+    "文献阅读/蛋白质结构/蛋白质结构域预测/D-I-TASSER/文章.pdf",
     "工具使用/深度学习/模块/注意力机制.md",
+    "文献阅读/蛋白质结构/蛋白质结构域预测/D-I-TASSER",
+    "文献阅读/蛋白质结构/蛋白质结构域预测",
+    "文献阅读/蛋白质结构/新建文件夹",
+    "文献阅读/蛋白质结构",
+    "文献阅读/新建文件夹",
     "工具使用/深度学习/数学原理/正则化.md",
     "工具使用/深度学习/未命名.md",
     "工具使用/深度学习/数学原理",
@@ -238,8 +176,6 @@
     "工具使用/深度学习/模块/GLU.md",
     "工具使用/深度学习/模块/残差缩放.md",
     "工具使用/深度学习/代码示例/Conv1D+GLU.md",
-    "工具使用/深度学习/模块",
-    "工具使用/深度学习/代码示例",
     "工具使用/编程语言/R语言/R包的下载.md",
     "工具使用/编程语言/R语言/数据类型.md",
     "工具使用/深度学习/pytorch/模型训练步骤.md",
@@ -251,24 +187,13 @@
     "文献阅读/药物/ALLSites/pictures/好图2.jpg",
     "文献阅读/药物/ALLSites/pictures/好图1.jpg",
     "文献阅读/药物/ALLSites/pictures/架构.jpg",
-    "文献阅读/药物/ALLSites/pictures/架构.jpg.crdownload",
     "文献阅读/药物/ALLSites/Word.md",
     "文献阅读/药物/ALLSites/pictures/ESM-C VS ESM-2.jpg",
-    "文献阅读/药物/ALLSites/pictures",
-    "文献阅读/药物/ALLSites/新建文件夹",
     "文献阅读/待读文献.md",
-    "文献阅读/药物/ALLSites/Advanced Science - 2025 - Mou - Accurate Identification of Protein Binding Sites for All Drug Modalities Using ALLSites.pdf",
-    "文献阅读/药物/ALLSites/Advanced Science - 2025 - Mou - Accurate Identification of Protein Binding Sites for All Drug Modalities Using ALLSites.pdf.crdownload",
-    "文献阅读/药物/ALLSites",
-    "文献阅读/药物/新建文件夹",
-    "工具使用/编程语言/R语言/文件流.md",
-    "工具使用/编程语言/R语言/R studio.md",
     "生物信息学内容导航/山东大学课程/pictures/局部比对算法.png",
     "生物信息学内容导航/山东大学课程/pictures/CATH.png",
     "生物信息学内容导航/山东大学课程/pictures/SCOP2.png",
     "生物信息学内容导航/山东大学课程/pictures/序列比对.png",
-    "生物信息学内容导航/山东大学课程/pictures/打点法.png",
-    "文献阅读/蛋白质功能预测/基于生物信息学的蛋白质功能预测研究综述/Pasted image 20260305174443.png",
     "python基础/第三方库/未命名.canvas"
   ]
 }
