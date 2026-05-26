@@ -11,19 +11,17 @@
             "id": "a637551ddafd68bd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "口语/情景/出国.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "file": "word-datset.base",
+                "viewName": "表格"
               },
-              "icon": "lucide-file",
-              "title": "出国"
+              "icon": "lucide-table",
+              "title": "word-datset"
             }
           },
           {
-            "id": "de2d6c1d170c918c",
+            "id": "4f323b9f4ac0cf07",
             "type": "leaf",
             "state": {
               "type": "terminal:terminal",
@@ -183,7 +181,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 272.5
+    "width": 272.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -198,38 +197,37 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "de2d6c1d170c918c",
+  "active": "4f323b9f4ac0cf07",
   "lastOpenFiles": [
+    "word-datset.base",
+    "word-dataset/biopsy.md",
+    "积累/写作或口语积累/句子积累.md",
+    "word-dataset/come as a surprise.md",
+    "word-dataset/invertebrate.md",
+    "word-dataset/freshwater.md",
+    "word-dataset/gut.md",
+    "word-dataset/diabete.md",
+    "word-dataset/inform.md",
+    "word-dataset/metastatic.md",
+    "word-dataset/superficially.md",
+    "word-dataset/chi.md",
+    "word-dataset/meridian.md",
+    "word-dataset/insomnia.md",
+    "word-dataset/masthead.md",
+    "word-dataset/petition.md",
     "口语/情景/出国.md",
     "word-dataset/implication.md",
     "word-dataset/far-reaching.md",
     "word-dataset/connective.md",
     "word-dataset/fascia.md",
     "word-dataset/interstitial.md",
-    "word-dataset/biospy.md",
     "word-dataset/tattoo.md",
     "word-dataset/come across.md",
     "word-dataset/capillary.md",
     "word-dataset/vein.md",
-    "word-dataset/artery.md",
-    "word-dataset/cardiovascular.md",
-    "word-dataset/lymphatic.md",
-    "word-dataset/italy.md",
-    "word-datset.base",
-    "积累/单词/反义词.md",
-    "word-dataset/sarcastic.md",
-    "积累/单词/近义词.md",
-    "积累/单词/易混词.md",
-    "积累/单词/后缀/ness.md",
     "积累/单词/后缀base.base",
-    "积累/单词/英语拼写与构词规则.md",
-    "积累/单词/词根/medi.md",
-    "积累/单词/后缀/ation.md",
-    "积累/单词/词根/med.md",
-    "积累/单词/后缀/ate.md",
     "积累/单词/后缀",
     "积累/单词/词根base.base",
-    "积累/单词/词根/imit.md",
     "积累/单词/词根",
     "阅读材料/May/Good luck, grads.pdf",
     "阅读材料/May/Word of wisdom.pdf",

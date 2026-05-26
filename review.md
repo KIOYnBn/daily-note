@@ -1,72 +1,57 @@
 #flashcards
 
 #word
-#### artery
+#### chi
 ?
-动脉
+（医学，武术）气
 
 #word
-#### biospy
+#### come as a surprise
 ?
-活检
+出乎意料
 
 #word
-#### capillary
+#### diabete
 ?
-心血管的
+糖尿病
 
 #word
-#### cardiovascular
+#### freshwater
 ?
-心血管的
+淡水
 
 #word
-#### come across
+#### gut
 ?
-发现， 偶然遇到
+肠道
 
 #word
-#### connective
+#### inform
 ?
-结缔的
+提供资料， 了解
 
 #word
-#### far-reaching
+#### insomnia
 ?
-深远的
+失眠
 
 #word
-#### fascia
+#### invertebrate
 ?
-筋膜
+无脊椎动物
 
 #word
-#### implication
+#### meridian
 ?
-影响
+中医经脉
 
 #word
-#### interstitial
+#### metastatic
 ?
-间质的
+转移的
 
 #word
-#### italy
+#### superficially
 ?
-意大利
-
-#word
-#### lymphatic
-?
-淋巴的
-
-#word
-#### tattoo
-?
-纹身
-
-#word
-#### vein
-?
-静脉
+从表面上看
 
