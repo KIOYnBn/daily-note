@@ -1,57 +1,62 @@
 #flashcards
 
 #word
-#### chi
+#### appointment
 ?
-（医学，武术）气
+约定
 
 #word
-#### come as a surprise
+#### assume
 ?
-出乎意料
+认为
 
 #word
-#### diabete
+#### atrophy
 ?
-糖尿病
+衰退
 
 #word
-#### freshwater
+#### barroom
 ?
-淡水
+酒吧间
 
 #word
-#### gut
+#### civility
 ?
-肠道
+文明
 
 #word
-#### inform
+#### extroversion
 ?
-提供资料， 了解
+外向
 
 #word
-#### insomnia
+#### fatigue
 ?
-失眠
+疲劳
 
 #word
-#### invertebrate
+#### hesitate
 ?
-无脊椎动物
+由于
 
 #word
-#### meridian
+#### inconvenience
 ?
-中医经脉
+不便
 
 #word
-#### metastatic
+#### mill
 ?
-转移的
+闲逛
 
 #word
-#### superficially
+#### resist
 ?
-从表面上看
+抵抗
+
+#word
+#### spurn
+?
+拒绝
 

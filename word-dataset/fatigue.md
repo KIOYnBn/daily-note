@@ -1,0 +1,7 @@
+---
+expression: fatigue
+meaning: '疲劳'
+date: 2026-05-27 15:47:43
+status: 新学
+type: WORD
+---

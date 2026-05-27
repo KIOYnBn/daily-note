@@ -1,69 +1,30 @@
 #### 新学
-artery,    动脉
-authoritarian,    专制的
-biospy,    活检
-bot,    自动程序
-breach,    违反
-bum,    使灰心
-capillary,    心血管的
-cardiovascular,    心血管的
+appointment,    约定
+assume,    认为
+atrophy,    衰退
+barroom,    酒吧间
 chi,    （医学，武术）气
-cleavage,    劈开， 卵裂
-come across,    发现， 偶然遇到
+civility,    文明
 come as a surprise,    出乎意料
-concoct,    虚构， 杜撰
-connective,    结缔的
-courtesy,    礼貌
-damn,    谴责
 diabete,    糖尿病
-dismal,    糟糕的， 惨淡的
-editorial,    社论， 主编的
-expand,    细谈
-far-reaching,    深远的
+extroversion,    外向
 fascia,    筋膜
-fixation,    专注
+fatigue,    疲劳
 freshwater,    淡水
-groan with sth,    被某物堆满
-groan,    抱怨
 gut,    肠道
 hallucination,    幻觉
-hazy,    模糊的
-hectic,    忙碌的
-impenetrable,    不可见的
-implication,    影响
-in terms of,    在...方面
+hesitate,    由于
+inconvenience,    不便
 inform,    提供资料， 了解
 insomnia,    失眠
-interstitial,    间质的
 invertebrate,    无脊椎动物
-italy,    意大利
-lymphatic,    淋巴的
-masthead,    刊头
 meridian,    中医经脉
 metastatic,    转移的
+mill,    闲逛
 petition,    申请书
-petrified,    惊呆的
-plea,    恳求
-polio,    小儿麻痹症
-rant,    抱怨， 夸夸其谈
-referendum,    全民投票
-resilience,    适应力
-respectable,    体面的
-rot,    腐败
-ruling,    判决
-sarcastic,    讽刺的
-silhouette,    轮廓
-slogan,    口号
-stewed,    焦虑不安的
-succumb,    屈服
+resist,    抵抗
+spurn,    拒绝
 superficially,    从表面上看
-tattoo,    纹身
-typo,    文稿的小错误
-unanimous,    全体同意的
-unenviable,    艰难的
-vein,    静脉
-veracity,    真实性
-whistle,    吹口哨
 
 #### 眼熟
 
@@ -124,6 +85,7 @@ archive,    档案
 armpit,    腋窝
 army,    大群
 arrow,    箭
+artery,    动脉
 articulate,    明确表达
 articulation,    语言表达
 artifact,    历史文物
@@ -140,6 +102,7 @@ aurora borealis,    北极光
 aurora,    极光
 austere,    朴实的, 严肃的
 authentic,    真实的
+authoritarian,    专制的
 authority,    权威
 await,    等待
 awe,    敬畏
@@ -169,6 +132,7 @@ better part,    大部分
 beverage,    饮料
 bin,    垃圾桶
 binder,    粘合剂
+biopsy,    活检
 bipartisan,    代表两党的
 bishop,    主教
 bitterly,    及其
@@ -183,12 +147,14 @@ bombardment,    轰炸
 boo,    嘘
 boom,    繁荣
 boomer,    生育高峰出生的人
+bot,    自动程序
 bounce back,    迅速振作
 bound,    必然的
 bow,    鞠躬， 弓
 brag,    吹牛
 branch off,    分支
 brass,    黄铜
+breach,    违反
 brief,    短暂的
 brilliance,    才华
 bring on,    引发， 导致
@@ -198,6 +164,7 @@ brush,    刷
 bucket,    桶
 buckle,    屈服， 让步， 纽扣
 bulk,    主体
+bum,    使灰心
 bummed,    不高兴的
 bummer,    令人失望的事
 bunk,    床铺
@@ -214,11 +181,13 @@ candy,    糖果
 cannabinoid,    大麻素
 canonical,    标准的， 典范的
 canyon,    峡谷
+capillary,    心血管的
 capital return,    资本收益率
 capital,    首都
 capitulate,    认输
 captivity,    囚禁
 captor,    捕获者
+cardiovascular,    心血管的
 carnivalesque,    快乐的
 carpet,    地毯
 carve,    雕刻， 冲蚀， 割下
@@ -258,6 +227,7 @@ cityscape,    都市风景
 clause,    条款
 clean up after yourself,    自己打扫干净
 clearheaded,    头脑清醒的
+cleavage,    劈开， 卵裂
 cleric,    教徒
 clip,    修剪
 closure,    关闭
@@ -266,6 +236,7 @@ coarsely,    粗俗的
 cognition,    认知
 collect myself,    冷静下来
 collectively,    共同地
+come across,    发现， 偶然遇到
 come back,    重现
 come together,    开始成形
 comedian,    喜剧演员
@@ -282,9 +253,11 @@ competence,    能力
 compost,    堆肥
 compound,    加重
 conceive,    构想
+concoct,    虚构， 杜撰
 concrete,    确实的
 condition,    护理
 configuration,    布局
+connective,    结缔的
 contemplate,    沉思
 controlled,    冷静的， 克制的
 conviction,    坚定的信仰
@@ -306,6 +279,7 @@ count on,    依赖
 counter,    v. 还击, n-柜台
 couple,    耦合
 course,    道路
+courtesy,    礼貌
 cover,    床单， 被子
 covertly,    秘密地
 craft,    职业， 行业
@@ -326,6 +300,7 @@ cybercrime,    网络犯罪
 cylinder,    圆柱体
 cysteine,    半胱氨酸
 daffy,    愚笨的
+damn,    谴责
 dare,    挑战
 dawn,    开端
 dazzle,    使惊叹
@@ -373,6 +348,7 @@ discourse,    演讲， 论述， 谈话
 disembark,    登陆
 disembody,    使脱离肉体
 disgusting,    令人反感的
+dismal,    糟糕的， 惨淡的
 dismiss,    不理会
 dispatch,    电讯， 发送, 报道
 disposal,    清楚
@@ -401,6 +377,7 @@ dwelling,    住宅
 eager,    渴望
 ecstatic,    狂喜的
 edge,    修剪
+editorial,    社论， 主编的
 egress,    出口
 either,    要么
 elaborate,    复杂的， 精心制作的
@@ -433,6 +410,7 @@ even if,    即使
 exaggerate,    夸大
 exasperating,    令人恼怒地
 exclusively,    专门地
+expand,    细谈
 expect,    预计
 expedition,    考察
 expertise,    专长
@@ -444,6 +422,7 @@ extraterrestrial,    地外的
 extremism,    极端
 fair-minded,    公正的
 fantasy,    幻想
+far-reaching,    深远的
 fascist,    法西斯主义者
 faulty,    有故障的
 favor,    帮助(n)
@@ -462,6 +441,7 @@ find oneself doing sth,    不知不觉就
 finnish,    芬兰的
 fire,    解雇， 开除
 fiscal,    财政的
+fixation,    专注
 flavor,    风味
 flaw,    缺点
 fleeting,    短暂的
@@ -521,6 +501,8 @@ griffon,    秃鹫
 gripping,    扣人心弦的
 grit,    毅力， 勇气
 grizzled,    头发灰白的
+groan with sth,    被某物堆满
+groan,    抱怨
 grossly,    非常
 groundwork,    基础
 grown,    成年的
@@ -549,6 +531,7 @@ have nothing to do,    与...无关
 have,    使...处于什么状态
 hawk,    鹰派分子
 haywire,    天马行空的， 不受控制的
+hazy,    模糊的
 headliner,    头牌人物
 healer,    救援者
 heartily,    衷心的
@@ -556,6 +539,7 @@ heave,    起伏
 heaven forbid,    但愿不可能（口语）
 heaven,    天空， 天堂
 heaviness,    忧伤
+hectic,    忙碌的
 hell,    地狱
 herby,    多草本植物的
 high-rise,    高楼的
@@ -590,7 +574,9 @@ immense,    巨大的
 immersive,    沉浸式虚拟现实的
 impact,    撞击， 冲击力
 impair,    损害
+impenetrable,    不可见的
 imperil,    危及
+implication,    影响, 含义
 impose,    强制执行
 improvise,    即兴创作
 impulse,    冲动
@@ -598,6 +584,7 @@ impulsively,    有推动力的
 in a couple of hours,    几个小时后
 in any medium,    在任何媒体领域中
 in my own fashion,    以自己的方式
+in terms of,    在...方面
 in the two decades since,    自此以后二十年（省略了then）
 in this regard,    在这方面
 inbox,    收件箱
@@ -618,10 +605,12 @@ inflection,    音调变化
 inherent,    固有的
 insult,    侮辱
 intense,    激烈的
+interstitial,    间质的
 intimate,    亲密的
 intricate,    复杂的， 难学的
 introverted,    内向的
 invincible,    不可战胜的
+italy,    意大利
 jelly,    果冻
 jog,    慢跑
 jolt,    震惊
@@ -667,6 +656,7 @@ lot,    停车场
 luminosity,    光明
 lung,    肺
 luxuriate,    沉浸
+lymphatic,    淋巴的
 lyrical,    热情奔放的
 magnetic,    有吸引力的
 maitre,    管家
@@ -683,6 +673,7 @@ manuver,    动作
 mark,    成绩
 marquee,    大天幕
 marvel,    惊叹， 奇迹
+masthead,    刊头
 mate,    伙伴
 meant,    表达...的意思
 mechanism,    机械装置， 方法
@@ -790,6 +781,7 @@ persistent,    持续的
 perverse,    任性的, 违背常理的
 pessimism,    悲观
 petal,    花瓣
+petrified,    惊呆的
 phantom,    幻觉, 鬼魂, 虚幻的
 phenomenon,    现象
 philosophical,    哲学的
@@ -805,10 +797,12 @@ pity,    怜悯
 pivotal,    中枢的， 关键的
 plain,    朴素的
 plant,    工厂
+plea,    恳求
 plight,    困境
 plug,    插座
 plummeting,    骤然下跌
 point,    目的
+polio,    小儿麻痹症
 poll,    民意调查
 pond,    池塘
 ponder,    沉思
@@ -883,6 +877,7 @@ raid,    突袭检查
 rally,    聚会， 召集
 rallying cry,    口号
 ramble,    闲扯
+rant,    抱怨， 夸夸其谈
 rap,    说唱
 rapacious,    贪婪的
 rash,    轻率的
@@ -898,6 +893,7 @@ reckon,    估算
 recognition,    赞誉
 recontextualize,    重新审视
 recover,    寻回， 收回， 回收利用
+referendum,    全民投票
 reflection,    反思
 reflex,    反射
 refrain,    克制
@@ -915,7 +911,9 @@ representative,    代理人， 销售
 reptile,    爬行动物
 resemblance,    相似
 reservation,    预定
+resilience,    适应力
 resonant,    共振的， 共鸣的
+respectable,    体面的
 retire,    偿清债务
 retreat,    后退
 revel,    享受
@@ -933,8 +931,10 @@ robin,    知更鸟
 robot,    机器人
 rope bridge,    绳桥
 rosy,    有希望的， 有希望的
+rot,    腐败
 rowdy,    吵闹的
 rule,    占据重要地位
+ruling,    判决
 run,    管理
 rush,    冲， 匆忙
 rust out,    完全生锈
@@ -946,6 +946,7 @@ saint,    圣徒
 salvo,    齐射
 sample,    取样
 sanction,    制裁
+sarcastic,    讽刺的
 sauce,    酱
 sausage,    香肠
 scaffold,    脚手架
@@ -993,6 +994,7 @@ shrewd,    精明的
 shrink,    减少
 shrinking,    收缩
 sign up,    报名
+silhouette,    轮廓
 simultaneously,    同时的
 sip,    小口喝
 sitcom,    情景喜剧
@@ -1002,6 +1004,7 @@ skyrocket,    价格飞涨
 skycsraper,    摩天大楼
 slice,    划破
 slightly,    稍微
+slogan,    口号
 slough,    脱落
 smash(smash hits),    大获成功的歌曲
 smudge,    污点
@@ -1045,6 +1048,7 @@ state of the union,    国情咨文
 stateliness,    庄严
 stay up,    熬夜
 steer,    引导
+stewed,    焦虑不安的
 stick around,    停留
 stick,    卡住
 stimulus,    刺激
@@ -1064,6 +1068,7 @@ stunner,    绝妙的东西
 submissive,    卑躬屈膝的
 subscribe,    赞同
 subtitle,    字幕
+succumb,    屈服
 sucessvie,    连续的
 summon,    召唤
 supplicant,    恳求者
@@ -1096,6 +1101,7 @@ tap,    轻拍
 tardiness,    缓慢， 延迟
 tariff,    关税
 tasty,    美味的
+tattoo,    纹身
 tear off,    迅速写作，脱掉
 temporal,    世俗的， 时间的
 tender,    温柔的
@@ -1130,7 +1136,9 @@ tulip,    郁金香
 turmeric,    姜
 turn out,    大量生产
 turnout,    参加人数， 投票率
+typo,    文稿的小错误
 udder,    牛羊的乳房
+unanimous,    全体同意的
 unbeatable,    无与伦比的
 unbreakable,    不可战胜的
 uncanny,    神秘的， 可怕的
@@ -1138,6 +1146,7 @@ underdog,    弱者
 underlying,    潜在的
 underway,    正在进行中
 unearth,    发掘
+unenviable,    艰难的
 unfazed,    不苦恼的
 unfurl,    展开
 unholy,    不适宜的
@@ -1160,8 +1169,10 @@ urgently,    紧急地
 valentine's day,    情人节
 valiantly,    勇敢地
 vanity,    梳妆台， 虚荣心
+vein,    静脉
 venomous,    有毒的
 ventilator,    人工呼吸器
+veracity,    真实性
 verdict,    判决， 判断， 定论
 verse,    诗， 节， 句
 vest,    背心
@@ -1189,6 +1200,7 @@ what if,    倘若
 while,    一段时间
 whine,    嘎吱声
 whisk,    搅拌器
+whistle,    吹口哨
 will,    意志
 windmill,    风车
 wire,    电报
@@ -1422,71 +1434,32 @@ yet,    仍然， 然而
 
 
 #### 反向查询
-动脉  ,  artery
-专制的  ,  authoritarian
-活检  ,  biospy
-自动程序  ,  bot
-违反  ,  breach
-使灰心  ,  bum
-心血管的  ,  capillary
-心血管的  ,  cardiovascular
+约定  ,  appointment
+认为  ,  assume
+衰退  ,  atrophy
+酒吧间  ,  barroom
 （医学，武术）气  ,  chi
-劈开， 卵裂  ,  cleavage
-发现， 偶然遇到  ,  come across
+文明  ,  civility
 出乎意料  ,  come as a surprise
-虚构， 杜撰  ,  concoct
-结缔的  ,  connective
-礼貌  ,  courtesy
-谴责  ,  damn
 糖尿病  ,  diabete
-糟糕的， 惨淡的  ,  dismal
-社论， 主编的  ,  editorial
-细谈  ,  expand
-深远的  ,  far-reaching
+外向  ,  extroversion
 筋膜  ,  fascia
-专注  ,  fixation
+疲劳  ,  fatigue
 淡水  ,  freshwater
-被某物堆满  ,  groan with sth
-抱怨  ,  groan
 肠道  ,  gut
 幻觉  ,  hallucination
-模糊的  ,  hazy
-忙碌的  ,  hectic
-不可见的  ,  impenetrable
-影响  ,  implication
-在...方面  ,  in terms of
+由于  ,  hesitate
+不便  ,  inconvenience
 提供资料， 了解  ,  inform
 失眠  ,  insomnia
-间质的  ,  interstitial
 无脊椎动物  ,  invertebrate
-意大利  ,  italy
-淋巴的  ,  lymphatic
-刊头  ,  masthead
 中医经脉  ,  meridian
 转移的  ,  metastatic
+闲逛  ,  mill
 申请书  ,  petition
-惊呆的  ,  petrified
-恳求  ,  plea
-小儿麻痹症  ,  polio
-抱怨， 夸夸其谈  ,  rant
-全民投票  ,  referendum
-适应力  ,  resilience
-体面的  ,  respectable
-腐败  ,  rot
-判决  ,  ruling
-讽刺的  ,  sarcastic
-轮廓  ,  silhouette
-口号  ,  slogan
-焦虑不安的  ,  stewed
-屈服  ,  succumb
+抵抗  ,  resist
+拒绝  ,  spurn
 从表面上看  ,  superficially
-纹身  ,  tattoo
-文稿的小错误  ,  typo
-全体同意的  ,  unanimous
-艰难的  ,  unenviable
-静脉  ,  vein
-真实性  ,  veracity
-吹口哨  ,  whistle
 属于...范畴  ,  a matter of
 井然有序的景象  ,  a scene of order
 一大群  ,  a small army of
@@ -1542,6 +1515,7 @@ t调整  ,  adapt
 腋窝  ,  armpit
 大群  ,  army
 箭  ,  arrow
+动脉  ,  artery
 明确表达  ,  articulate
 语言表达  ,  articulation
 历史文物  ,  artifact
@@ -1558,6 +1532,7 @@ t调整  ,  adapt
 极光  ,  aurora
 朴实的, 严肃的  ,  austere
 真实的  ,  authentic
+专制的  ,  authoritarian
 权威  ,  authority
 等待  ,  await
 敬畏  ,  awe
@@ -1587,6 +1562,7 @@ t调整  ,  adapt
 饮料  ,  beverage
 垃圾桶  ,  bin
 粘合剂  ,  binder
+活检  ,  biopsy
 代表两党的  ,  bipartisan
 主教  ,  bishop
 及其  ,  bitterly
@@ -1601,12 +1577,14 @@ t调整  ,  adapt
 嘘  ,  boo
 繁荣  ,  boom
 生育高峰出生的人  ,  boomer
+自动程序  ,  bot
 迅速振作  ,  bounce back
 必然的  ,  bound
 鞠躬， 弓  ,  bow
 吹牛  ,  brag
 分支  ,  branch off
 黄铜  ,  brass
+违反  ,  breach
 短暂的  ,  brief
 才华  ,  brilliance
 引发， 导致  ,  bring on
@@ -1616,6 +1594,7 @@ t调整  ,  adapt
 桶  ,  bucket
 屈服， 让步， 纽扣  ,  buckle
 主体  ,  bulk
+使灰心  ,  bum
 不高兴的  ,  bummed
 令人失望的事  ,  bummer
 床铺  ,  bunk
@@ -1632,11 +1611,13 @@ t调整  ,  adapt
 大麻素  ,  cannabinoid
 标准的， 典范的  ,  canonical
 峡谷  ,  canyon
+心血管的  ,  capillary
 资本收益率  ,  capital return
 首都  ,  capital
 认输  ,  capitulate
 囚禁  ,  captivity
 捕获者  ,  captor
+心血管的  ,  cardiovascular
 快乐的  ,  carnivalesque
 地毯  ,  carpet
 雕刻， 冲蚀， 割下  ,  carve
@@ -1676,6 +1657,7 @@ t调整  ,  adapt
 条款  ,  clause
 自己打扫干净  ,  clean up after yourself
 头脑清醒的  ,  clearheaded
+劈开， 卵裂  ,  cleavage
 教徒  ,  cleric
 修剪  ,  clip
 关闭  ,  closure
@@ -1684,6 +1666,7 @@ t调整  ,  adapt
 认知  ,  cognition
 冷静下来  ,  collect myself
 共同地  ,  collectively
+发现， 偶然遇到  ,  come across
 重现  ,  come back
 开始成形  ,  come together
 喜剧演员  ,  comedian
@@ -1700,9 +1683,11 @@ t调整  ,  adapt
 堆肥  ,  compost
 加重  ,  compound
 构想  ,  conceive
+虚构， 杜撰  ,  concoct
 确实的  ,  concrete
 护理  ,  condition
 布局  ,  configuration
+结缔的  ,  connective
 沉思  ,  contemplate
 冷静的， 克制的  ,  controlled
 坚定的信仰  ,  conviction
@@ -1724,6 +1709,7 @@ t调整  ,  adapt
 v. 还击, n-柜台  ,  counter
 耦合  ,  couple
 道路  ,  course
+礼貌  ,  courtesy
 床单， 被子  ,  cover
 秘密地  ,  covertly
 职业， 行业  ,  craft
@@ -1744,6 +1730,7 @@ v. 还击, n-柜台  ,  counter
 圆柱体  ,  cylinder
 半胱氨酸  ,  cysteine
 愚笨的  ,  daffy
+谴责  ,  damn
 挑战  ,  dare
 开端  ,  dawn
 使惊叹  ,  dazzle
@@ -1791,6 +1778,7 @@ v. 还击, n-柜台  ,  counter
 登陆  ,  disembark
 使脱离肉体  ,  disembody
 令人反感的  ,  disgusting
+糟糕的， 惨淡的  ,  dismal
 不理会  ,  dismiss
 电讯， 发送, 报道  ,  dispatch
 清楚  ,  disposal
@@ -1819,6 +1807,7 @@ v. 还击, n-柜台  ,  counter
 渴望  ,  eager
 狂喜的  ,  ecstatic
 修剪  ,  edge
+社论， 主编的  ,  editorial
 出口  ,  egress
 要么  ,  either
 复杂的， 精心制作的  ,  elaborate
@@ -1851,6 +1840,7 @@ v. 还击, n-柜台  ,  counter
 夸大  ,  exaggerate
 令人恼怒地  ,  exasperating
 专门地  ,  exclusively
+细谈  ,  expand
 预计  ,  expect
 考察  ,  expedition
 专长  ,  expertise
@@ -1862,6 +1852,7 @@ v. 还击, n-柜台  ,  counter
 极端  ,  extremism
 公正的  ,  fair-minded
 幻想  ,  fantasy
+深远的  ,  far-reaching
 法西斯主义者  ,  fascist
 有故障的  ,  faulty
 帮助(n)  ,  favor
@@ -1880,6 +1871,7 @@ v. 还击, n-柜台  ,  counter
 芬兰的  ,  finnish
 解雇， 开除  ,  fire
 财政的  ,  fiscal
+专注  ,  fixation
 风味  ,  flavor
 缺点  ,  flaw
 短暂的  ,  fleeting
@@ -1939,6 +1931,8 @@ v. 还击, n-柜台  ,  counter
 扣人心弦的  ,  gripping
 毅力， 勇气  ,  grit
 头发灰白的  ,  grizzled
+被某物堆满  ,  groan with sth
+抱怨  ,  groan
 非常  ,  grossly
 基础  ,  groundwork
 成年的  ,  grown
@@ -1967,6 +1961,7 @@ v. 还击, n-柜台  ,  counter
 使...处于什么状态  ,  have
 鹰派分子  ,  hawk
 天马行空的， 不受控制的  ,  haywire
+模糊的  ,  hazy
 头牌人物  ,  headliner
 救援者  ,  healer
 衷心的  ,  heartily
@@ -1974,6 +1969,7 @@ v. 还击, n-柜台  ,  counter
 但愿不可能（口语）  ,  heaven forbid
 天空， 天堂  ,  heaven
 忧伤  ,  heaviness
+忙碌的  ,  hectic
 地狱  ,  hell
 多草本植物的  ,  herby
 高楼的  ,  high-rise
@@ -2008,7 +2004,9 @@ v. 还击, n-柜台  ,  counter
 沉浸式虚拟现实的  ,  immersive
 撞击， 冲击力  ,  impact
 损害  ,  impair
+不可见的  ,  impenetrable
 危及  ,  imperil
+影响, 含义  ,  implication
 强制执行  ,  impose
 即兴创作  ,  improvise
 冲动  ,  impulse
@@ -2016,6 +2014,7 @@ v. 还击, n-柜台  ,  counter
 几个小时后  ,  in a couple of hours
 在任何媒体领域中  ,  in any medium
 以自己的方式  ,  in my own fashion
+在...方面  ,  in terms of
 自此以后二十年（省略了then）  ,  in the two decades since
 在这方面  ,  in this regard
 收件箱  ,  inbox
@@ -2036,10 +2035,12 @@ v. 还击, n-柜台  ,  counter
 固有的  ,  inherent
 侮辱  ,  insult
 激烈的  ,  intense
+间质的  ,  interstitial
 亲密的  ,  intimate
 复杂的， 难学的  ,  intricate
 内向的  ,  introverted
 不可战胜的  ,  invincible
+意大利  ,  italy
 果冻  ,  jelly
 慢跑  ,  jog
 震惊  ,  jolt
@@ -2085,6 +2086,7 @@ v. 还击, n-柜台  ,  counter
 光明  ,  luminosity
 肺  ,  lung
 沉浸  ,  luxuriate
+淋巴的  ,  lymphatic
 热情奔放的  ,  lyrical
 有吸引力的  ,  magnetic
 管家  ,  maitre
@@ -2101,6 +2103,7 @@ v. 还击, n-柜台  ,  counter
 成绩  ,  mark
 大天幕  ,  marquee
 惊叹， 奇迹  ,  marvel
+刊头  ,  masthead
 伙伴  ,  mate
 表达...的意思  ,  meant
 机械装置， 方法  ,  mechanism
@@ -2208,6 +2211,7 @@ v. 还击, n-柜台  ,  counter
 任性的, 违背常理的  ,  perverse
 悲观  ,  pessimism
 花瓣  ,  petal
+惊呆的  ,  petrified
 幻觉, 鬼魂, 虚幻的  ,  phantom
 现象  ,  phenomenon
 哲学的  ,  philosophical
@@ -2223,10 +2227,12 @@ v. 还击, n-柜台  ,  counter
 中枢的， 关键的  ,  pivotal
 朴素的  ,  plain
 工厂  ,  plant
+恳求  ,  plea
 困境  ,  plight
 插座  ,  plug
 骤然下跌  ,  plummeting
 目的  ,  point
+小儿麻痹症  ,  polio
 民意调查  ,  poll
 池塘  ,  pond
 沉思  ,  ponder
@@ -2301,6 +2307,7 @@ v. 还击, n-柜台  ,  counter
 聚会， 召集  ,  rally
 口号  ,  rallying cry
 闲扯  ,  ramble
+抱怨， 夸夸其谈  ,  rant
 说唱  ,  rap
 贪婪的  ,  rapacious
 轻率的  ,  rash
@@ -2316,6 +2323,7 @@ v. 还击, n-柜台  ,  counter
 赞誉  ,  recognition
 重新审视  ,  recontextualize
 寻回， 收回， 回收利用  ,  recover
+全民投票  ,  referendum
 反思  ,  reflection
 反射  ,  reflex
 克制  ,  refrain
@@ -2333,7 +2341,9 @@ v. 还击, n-柜台  ,  counter
 爬行动物  ,  reptile
 相似  ,  resemblance
 预定  ,  reservation
+适应力  ,  resilience
 共振的， 共鸣的  ,  resonant
+体面的  ,  respectable
 偿清债务  ,  retire
 后退  ,  retreat
 享受  ,  revel
@@ -2351,8 +2361,10 @@ n. 可与之匹敌者。 v. 比得上  ,  rival
 机器人  ,  robot
 绳桥  ,  rope bridge
 有希望的， 有希望的  ,  rosy
+腐败  ,  rot
 吵闹的  ,  rowdy
 占据重要地位  ,  rule
+判决  ,  ruling
 管理  ,  run
 冲， 匆忙  ,  rush
 完全生锈  ,  rust out
@@ -2364,6 +2376,7 @@ n. 可与之匹敌者。 v. 比得上  ,  rival
 齐射  ,  salvo
 取样  ,  sample
 制裁  ,  sanction
+讽刺的  ,  sarcastic
 酱  ,  sauce
 香肠  ,  sausage
 脚手架  ,  scaffold
@@ -2411,6 +2424,7 @@ n. 可与之匹敌者。 v. 比得上  ,  rival
 减少  ,  shrink
 收缩  ,  shrinking
 报名  ,  sign up
+轮廓  ,  silhouette
 同时的  ,  simultaneously
 小口喝  ,  sip
 情景喜剧  ,  sitcom
@@ -2420,6 +2434,7 @@ n. 可与之匹敌者。 v. 比得上  ,  rival
 摩天大楼  ,  skycsraper
 划破  ,  slice
 稍微  ,  slightly
+口号  ,  slogan
 脱落  ,  slough
 大获成功的歌曲  ,  smash(smash hits)
 污点  ,  smudge
@@ -2463,6 +2478,7 @@ n. 可与之匹敌者。 v. 比得上  ,  rival
 庄严  ,  stateliness
 熬夜  ,  stay up
 引导  ,  steer
+焦虑不安的  ,  stewed
 停留  ,  stick around
 卡住  ,  stick
 刺激  ,  stimulus
@@ -2482,6 +2498,7 @@ n. 可与之匹敌者。 v. 比得上  ,  rival
 卑躬屈膝的  ,  submissive
 赞同  ,  subscribe
 字幕  ,  subtitle
+屈服  ,  succumb
 连续的  ,  sucessvie
 召唤  ,  summon
 恳求者  ,  supplicant
@@ -2514,6 +2531,7 @@ n. 可与之匹敌者。 v. 比得上  ,  rival
 缓慢， 延迟  ,  tardiness
 关税  ,  tariff
 美味的  ,  tasty
+纹身  ,  tattoo
 迅速写作，脱掉  ,  tear off
 世俗的， 时间的  ,  temporal
 温柔的  ,  tender
@@ -2548,7 +2566,9 @@ n. 可与之匹敌者。 v. 比得上  ,  rival
 姜  ,  turmeric
 大量生产  ,  turn out
 参加人数， 投票率  ,  turnout
+文稿的小错误  ,  typo
 牛羊的乳房  ,  udder
+全体同意的  ,  unanimous
 无与伦比的  ,  unbeatable
 不可战胜的  ,  unbreakable
 神秘的， 可怕的  ,  uncanny
@@ -2556,6 +2576,7 @@ n. 可与之匹敌者。 v. 比得上  ,  rival
 潜在的  ,  underlying
 正在进行中  ,  underway
 发掘  ,  unearth
+艰难的  ,  unenviable
 不苦恼的  ,  unfazed
 展开  ,  unfurl
 不适宜的  ,  unholy
@@ -2578,8 +2599,10 @@ n. 可与之匹敌者。 v. 比得上  ,  rival
 情人节  ,  valentine's day
 勇敢地  ,  valiantly
 梳妆台， 虚荣心  ,  vanity
+静脉  ,  vein
 有毒的  ,  venomous
 人工呼吸器  ,  ventilator
+真实性  ,  veracity
 判决， 判断， 定论  ,  verdict
 诗， 节， 句  ,  verse
 背心  ,  vest
@@ -2607,6 +2630,7 @@ n. 可与之匹敌者。 v. 比得上  ,  rival
 一段时间  ,  while
 嘎吱声  ,  whine
 搅拌器  ,  whisk
+吹口哨  ,  whistle
 意志  ,  will
 风车  ,  windmill
 电报  ,  wire
