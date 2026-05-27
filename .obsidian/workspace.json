@@ -43,97 +43,17 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "生物化学/第八章 酶作用机制和活性调节.md",
+                "file": "生物化学/第九章 糖.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "第八章 酶作用机制和活性调节"
+              "title": "第九章 糖"
             }
           },
           {
-            "id": "feee047c8af837c2",
-            "type": "leaf",
-            "state": {
-              "type": "terminal:terminal",
-              "state": {
-                "terminal:terminal": {
-                  "cwd": "E:\\markdown\\obsidian-files\\课程作业",
-                  "focus": false,
-                  "profile": {
-                    "args": [
-                      "--login"
-                    ],
-                    "executable": "C:\\Program Files\\Git\\bin\\bash.exe",
-                    "followTheme": true,
-                    "name": "git",
-                    "platforms": {
-                      "win32": true
-                    },
-                    "pythonExecutable": "python3",
-                    "restoreHistory": false,
-                    "rightClickAction": "copyPaste",
-                    "successExitCodes": [
-                      "0",
-                      "SIGINT",
-                      "SIGTERM"
-                    ],
-                    "terminalOptions": {
-                      "documentOverride": null
-                    },
-                    "type": "integrated",
-                    "useWin32Conhost": true
-                  },
-                  "serial": null
-                }
-              },
-              "icon": "terminal",
-              "title": "终端：MINGW64:/e/markdown/obsidian-files/课程作业"
-            }
-          },
-          {
-            "id": "9f67091fe4c82ee3",
-            "type": "leaf",
-            "state": {
-              "type": "terminal:terminal",
-              "state": {
-                "terminal:terminal": {
-                  "cwd": "E:\\markdown\\obsidian-files\\课程作业",
-                  "focus": false,
-                  "profile": {
-                    "args": [
-                      "--login"
-                    ],
-                    "executable": "C:\\Program Files\\Git\\bin\\bash.exe",
-                    "followTheme": true,
-                    "name": "git",
-                    "platforms": {
-                      "win32": true
-                    },
-                    "pythonExecutable": "python3",
-                    "restoreHistory": false,
-                    "rightClickAction": "copyPaste",
-                    "successExitCodes": [
-                      "0",
-                      "SIGINT",
-                      "SIGTERM"
-                    ],
-                    "terminalOptions": {
-                      "documentOverride": null
-                    },
-                    "type": "integrated",
-                    "useWin32Conhost": true
-                  },
-                  "serial": null
-                }
-              },
-              "icon": "terminal",
-              "title": "终端：MINGW64:/e/markdown/obsidian-files/课程作业"
-            }
-          },
-          {
-            "id": "f968473b645cd852",
+            "id": "b8a0b24b1382d13e",
             "type": "leaf",
             "state": {
               "type": "terminal:terminal",
@@ -230,8 +150,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "04afecf6d35a93bd",
@@ -273,8 +192,11 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "feee047c8af837c2",
+  "active": "b8a0b24b1382d13e",
   "lastOpenFiles": [
+    "生物化学/第九章 糖.md",
+    "分子生物学/pictures/呋喃糖构象.jpg",
+    "分子生物学/pictures/单糖环状结构.jpg",
     "生物化学/第八章 酶作用机制和活性调节.md",
     "分子生物学/pictures/酶可逆共价修饰类型.jpg",
     "生物化学/第七章 酶动力学.md",
@@ -311,14 +233,11 @@
     "生物学知识引用块/蛋白质定量方法.md",
     "生物学知识引用块/层析的类型.md",
     "分子生物学/Question/DNA复制.md",
-    "分子生物学/Question/基因组维持.md",
     "分子生物学/pictures/DNA迁移.jpg",
     "分子生物学/pictures/基因组大小和生物复杂性的关系.jpg",
     "分子生物学/pictures",
     "分子生物学/新建文件夹",
     "分子生物学/Question",
-    "未命名 1",
-    "生物学知识引用块/pictures/肌联蛋白.png",
-    "生物学知识引用块/pictures/肌球蛋白.png"
+    "未命名 1"
   ]
 }
