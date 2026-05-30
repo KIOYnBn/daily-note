@@ -1,23 +1,13 @@
 1. well <-> badly
 2. slowly <-> quickly | swiftly
-3. notoriously
-
+3. notoriously - obscurely
 ## adversative relation
 1. yet
-2. 
-
-
-
-# Adverbial Phrase
-1. bounce back: 迅速振作
-	- The scientists bounced back quickly and returned to work
-## Event
-1. be made to ： 被迫做某事
-	1. Students are made to wear uniforms at this school.
-
+2. but rather
+3. not yet
+	1. I've finished my homework, but my brother has not yet started his.
 ## Time
-1. From time to time
-2. Now and again
-
+1. From time to time / Now and again
+2. In the recent past
 ## degree
 1. distinctly

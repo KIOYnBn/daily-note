@@ -1,8 +1,9 @@
-
 ## 事件描述
 ### 以...为例
-- take
-	- Take the phenomenon of online pop music.
+- Consider + 事件（正式）
+	- e.g. Consider the Industrial Revolution; it fundamentally changed how people lived and worked
+-  Take + 事件
+	1. e.g. Take the 2008 financial crisis; it exposed many flaws in the global banking system
 ## 以...为主体
 - make up the bulk of
 ### 表达
@@ -16,6 +17,7 @@
 		- We should not frame failure as a shame.我们不该把失败视作耻辱。 
 	- frame sth in…用…… 方式表达 / 阐述 
 		- frame the issue in a rational way以理性角度阐述、看待问题
+## 认为
 ### 相符
 - something fit something
 ### 表明
@@ -33,6 +35,7 @@
 ### 发生
 - Occur: sth. occur
 	- note: 不及物动词
+- appear
 ### 替代
 - Substitute: substitute sth.(old) for sth.(new)
 	- Subtitle old thing for new thing 
@@ -51,11 +54,18 @@
 	- make every endeavor to do : 竭尽全力做
 	- in an endeavor to do 
 		- In an endeavor to build a better society, everyone should take responsibility.
+## 振作
+- bounce back: 迅速振作
+	- The scientists bounced back quickly and returned to work
 ### 想出对策
 - Figure out
 	- We need to *figure out* ways to reduce waste.
 ### 适应
 - fit into sth
+	- sb be fit for sth
+	- something fit sb for something
+- be made to ： 被迫做某事
+	1. Students are made to wear uniforms at this school.
 ### 筹备
 - arrange
 - organize(更正式)
@@ -63,7 +73,7 @@
 ### 弄懂
 - Figure out: Figure out sth(how to do|why?what)
 	- I finally *figured out* the rule
-- wrap their heads around auroras: 理解， 弄懂
+- wrap their heads around: 理解， 弄懂
 	- they're still trying to wrap their heads around auroras.
 - absorb
 ### 搞混
@@ -77,7 +87,3 @@
 - make up their minds
 - make decision.
 ---
-## 人和环境
-### 适合
-- sb be fit for sth
-- something fit sb for something

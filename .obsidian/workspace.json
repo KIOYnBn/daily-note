@@ -11,17 +11,19 @@
             "id": "a637551ddafd68bd",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "word-datset.base",
-                "viewName": "表格"
+                "file": "积累/写作或口语积累/Verb.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-table",
-              "title": "word-datset"
+              "icon": "lucide-file",
+              "title": "Verb"
             }
           },
           {
-            "id": "cc02098194666f85",
+            "id": "1319d18b3daf5c1f",
             "type": "leaf",
             "state": {
               "type": "terminal:terminal",
@@ -58,6 +60,19 @@
               },
               "icon": "terminal",
               "title": "终端：MINGW64:/e/markdown/obsidian-files/english"
+            }
+          },
+          {
+            "id": "cc02098194666f85",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "word-datset.base",
+                "viewName": "表格"
+              },
+              "icon": "lucide-table",
+              "title": "word-datset"
             }
           }
         ],
@@ -114,8 +129,7 @@
               "title": "查词面板"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -198,9 +212,19 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "cc02098194666f85",
+  "active": "1319d18b3daf5c1f",
   "lastOpenFiles": [
+    "积累/写作或口语积累/Verb.md",
+    "积累/写作或口语积累/prep.md",
+    "积累/写作或口语积累/Noun.md",
+    "积累/写作或口语积累/Conjunction.md",
+    "积累/写作或口语积累/Adverb.md",
+    "积累/写作或口语积累/adverbial.md",
+    "积累/写作或口语积累/Adjective.md",
     "word-datset.base",
+    "积累/写作或口语积累/句子积累.md",
+    "积累/语法/表语.md",
+    "积累/句型积累.md",
     "word-dataset/bargain.md",
     "word-dataset/odds.md",
     "word-dataset/legible.md",
@@ -217,15 +241,6 @@
     "word-dataset/wallflower.md",
     "word-dataset/coax.md",
     "word-dataset/outgoing.md",
-    "word-dataset/ringleader.md",
-    "word-dataset/fatigue.md",
-    "word-dataset/hesitate.md",
-    "word-dataset/spurn.md",
-    "word-dataset/civility.md",
-    "word-dataset/inconvenience.md",
-    "word-dataset/atrophy.md",
-    "word-dataset/appointment.md",
-    "word-dataset/barroom.md",
     "积累/单词/后缀base.base",
     "积累/单词/后缀",
     "积累/单词/词根base.base",
