@@ -21,87 +21,7 @@
             }
           },
           {
-            "id": "2bad1d1a576cb183",
-            "type": "leaf",
-            "state": {
-              "type": "terminal:terminal",
-              "state": {
-                "terminal:terminal": {
-                  "cwd": "E:\\markdown\\obsidian-files\\english",
-                  "focus": false,
-                  "profile": {
-                    "args": [
-                      "--login"
-                    ],
-                    "executable": "C:\\Program Files\\Git\\bin\\bash.exe",
-                    "followTheme": true,
-                    "name": "",
-                    "platforms": {
-                      "win32": true
-                    },
-                    "pythonExecutable": "python3",
-                    "restoreHistory": false,
-                    "rightClickAction": "copyPaste",
-                    "successExitCodes": [
-                      "0",
-                      "SIGINT",
-                      "SIGTERM"
-                    ],
-                    "terminalOptions": {
-                      "documentOverride": null
-                    },
-                    "type": "integrated",
-                    "useWin32Conhost": true
-                  },
-                  "serial": null
-                }
-              },
-              "icon": "terminal",
-              "title": "终端：MINGW64:/e/markdown/obsidian-files/english"
-            }
-          },
-          {
-            "id": "fc2caf6c57e70419",
-            "type": "leaf",
-            "state": {
-              "type": "terminal:terminal",
-              "state": {
-                "terminal:terminal": {
-                  "cwd": "E:\\markdown\\obsidian-files\\english",
-                  "focus": false,
-                  "profile": {
-                    "args": [
-                      "--login"
-                    ],
-                    "executable": "C:\\Program Files\\Git\\bin\\bash.exe",
-                    "followTheme": true,
-                    "name": "",
-                    "platforms": {
-                      "win32": true
-                    },
-                    "pythonExecutable": "python3",
-                    "restoreHistory": false,
-                    "rightClickAction": "copyPaste",
-                    "successExitCodes": [
-                      "0",
-                      "SIGINT",
-                      "SIGTERM"
-                    ],
-                    "terminalOptions": {
-                      "documentOverride": null
-                    },
-                    "type": "integrated",
-                    "useWin32Conhost": true
-                  },
-                  "serial": null
-                }
-              },
-              "icon": "terminal",
-              "title": "终端：MINGW64:/e/markdown/obsidian-files/english"
-            }
-          },
-          {
-            "id": "4f323b9f4ac0cf07",
+            "id": "cc02098194666f85",
             "type": "leaf",
             "state": {
               "type": "terminal:terminal",
@@ -194,7 +114,8 @@
               "title": "查词面板"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -261,7 +182,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 272.5
+    "width": 272.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -276,7 +198,7 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "2bad1d1a576cb183",
+  "active": "cc02098194666f85",
   "lastOpenFiles": [
     "word-datset.base",
     "word-dataset/bargain.md",
