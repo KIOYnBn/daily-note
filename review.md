@@ -1,62 +1,92 @@
 #flashcards
 
 #word
-#### appointment
+#### alienate
 ?
-约定
+疏远
 
 #word
-#### assume
+#### baffle
 ?
-认为
+困惑
 
 #word
-#### atrophy
+#### bargain
 ?
-衰退
+协议
 
 #word
-#### barroom
+#### but rather
 ?
-酒吧间
+而是
 
 #word
-#### civility
+#### coax
 ?
-文明
+哄劝
 
 #word
-#### extroversion
+#### common ground
 ?
-外向
+共同点
 
 #word
-#### fatigue
+#### embarrassment
 ?
-疲劳
+尴尬
 
 #word
-#### hesitate
+#### ensue
 ?
-由于
+因而发生
 
 #word
-#### inconvenience
+#### inscrutable
 ?
-不便
+难以理解的
 
 #word
-#### mill
+#### legible
 ?
-闲逛
+清晰的
 
 #word
-#### resist
+#### mix
 ?
-抵抗
+交往
 
 #word
-#### spurn
+#### odds
 ?
-拒绝
+可能性
+
+#word
+#### outgoing
+?
+外向的
+
+#word
+#### receptive
+?
+乐于接受的
+
+#word
+#### rigorous
+?
+严格的
+
+#word
+#### ringleader
+?
+头目
+
+#word
+#### stipulate
+?
+规定
+
+#word
+#### wallflower
+?
+聚会呆在一旁的人
 

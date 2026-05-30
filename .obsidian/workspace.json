@@ -21,6 +21,46 @@
             }
           },
           {
+            "id": "2bad1d1a576cb183",
+            "type": "leaf",
+            "state": {
+              "type": "terminal:terminal",
+              "state": {
+                "terminal:terminal": {
+                  "cwd": "E:\\markdown\\obsidian-files\\english",
+                  "focus": false,
+                  "profile": {
+                    "args": [
+                      "--login"
+                    ],
+                    "executable": "C:\\Program Files\\Git\\bin\\bash.exe",
+                    "followTheme": true,
+                    "name": "",
+                    "platforms": {
+                      "win32": true
+                    },
+                    "pythonExecutable": "python3",
+                    "restoreHistory": false,
+                    "rightClickAction": "copyPaste",
+                    "successExitCodes": [
+                      "0",
+                      "SIGINT",
+                      "SIGTERM"
+                    ],
+                    "terminalOptions": {
+                      "documentOverride": null
+                    },
+                    "type": "integrated",
+                    "useWin32Conhost": true
+                  },
+                  "serial": null
+                }
+              },
+              "icon": "terminal",
+              "title": "终端：MINGW64:/e/markdown/obsidian-files/english"
+            }
+          },
+          {
             "id": "fc2caf6c57e70419",
             "type": "leaf",
             "state": {
@@ -154,8 +194,7 @@
               "title": "查词面板"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -222,8 +261,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 272.5,
-    "collapsed": true
+    "width": 272.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -238,9 +276,26 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "fc2caf6c57e70419",
+  "active": "2bad1d1a576cb183",
   "lastOpenFiles": [
     "word-datset.base",
+    "word-dataset/bargain.md",
+    "word-dataset/odds.md",
+    "word-dataset/legible.md",
+    "word-dataset/common ground.md",
+    "word-dataset/inscrutable.md",
+    "word-dataset/but rather.md",
+    "word-dataset/rigorous.md",
+    "word-dataset/baffle.md",
+    "word-dataset/alienate.md",
+    "word-dataset/stipulate.md",
+    "word-dataset/embarrassment.md",
+    "word-dataset/receptive.md",
+    "word-dataset/mix.md",
+    "word-dataset/wallflower.md",
+    "word-dataset/coax.md",
+    "word-dataset/outgoing.md",
+    "word-dataset/ringleader.md",
     "word-dataset/fatigue.md",
     "word-dataset/hesitate.md",
     "word-dataset/spurn.md",
@@ -249,23 +304,6 @@
     "word-dataset/atrophy.md",
     "word-dataset/appointment.md",
     "word-dataset/barroom.md",
-    "word-dataset/assume.md",
-    "word-dataset/mill.md",
-    "word-dataset/extroversion.md",
-    "word-dataset/resist.md",
-    "word-dataset/biopsy.md",
-    "积累/写作或口语积累/句子积累.md",
-    "word-dataset/come as a surprise.md",
-    "word-dataset/invertebrate.md",
-    "word-dataset/freshwater.md",
-    "word-dataset/gut.md",
-    "word-dataset/diabete.md",
-    "word-dataset/inform.md",
-    "word-dataset/metastatic.md",
-    "word-dataset/superficially.md",
-    "word-dataset/chi.md",
-    "word-dataset/meridian.md",
-    "word-dataset/insomnia.md",
     "积累/单词/后缀base.base",
     "积累/单词/后缀",
     "积累/单词/词根base.base",

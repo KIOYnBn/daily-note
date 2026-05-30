@@ -1,12 +1,20 @@
 #### 新学
+alienate,    疏远
 appointment,    约定
 assume,    认为
 atrophy,    衰退
+baffle,    困惑
+bargain,    协议
 barroom,    酒吧间
+but rather,    而是
 chi,    （医学，武术）气
-civility,    文明
+civility,    礼貌
+coax,    哄劝
 come as a surprise,    出乎意料
+common ground,    共同点
 diabete,    糖尿病
+embarrassment,    尴尬
+ensue,    因而发生
 extroversion,    外向
 fascia,    筋膜
 fatigue,    疲劳
@@ -16,15 +24,25 @@ hallucination,    幻觉
 hesitate,    由于
 inconvenience,    不便
 inform,    提供资料， 了解
+inscrutable,    难以理解的
 insomnia,    失眠
 invertebrate,    无脊椎动物
+legible,    清晰的
 meridian,    中医经脉
 metastatic,    转移的
 mill,    闲逛
+mix,    交往
+odds,    可能性
+outgoing,    外向的
 petition,    申请书
+receptive,    乐于接受的
 resist,    抵抗
+rigorous,    严格的
+ringleader,    头目
 spurn,    拒绝
+stipulate,    规定
 superficially,    从表面上看
+wallflower,    聚会呆在一旁的人
 
 #### 眼熟
 
@@ -393,7 +411,6 @@ engage with,    深刻探讨
 engagement,    约会
 enity,    实体
 enslave,    征服
-ensue,    继而发生
 entendre,    双关
 enthusiasm,    热情， 热忱
 entice,    诱使
@@ -1434,14 +1451,22 @@ yet,    仍然， 然而
 
 
 #### 反向查询
+疏远  ,  alienate
 约定  ,  appointment
 认为  ,  assume
 衰退  ,  atrophy
+困惑  ,  baffle
+协议  ,  bargain
 酒吧间  ,  barroom
+而是  ,  but rather
 （医学，武术）气  ,  chi
-文明  ,  civility
+礼貌  ,  civility
+哄劝  ,  coax
 出乎意料  ,  come as a surprise
+共同点  ,  common ground
 糖尿病  ,  diabete
+尴尬  ,  embarrassment
+因而发生  ,  ensue
 外向  ,  extroversion
 筋膜  ,  fascia
 疲劳  ,  fatigue
@@ -1451,15 +1476,25 @@ yet,    仍然， 然而
 由于  ,  hesitate
 不便  ,  inconvenience
 提供资料， 了解  ,  inform
+难以理解的  ,  inscrutable
 失眠  ,  insomnia
 无脊椎动物  ,  invertebrate
+清晰的  ,  legible
 中医经脉  ,  meridian
 转移的  ,  metastatic
 闲逛  ,  mill
+交往  ,  mix
+可能性  ,  odds
+外向的  ,  outgoing
 申请书  ,  petition
+乐于接受的  ,  receptive
 抵抗  ,  resist
+严格的  ,  rigorous
+头目  ,  ringleader
 拒绝  ,  spurn
+规定  ,  stipulate
 从表面上看  ,  superficially
+聚会呆在一旁的人  ,  wallflower
 属于...范畴  ,  a matter of
 井然有序的景象  ,  a scene of order
 一大群  ,  a small army of
@@ -1823,7 +1858,6 @@ v. 还击, n-柜台  ,  counter
 约会  ,  engagement
 实体  ,  enity
 征服  ,  enslave
-继而发生  ,  ensue
 双关  ,  entendre
 热情， 热忱  ,  enthusiasm
 诱使  ,  entice
