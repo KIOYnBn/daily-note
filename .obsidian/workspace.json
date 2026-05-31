@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "026ae521d039b306",
+    "id": "6dc70aa30eb937f2",
     "type": "split",
     "children": [
       {
-        "id": "ba19f953cef86b8d",
+        "id": "0f01aa6659957e1a",
         "type": "tabs",
         "children": [
           {
-            "id": "31409ae383ecabe5",
+            "id": "d2453bcb2cbc8fa0",
             "type": "leaf",
             "state": {
               "type": "terminal:terminal",
@@ -53,15 +53,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "e6a8e01792453871",
+    "id": "541157f803537679",
     "type": "split",
     "children": [
       {
-        "id": "43740fd7bab41997",
+        "id": "0777f60bd0278bd6",
         "type": "tabs",
         "children": [
           {
-            "id": "b21552ffd2023d53",
+            "id": "76003321a5d9df2e",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -74,7 +74,7 @@
             }
           },
           {
-            "id": "36713cae5e91b103",
+            "id": "daaf6b8dd8206c13",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -97,15 +97,15 @@
     "width": 300
   },
   "right": {
-    "id": "7d3839973ff5ccfa",
+    "id": "0c2764f65d8ec353",
     "type": "split",
     "children": [
       {
-        "id": "c4ab8d7e38e1b056",
+        "id": "0c2c9ad5b11b3acc",
         "type": "tabs",
         "children": [
           {
-            "id": "b09929d4b8643364",
+            "id": "27d7cc1f3173c8d1",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,7 +120,7 @@
             }
           },
           {
-            "id": "369d65a95692a0a6",
+            "id": "1f5856bcaf2f63bb",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -133,8 +133,7 @@
               "title": "大纲"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -147,53 +146,21 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "31409ae383ecabe5",
+  "active": "d2453bcb2cbc8fa0",
   "lastOpenFiles": [
-    "文献阅读/蛋白质结构/蛋白质结构域预测/D-I-TASSER/笔记.md",
-    "文献阅读/蛋白质结构/蛋白质结构域预测/pictures/fig 1.webp",
-    "文献阅读/蛋白质结构/蛋白质结构域预测/pictures/fig 1.webp.crdownload",
-    "文献阅读/蛋白质结构/蛋白质结构域预测/pictures",
-    "文献阅读/蛋白质结构/蛋白质结构域预测/新建文件夹",
-    "Pasted image 20260526162801.png",
-    "文献阅读/蛋白质结构/蛋白质结构域预测/D-I-TASSER/文章.pdf",
-    "工具使用/深度学习/模块/注意力机制.md",
-    "文献阅读/蛋白质结构/蛋白质结构域预测/D-I-TASSER",
-    "文献阅读/蛋白质结构/蛋白质结构域预测",
-    "文献阅读/蛋白质结构/新建文件夹",
-    "文献阅读/蛋白质结构",
-    "文献阅读/新建文件夹",
-    "工具使用/深度学习/数学原理/正则化.md",
-    "工具使用/深度学习/未命名.md",
-    "工具使用/深度学习/数学原理",
-    "工具使用/深度学习/大模型基础知识.md",
-    "工具使用/深度学习/模块/前馈网络.md",
-    "文献阅读/药物/ALLSites/代码学习.md",
-    "工具使用/深度学习/模块/Layernorm.md",
-    "工具使用/深度学习/模块/Norm.md",
-    "工具使用/深度学习/模块/池化.md",
-    "工具使用/深度学习/代码示例/注意力加权池化.md",
-    "文献阅读/药物/ALLSites/笔记.md",
-    "工具使用/深度学习/模块/GLU.md",
-    "工具使用/深度学习/模块/残差缩放.md",
-    "工具使用/深度学习/代码示例/Conv1D+GLU.md",
-    "工具使用/编程语言/R语言/R包的下载.md",
-    "工具使用/编程语言/R语言/数据类型.md",
-    "工具使用/深度学习/pytorch/模型训练步骤.md",
-    "工具使用/深度学习/pytorch/gpu使用.md",
-    "工具使用/深度学习/pytorch/参数量与占用现存换算.md",
-    "工具使用/深度学习/pytorch/固定种子.md",
-    "文献阅读/药物/ALLSites/新知识.md",
-    "文献阅读/药物/ALLSites/好图.md",
-    "文献阅读/药物/ALLSites/pictures/好图2.jpg",
-    "文献阅读/药物/ALLSites/pictures/好图1.jpg",
-    "文献阅读/药物/ALLSites/pictures/架构.jpg",
-    "文献阅读/药物/ALLSites/Word.md",
-    "文献阅读/药物/ALLSites/pictures/ESM-C VS ESM-2.jpg",
-    "文献阅读/待读文献.md",
-    "生物信息学内容导航/山东大学课程/pictures/局部比对算法.png",
-    "生物信息学内容导航/山东大学课程/pictures/CATH.png",
-    "生物信息学内容导航/山东大学课程/pictures/SCOP2.png",
-    "生物信息学内容导航/山东大学课程/pictures/序列比对.png",
-    "python基础/第三方库/未命名.canvas"
+    "文献阅读/蛋白质结构/D-I-TASSER/笔记.md",
+    "文献阅读/蛋白质结构/Fast and accurate protein structure search with Foldseek.md",
+    "文献阅读/蛋白质结构/D-I-TASSER/pictures/fig 1.webp",
+    "文献阅读/蛋白质结构/D-I-TASSER/新知识.md",
+    "文献阅读/蛋白质结构/D-I-TASSER/pictures/残基距离图.jpg",
+    "文献阅读/蛋白质结构/D-I-TASSER/pictures/single-domain 消融实验.jpg",
+    "文献阅读/蛋白质结构/D-I-TASSER/pictures/TM-score绘图示例-6.jpg",
+    "文献阅读/蛋白质结构/D-I-TASSER/pictures/TM-score绘图示例-5.jpg",
+    "文献阅读/蛋白质结构/D-I-TASSER/pictures/TM-score绘图示例-4.jpg",
+    "文献阅读/蛋白质结构/D-I-TASSER/pictures/TM-score绘图示例-3.jpg",
+    "文献阅读/蛋白质结构/D-I-TASSER/pictures/TM-score绘图示例-2.jpg",
+    "文献阅读/蛋白质结构/D-I-TASSER/pictures/TM-score绘图示例-1.jpg",
+    "文献阅读/蛋白质结构/D-I-TASSER/pictures",
+    "文献阅读/蛋白质结构/蛋白质结构域预测/D-I-TASSER/新建文件夹"
   ]
 }
