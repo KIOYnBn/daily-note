@@ -23,7 +23,20 @@
             }
           },
           {
-            "id": "1319d18b3daf5c1f",
+            "id": "cc02098194666f85",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "word-datset.base",
+                "viewName": "表格"
+              },
+              "icon": "lucide-table",
+              "title": "word-datset"
+            }
+          },
+          {
+            "id": "c3a4e5d92e54217a",
             "type": "leaf",
             "state": {
               "type": "terminal:terminal",
@@ -61,22 +74,9 @@
               "icon": "terminal",
               "title": "终端：MINGW64:/e/markdown/obsidian-files/english"
             }
-          },
-          {
-            "id": "cc02098194666f85",
-            "type": "leaf",
-            "state": {
-              "type": "bases",
-              "state": {
-                "file": "word-datset.base",
-                "viewName": "表格"
-              },
-              "icon": "lucide-table",
-              "title": "word-datset"
-            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -129,7 +129,8 @@
               "title": "查词面板"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -212,35 +213,34 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "1319d18b3daf5c1f",
+  "active": "c3a4e5d92e54217a",
   "lastOpenFiles": [
-    "积累/写作或口语积累/Verb.md",
-    "积累/写作或口语积累/prep.md",
-    "积累/写作或口语积累/Noun.md",
-    "积累/写作或口语积累/Conjunction.md",
-    "积累/写作或口语积累/Adverb.md",
-    "积累/写作或口语积累/adverbial.md",
-    "积累/写作或口语积累/Adjective.md",
     "word-datset.base",
-    "积累/写作或口语积累/句子积累.md",
-    "积累/语法/表语.md",
-    "积累/句型积累.md",
-    "word-dataset/bargain.md",
-    "word-dataset/odds.md",
-    "word-dataset/legible.md",
-    "word-dataset/common ground.md",
-    "word-dataset/inscrutable.md",
-    "word-dataset/but rather.md",
-    "word-dataset/rigorous.md",
-    "word-dataset/baffle.md",
-    "word-dataset/alienate.md",
-    "word-dataset/stipulate.md",
-    "word-dataset/embarrassment.md",
-    "word-dataset/receptive.md",
-    "word-dataset/mix.md",
-    "word-dataset/wallflower.md",
-    "word-dataset/coax.md",
-    "word-dataset/outgoing.md",
+    "word-dataset/deliberately.md",
+    "word-dataset/dispute.md",
+    "积累/单词/近义词.md",
+    "积累/写作或口语积累/Verb.md",
+    "word-dataset/backlash.md",
+    "word-dataset/brewing.md",
+    "word-dataset/lecture theater.md",
+    "word-dataset/theologian.md",
+    "word-dataset/clergy.md",
+    "word-dataset/nun.md",
+    "word-dataset/hourlong.md",
+    "word-dataset/takeaway.md",
+    "word-dataset/topline.md",
+    "word-dataset/touch on.md",
+    "word-dataset/warfare.md",
+    "word-dataset/stray.md",
+    "word-dataset/indelibly.md",
+    "word-dataset/spritz.md",
+    "word-dataset/pollen.md",
+    "word-dataset/inscribe.md",
+    "word-dataset/byproduct.md",
+    "word-dataset/windshield.md",
+    "word-dataset/more-than-respectable.md",
+    "word-dataset/genre.md",
+    "word-dataset/palate.md",
     "积累/单词/后缀base.base",
     "积累/单词/后缀",
     "积累/单词/词根base.base",

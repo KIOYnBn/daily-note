@@ -1,92 +1,119 @@
 #flashcards
 
 #word
-#### alienate
+#### backlash
 ?
-疏远
+强烈反对
 
 #word
-#### baffle
+#### bishop
 ?
-困惑
+主教
+**Sentences**:
+*He was appointed bishop last year.*
 
 #word
-#### bargain
+#### brewing
 ?
-协议
+计划
 
 #word
-#### but rather
+#### byproduct
 ?
-而是
+副产品
 
 #word
-#### coax
+#### clergy
 ?
-哄劝
+神职人员
 
 #word
-#### common ground
+#### dispute
 ?
-共同点
+争论
 
 #word
-#### embarrassment
+#### genre
 ?
-尴尬
+体裁， 类型
 
 #word
-#### ensue
+#### hourlong
 ?
-因而发生
+每小时的
 
 #word
-#### inscrutable
+#### indelibly
 ?
-难以理解的
+不可磨灭地
 
 #word
-#### legible
+#### inscribe
 ?
-清晰的
+刻
 
 #word
-#### mix
+#### lecture theater
 ?
-交往
+讲堂
 
 #word
-#### odds
+#### more-than-respectable
 ?
-可能性
+相当可观的
 
 #word
-#### outgoing
+#### nun
 ?
-外向的
+修女
 
 #word
-#### receptive
+#### palate
 ?
-乐于接受的
+趣味
 
 #word
-#### rigorous
+#### pollen
 ?
-严格的
+花粉
 
 #word
-#### ringleader
+#### spritz
 ?
-头目
+喷
 
 #word
-#### stipulate
+#### stray
 ?
-规定
+走失的
 
 #word
-#### wallflower
+#### takeaway
 ?
-聚会呆在一旁的人
+要点
+
+#word
+#### theologian
+?
+神学家
+
+#word
+#### topline
+?
+顶流的
+
+#word
+#### touch on
+?
+谈及
+
+#word
+#### warfare
+?
+战争
+
+#word
+#### windshield
+?
+挡风玻璃
 
