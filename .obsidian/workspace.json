@@ -79,7 +79,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "PCA",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -148,6 +148,11 @@
   },
   "active": "d2453bcb2cbc8fa0",
   "lastOpenFiles": [
+    "文献阅读/蛋白质与配体结合/笔记/AF2BIND/笔记.md",
+    "文献阅读/蛋白质与配体结合/笔记/AF2BIND/PCA.md",
+    "文献阅读/蛋白质与配体结合/笔记/AF2BIND/SiteMap.md",
+    "文献阅读/蛋白质与配体结合/笔记/AF2BIND/RMSD.md",
+    "文献阅读/蛋白质与配体结合/笔记/AF2BIND/Pair representation.md",
     "文献阅读/蛋白质结构/D-I-TASSER/笔记.md",
     "文献阅读/蛋白质结构/Fast and accurate protein structure search with Foldseek.md",
     "文献阅读/蛋白质结构/D-I-TASSER/pictures/fig 1.webp",
