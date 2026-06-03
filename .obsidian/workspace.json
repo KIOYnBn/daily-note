@@ -23,47 +23,7 @@
             }
           },
           {
-            "id": "ea49ff87f348f5b8",
-            "type": "leaf",
-            "state": {
-              "type": "terminal:terminal",
-              "state": {
-                "terminal:terminal": {
-                  "cwd": "E:\\markdown\\obsidian-files\\课程作业",
-                  "focus": false,
-                  "profile": {
-                    "args": [
-                      "--login"
-                    ],
-                    "executable": "C:\\Program Files\\Git\\bin\\bash.exe",
-                    "followTheme": true,
-                    "name": "git",
-                    "platforms": {
-                      "win32": true
-                    },
-                    "pythonExecutable": "python3",
-                    "restoreHistory": false,
-                    "rightClickAction": "copyPaste",
-                    "successExitCodes": [
-                      "0",
-                      "SIGINT",
-                      "SIGTERM"
-                    ],
-                    "terminalOptions": {
-                      "documentOverride": null
-                    },
-                    "type": "integrated",
-                    "useWin32Conhost": true
-                  },
-                  "serial": null
-                }
-              },
-              "icon": "terminal",
-              "title": "终端：MINGW64:/e/markdown/obsidian-files/课程作业"
-            }
-          },
-          {
-            "id": "266b69844fe4a109",
+            "id": "f3485b142db74ea0",
             "type": "leaf",
             "state": {
               "type": "terminal:terminal",
@@ -156,7 +116,8 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -202,9 +163,10 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "ea49ff87f348f5b8",
+  "active": "f3485b142db74ea0",
   "lastOpenFiles": [
     "生物化学/第九章 糖.md",
+    "生物化学/第二章 氨基酸， 肽， 蛋白质.md",
     "生物化学/第一章 生命分子基础.md",
     "生物学知识引用块/革兰氏阳性菌与阴性菌.md",
     "生物化学/pictures/寡糖命名的示例.jpg",
@@ -231,7 +193,6 @@
     "生物化学/知识块.md",
     "生物化学/第五章 蛋白质性质， 分离纯化和鉴定.md",
     "生物化学/第四章 蛋白质生物学功能.md",
-    "生物化学/第二章 氨基酸， 肽， 蛋白质.md",
     "生物学知识引用块/pictures/蛋白质组学定量技术.png",
     "分子生物学/单词.md",
     "生物学知识引用块/蛋白质分离纯化鉴定技术/电泳/电泳.md",
