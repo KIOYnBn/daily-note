@@ -4,49 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "8470d9d50d03f924",
+        "id": "d825ef565e8044bb",
         "type": "tabs",
         "children": [
           {
-            "id": "0641cfa0537c9ec8",
+            "id": "1aa2f757675a7241",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "科研/单细胞测序.md",
+                "file": "专业课/分子生物学/基因组表达.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "单细胞测序"
+              "title": "基因组表达"
             }
           },
           {
-            "id": "2e662e0a373083d9",
+            "id": "7e6796f61bc7764e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "专业课/分子生物学.md",
+                "file": "专业课/政治/第十二章 建设社会主义生态文明.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "分子生物学"
-            }
-          },
-          {
-            "id": "805d0c05bb6fab92",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "专业课/2025秋/遗传学/DNA复制.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "DNA复制"
+              "title": "第十二章 建设社会主义生态文明"
             }
           }
         ],
@@ -78,7 +64,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "转录",
             "matchingCase": true,
             "explainSearch": false,
             "collapseAll": false,
@@ -126,7 +112,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "实验技术/质谱.md",
+            "file": "专业课/政治/第十二章 建设社会主义生态文明.md",
             "followCursor": true,
             "showSearch": true,
             "searchQuery": ""
@@ -164,54 +150,54 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "2e662e0a373083d9",
+  "active": "7e6796f61bc7764e",
   "lastOpenFiles": [
-    "pictures/端粒T-loop结构.png",
-    "pictures/端粒酶机制.jpg",
-    "差异分析.md",
-    "科研/单细胞测序.md",
-    "科研/单细胞分析流程.md",
-    "科研/降维聚类.md",
-    "ppt思路.md",
-    "科研",
-    "实验技术/质谱.md",
-    "专业课/分子生物学.md",
-    "pictures/CLAMP LOADER.jpg",
-    "pictures/DNA复制的解旋过程.png",
-    "pictures/真核生物复制时解旋酶激活.png",
-    "pictures/E.coli replicon.png",
-    "专业课/2025秋/遗传学/DNA复制.md",
+    "专业课/政治/第十一章 以保障和改善民生为重点 加强社会建设.md",
+    "专业课/政治/第十二章 建设社会主义生态文明.md",
     "专业课/2025秋/遗传学/转录.md",
+    "专业课/分子生物学/基因组表达.md",
+    "专业课/分子生物学.md",
+    "专业课/2025秋/遗传学/第十四章 DNA转座.md",
+    "专业课/2025秋/遗传学/DNA重组.md",
     "专业课/2025秋/遗传学/遗传学Genetics.md",
-    "日记/2026-03-11.md",
-    "专业课/蛋白质组学.md",
-    "专业课/政治/第九章 全面依法治国.md",
-    "专业课/政治/第七章 社会主义现代化建设的教育， 科技， 人才战略.md",
-    "专业课/政治/第六章 推动高质量发展.md",
-    "专业课/政治/第五章 全面深化改革.md",
-    "生物学基本概念/核酸酶.md",
-    "实验技术/色谱/HPLC高效液相色谱仪.md",
-    "实验技术/色谱/MudPIT.md",
+    "pictures/类病毒转座子.png",
+    "pictures/转座过程2.png",
+    "pictures/转座过程.png",
+    "专业课/2025秋/遗传学/未知笔记.md",
+    "pictures/SSR.jpg",
+    "专业课/2025秋/遗传学/DNA突变类型.md",
+    "pictures/DSB.jpg",
+    "pictures/同源重组.png",
+    "pictures/DNA损伤修复.jpg",
+    "pictures/NER.jpg",
+    "专业课/2025秋/遗传学/染色体结构与DNA.md",
+    "pictures/胸腺嘧啶二聚体.webp",
+    "pictures/错配修复.png",
     "专业课/基因组学.md",
-    "专业课/人类进化生物学.md",
-    "专业课/政治/第三章 坚持党的全面领导.md",
-    "专业课/政治/第二章.md",
-    "专业课/政治/第四章 坚持以人民为中心.md",
-    "专业课/政治.md",
+    "实验技术/色谱/HPLC高效液相色谱仪.md",
+    "实验技术/蛋白质定量方法.md",
+    "实验技术/第五章 蛋白质性质， 分离纯化和鉴定.md",
+    "实验技术/电泳/电泳.md",
+    "实验技术/色谱/层析的类型.md",
+    "实验技术/未命名",
+    "专业课/政治/第十章 加快建设社会主义文化强国.md",
+    "专业课/政治/第九章 全面依法治国.md",
+    "专业课/分子生物学/Q&A/第八章.md",
+    "专业课/分子生物学/Q&A/第九章.md",
+    "科研/单细胞测序.md",
+    "专业课/2025秋/遗传学/DNA复制.md",
+    "专业课/分子生物学/Q&A.md",
+    "专业课/分子生物学/Q&A",
+    "专业课/分子生物学",
+    "差异分析.md",
+    "科研/单细胞分析流程.md",
+    "科研",
     "未命名.base",
     "实验技术/色谱",
     "实验技术/电泳/按分离原理分类",
     "实验技术/电泳/按介质分",
-    "pictures/原核生物的DNA POL类型.jpg",
     "实验技术/测序",
     "生物学基本概念",
-    "pictures/11-23翻译.jpg",
-    "未命名 2.base",
-    "未命名 1.base",
-    "实验技术/电泳",
-    "pictures/DNA手指结构域.jpg",
-    "pictures/DNA聚合酶活性.jpg",
-    "pictures/DNA POL区分dNTP, rNTP.jpg",
     "未命名.canvas"
   ]
 }
