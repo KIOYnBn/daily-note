@@ -1,8 +1,7 @@
 ---
 expression: memoir
-meaning: 回忆录
-date: 2026-04-04 11:35:43
-status: 了解
+meaning: '回忆录'
+date: 2026-06-03 15:37:27
+status: 新学
 type: WORD
-sentence1: He published a memoir about his childhood in the countryside
 ---

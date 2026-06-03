@@ -1,10 +1,7 @@
 ---
 expression: prescribe
-meaning: 规定
-date: 2026-04-23 15:52:30
-status: 了解
+meaning: '规定'
+date: 2026-06-03 15:31:20
+status: 新学
 type: WORD
-sentence1: The rules prescribe how students should behave
-trans1: ""
-origin1: ""
 ---

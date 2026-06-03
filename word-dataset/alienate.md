@@ -2,7 +2,7 @@
 expression: alienate
 meaning: 疏远
 date: 2026-05-30 13:34:51
-status: 新学
+status: 了解
 type: WORD
 sentence1: The government cannot afford to alienate either group.
 ---

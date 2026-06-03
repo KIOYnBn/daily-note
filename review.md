@@ -1,119 +1,147 @@
 #flashcards
 
 #word
-#### backlash
+#### accountable
 ?
-强烈反对
+负有责任的
 
 #word
-#### bishop
+#### arrogant
 ?
-主教
-**Sentences**:
-*He was appointed bishop last year.*
+傲慢的
 
 #word
-#### brewing
+#### barrel
 ?
-计划
+桶
 
 #word
-#### byproduct
+#### bounty
 ?
-副产品
+慷慨
 
 #word
-#### clergy
+#### buffet
 ?
-神职人员
+自助餐
 
 #word
-#### dispute
+#### checklist
 ?
-争论
+清单
 
 #word
-#### genre
+#### complexion
 ?
-体裁， 类型
+特质
 
 #word
-#### hourlong
+#### count
 ?
-每小时的
+认为
 
 #word
-#### indelibly
+#### devour
 ?
-不可磨灭地
+如饥似渴地阅读
 
 #word
-#### inscribe
+#### engross
 ?
-刻
+全神贯注
 
 #word
-#### lecture theater
+#### enlist
 ?
-讲堂
+争取
 
 #word
-#### more-than-respectable
+#### feast
 ?
-相当可观的
+尽情享用
 
 #word
-#### nun
+#### go it alone
 ?
-修女
+独自行动
 
 #word
-#### palate
+#### graze
 ?
-趣味
+吃零食， 放牧
 
 #word
-#### pollen
+#### humid
 ?
-花粉
+潮湿的
 
 #word
-#### spritz
+#### immersion
 ?
-喷
+专心
 
 #word
-#### stray
+#### lavishly
 ?
-走失的
+丰富地
 
 #word
-#### takeaway
+#### lemonade
 ?
-要点
+柠檬汁
 
 #word
-#### theologian
+#### memoir
 ?
-神学家
+回忆录
 
 #word
-#### topline
+#### plate
 ?
-顶流的
+盘子
 
 #word
-#### touch on
+#### pointer
 ?
-谈及
+建议
 
 #word
-#### warfare
+#### prescribe
 ?
-战争
+规定
 
 #word
-#### windshield
+#### recommendation
 ?
-挡风玻璃
+建议
+
+#word
+#### sequel
+?
+续集
+
+#word
+#### stalwart
+?
+忠诚的， 拥护者
+
+#word
+#### stretch out
+?
+伸展
+
+#word
+#### subway
+?
+地铁
+
+#word
+#### unyoke
+?
+解开束缚
+
+#word
+#### uptight
+?
+紧张的， 拮据的
 

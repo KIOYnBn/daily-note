@@ -1,60 +1,79 @@
 #### 新学
+accountable,    负有责任的
 alienate,    疏远
 anthropic,    人类的
+arrogant,    傲慢的
 atrophy,    衰退
 backlash,    强烈反对
 baffle,    困惑
 bargain,    协议
+barrel,    桶
 bishop,    主教
+bounty,    慷慨
 brewing,    计划
-but rather,    而是
+buffet,    自助餐
 byproduct,    副产品
+checklist,    清单
 clergy,    神职人员
 coax,    哄劝
 coexistence,    共存
-common ground,    共同点
-condemn,    谴责
-delibrately,    小心翼翼地
+complexion,    特质
+count,    认为
+deliberately,    小心翼翼地, 故意的， 不慌不忙的
 detriment,    损害
+devour,    如饥似渴地阅读
 dispute,    争论
-embarrassment,    尴尬
+engross,    全神贯注
+enlist,    争取
 ensue,    因而发生
 fatigue,    疲劳
+feast,    尽情享用
 frontier,    前沿领域
 genre,    体裁， 类型
-goodwill,    信誉， 善意
+go it alone,    独自行动
+graze,    吃零食， 放牧
 holiness,    陛下
 hourlong,    每小时的
+humid,    潮湿的
+immersion,    专心
 inconvenience,    不便
 indelibly,    不可磨灭地
 inscribe,    刻
 inscrutable,    难以理解的
 insomnia,    失眠
 invertebrate,    无脊椎动物
-juncture,    关键时刻
+lavishly,    丰富地
 lecture theater,    讲堂
 legible,    清晰的
+lemonade,    柠檬汁
+memoir,    回忆录
 meridian,    中医经脉
 mix,    交往
 more-than-respectable,    相当可观的
 nun,    修女
-odds,    可能性
-outgoing,    外向的
 palate,    趣味
 papacy,    天主教会
+plate,    盘子
+pointer,    建议
 pollen,    花粉
+prescribe,    规定
 receptive,    乐于接受的
-rigorous,    严格的
-ringleader,    头目
+recommendation,    建议
+sequel,    续集
 slave,    奴隶
 spritz,    喷
 spurn,    拒绝
+stalwart,    忠诚的， 拥护者
 stipulate,    规定
 stray,    走失的
+stretch out,    伸展
+subway,    地铁
 takeaway,    要点
 theologian,    神学家
 topline,    顶流的
 touch on,    谈及
+unyoke,    解开束缚
+uptight,    紧张的， 拮据的
 wallflower,    聚会呆在一旁的人
 warfare,    战争
 windshield,    挡风玻璃
@@ -205,6 +224,7 @@ bummer,    令人失望的事
 bunk,    床铺
 bureaucrat,    官僚
 bustling,    繁华的
+but rather,    而是
 butter,    黄油， 干果酱
 by,    相差
 cabinet,    内阁的
@@ -285,6 +305,7 @@ commander,    指挥官
 commence,    开始
 commendable,    值得赞扬的
 commitment,    信奉
+common ground,    共同点
 commuter,    上班往返的人
 companion,    伴侣
 competence,    能力
@@ -293,6 +314,7 @@ compound,    加重
 conceive,    构想
 concoct,    虚构， 杜撰
 concrete,    确实的
+condemn,    谴责
 condition,    护理
 configuration,    布局
 connective,    结缔的
@@ -424,6 +446,7 @@ elbow,    肘
 elctromagnetism,    电磁学
 electrophile,    亲电试剂
 elegance,    优雅
+embarrassment,    尴尬
 eminent,    杰出的
 encompass,    包含
 encryption,    加密
@@ -529,6 +552,7 @@ gleeful,    欢快的
 gloom,    忧郁
 go into,    深入研究
 go on,    进行， 发生
+goodwill,    信誉， 善意
 gorgeous,    美丽动人的
 gracious,    和蔼的
 grand,    壮丽的， 宏大的
@@ -601,7 +625,6 @@ horn,    喇叭
 host,    主持人
 hostess,    女主人， 女服务员
 hub,    中心
-humid,    潮湿的
 humiliate,    蒙羞
 hurdle,    困难
 hurtle,    碰撞
@@ -663,6 +686,7 @@ journalism,    新闻报道, 新闻业
 joyous,    高兴的
 judicial,    司法的
 jump the shark,    意为作品质量下降
+juncture,    关键时刻
 june,    六月
 jungle,    丛林
 jurisdiction,    管辖范围
@@ -726,7 +750,6 @@ medicare,    医疗保健制度
 meditation,    沉思录， 冥想
 medium,    媒介
 melody,    曲调
-memoir,    回忆录
 menace,    威胁
 mess,    困境
 metaphor,    隐喻
@@ -783,6 +806,7 @@ obligation,    必须要做的事
 obliterate,    摧毁
 obsessively,    过分地， 着迷地
 occasion,    时刻
+odds,    可能性
 off-grid,    离网的
 off-the-rack,    现成的
 offensive,    无理的
@@ -792,6 +816,7 @@ oneself,    自己
 open-and-shut,    一目了然
 open-minded,    开明的， 谦虚的
 organically,    自发地
+outgoing,    外向的
 outrageous,    无法容忍的
 overdose,    药量过多
 overgrow,    过度生长
@@ -872,7 +897,6 @@ predecessor,    前任， 前辈
 preliminary,    预备的， 初步行动
 premise,    前提
 premium,    高价的, 保险费
-prescribe,    规定
 presentable,    漂亮的， 穿着整洁的
 preserve,    保存
 presidency,    总统任期
@@ -973,6 +997,8 @@ rezone,    再分区
 ridiculous,    可笑的
 rifle,    步枪
 rift,    裂缝
+rigorous,    严格的
+ringleader,    头目
 rival,    n. 可与之匹敌者。 v. 比得上
 roam,    漫步
 robin,    知更鸟
@@ -1483,62 +1509,81 @@ yet,    仍然， 然而
 
 
 #### 反向查询
+负有责任的  ,  accountable
 疏远  ,  alienate
 人类的  ,  anthropic
+傲慢的  ,  arrogant
 衰退  ,  atrophy
 强烈反对  ,  backlash
 困惑  ,  baffle
 协议  ,  bargain
+桶  ,  barrel
 主教  ,  bishop
+慷慨  ,  bounty
 计划  ,  brewing
-而是  ,  but rather
+自助餐  ,  buffet
 副产品  ,  byproduct
+清单  ,  checklist
 神职人员  ,  clergy
 哄劝  ,  coax
 共存  ,  coexistence
-共同点  ,  common ground
-谴责  ,  condemn
-小心翼翼地  ,  delibrately
+特质  ,  complexion
+认为  ,  count
+小心翼翼地, 故意的， 不慌不忙的  ,  deliberately
 损害  ,  detriment
+如饥似渴地阅读  ,  devour
 争论  ,  dispute
-尴尬  ,  embarrassment
+全神贯注  ,  engross
+争取  ,  enlist
 因而发生  ,  ensue
 疲劳  ,  fatigue
+尽情享用  ,  feast
 前沿领域  ,  frontier
 体裁， 类型  ,  genre
-信誉， 善意  ,  goodwill
+独自行动  ,  go it alone
+吃零食， 放牧  ,  graze
 陛下  ,  holiness
 每小时的  ,  hourlong
+潮湿的  ,  humid
+专心  ,  immersion
 不便  ,  inconvenience
 不可磨灭地  ,  indelibly
 刻  ,  inscribe
 难以理解的  ,  inscrutable
 失眠  ,  insomnia
 无脊椎动物  ,  invertebrate
-关键时刻  ,  juncture
+丰富地  ,  lavishly
 讲堂  ,  lecture theater
 清晰的  ,  legible
+柠檬汁  ,  lemonade
+回忆录  ,  memoir
 中医经脉  ,  meridian
 交往  ,  mix
 相当可观的  ,  more-than-respectable
 修女  ,  nun
-可能性  ,  odds
-外向的  ,  outgoing
 趣味  ,  palate
 天主教会  ,  papacy
+盘子  ,  plate
+建议  ,  pointer
 花粉  ,  pollen
+规定  ,  prescribe
 乐于接受的  ,  receptive
-严格的  ,  rigorous
-头目  ,  ringleader
+建议  ,  recommendation
+续集  ,  sequel
 奴隶  ,  slave
 喷  ,  spritz
 拒绝  ,  spurn
+忠诚的， 拥护者  ,  stalwart
 规定  ,  stipulate
 走失的  ,  stray
+伸展  ,  stretch out
+地铁  ,  subway
 要点  ,  takeaway
 神学家  ,  theologian
 顶流的  ,  topline
 谈及  ,  touch on
+解开束缚  ,  unyoke
+紧张的， 拮据的  ,  uptight
 聚会呆在一旁的人  ,  wallflower
 战争  ,  warfare
 挡风玻璃  ,  windshield
@@ -1684,6 +1729,7 @@ t调整  ,  adapt
 床铺  ,  bunk
 官僚  ,  bureaucrat
 繁华的  ,  bustling
+而是  ,  but rather
 黄油， 干果酱  ,  butter
 相差  ,  by
 内阁的  ,  cabinet
@@ -1764,6 +1810,7 @@ t调整  ,  adapt
 开始  ,  commence
 值得赞扬的  ,  commendable
 信奉  ,  commitment
+共同点  ,  common ground
 上班往返的人  ,  commuter
 伴侣  ,  companion
 能力  ,  competence
@@ -1772,6 +1819,7 @@ t调整  ,  adapt
 构想  ,  conceive
 虚构， 杜撰  ,  concoct
 确实的  ,  concrete
+谴责  ,  condemn
 护理  ,  condition
 布局  ,  configuration
 结缔的  ,  connective
@@ -1903,6 +1951,7 @@ v. 还击, n-柜台  ,  counter
 电磁学  ,  elctromagnetism
 亲电试剂  ,  electrophile
 优雅  ,  elegance
+尴尬  ,  embarrassment
 杰出的  ,  eminent
 包含  ,  encompass
 加密  ,  encryption
@@ -2008,6 +2057,7 @@ v. 还击, n-柜台  ,  counter
 忧郁  ,  gloom
 深入研究  ,  go into
 进行， 发生  ,  go on
+信誉， 善意  ,  goodwill
 美丽动人的  ,  gorgeous
 和蔼的  ,  gracious
 壮丽的， 宏大的  ,  grand
@@ -2080,7 +2130,6 @@ v. 还击, n-柜台  ,  counter
 主持人  ,  host
 女主人， 女服务员  ,  hostess
 中心  ,  hub
-潮湿的  ,  humid
 蒙羞  ,  humiliate
 困难  ,  hurdle
 碰撞  ,  hurtle
@@ -2142,6 +2191,7 @@ v. 还击, n-柜台  ,  counter
 高兴的  ,  joyous
 司法的  ,  judicial
 意为作品质量下降  ,  jump the shark
+关键时刻  ,  juncture
 六月  ,  june
 丛林  ,  jungle
 管辖范围  ,  jurisdiction
@@ -2205,7 +2255,6 @@ v. 还击, n-柜台  ,  counter
 沉思录， 冥想  ,  meditation
 媒介  ,  medium
 曲调  ,  melody
-回忆录  ,  memoir
 威胁  ,  menace
 困境  ,  mess
 隐喻  ,  metaphor
@@ -2262,6 +2311,7 @@ v. 还击, n-柜台  ,  counter
 摧毁  ,  obliterate
 过分地， 着迷地  ,  obsessively
 时刻  ,  occasion
+可能性  ,  odds
 离网的  ,  off-grid
 现成的  ,  off-the-rack
 无理的  ,  offensive
@@ -2271,6 +2321,7 @@ v. 还击, n-柜台  ,  counter
 一目了然  ,  open-and-shut
 开明的， 谦虚的  ,  open-minded
 自发地  ,  organically
+外向的  ,  outgoing
 无法容忍的  ,  outrageous
 药量过多  ,  overdose
 过度生长  ,  overgrow
@@ -2351,7 +2402,6 @@ v. 还击, n-柜台  ,  counter
 预备的， 初步行动  ,  preliminary
 前提  ,  premise
 高价的, 保险费  ,  premium
-规定  ,  prescribe
 漂亮的， 穿着整洁的  ,  presentable
 保存  ,  preserve
 总统任期  ,  presidency
@@ -2452,6 +2502,8 @@ v. 还击, n-柜台  ,  counter
 可笑的  ,  ridiculous
 步枪  ,  rifle
 裂缝  ,  rift
+严格的  ,  rigorous
+头目  ,  ringleader
 n. 可与之匹敌者。 v. 比得上  ,  rival
 漫步  ,  roam
 知更鸟  ,  robin

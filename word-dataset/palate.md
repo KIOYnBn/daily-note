@@ -1,7 +1,8 @@
 ---
 expression: palate
-meaning: '趣味'
+meaning: 趣味
 date: 2026-06-01 18:21:30
 status: 新学
 type: WORD
+sentence1: This novel may appeal to readers with a more sophisticated literary palate.
 ---
