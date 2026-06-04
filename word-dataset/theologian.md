@@ -2,7 +2,7 @@
 expression: theologian
 meaning: 神学家
 date: 2026-06-01 18:31:44
-status: 新学
+status: 了解
 type: WORD
 sentence1: The theologian spent decades studying the nature of divine grace.
 ---

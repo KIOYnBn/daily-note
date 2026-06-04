@@ -1,147 +1,67 @@
 #flashcards
 
 #word
-#### accountable
+#### acquaintance
 ?
-负有责任的
+相识之人
 
 #word
-#### arrogant
+#### aspirational
 ?
-傲慢的
+梦寐以求的
 
 #word
-#### barrel
+#### bronze
 ?
-桶
+青铜
 
 #word
-#### bounty
+#### leisure
 ?
-慷慨
+休闲
 
 #word
-#### buffet
+#### meadow
 ?
-自助餐
+草地
 
 #word
-#### checklist
+#### nope
 ?
-清单
+不（俚语）
 
 #word
-#### complexion
+#### renaissance
 ?
-特质
+文艺复兴
 
 #word
-#### count
+#### scrap
 ?
-认为
+抛弃， 放弃
 
 #word
-#### devour
+#### text
 ?
-如饥似渴地阅读
+短信
 
 #word
-#### engross
+#### timeline
 ?
-全神贯注
+时间线
 
 #word
-#### enlist
+#### transaction
 ?
-争取
+交易
 
 #word
-#### feast
+#### visa
 ?
-尽情享用
+签证
 
 #word
-#### go it alone
+#### visible
 ?
-独自行动
-
-#word
-#### graze
-?
-吃零食， 放牧
-
-#word
-#### humid
-?
-潮湿的
-
-#word
-#### immersion
-?
-专心
-
-#word
-#### lavishly
-?
-丰富地
-
-#word
-#### lemonade
-?
-柠檬汁
-
-#word
-#### memoir
-?
-回忆录
-
-#word
-#### plate
-?
-盘子
-
-#word
-#### pointer
-?
-建议
-
-#word
-#### prescribe
-?
-规定
-
-#word
-#### recommendation
-?
-建议
-
-#word
-#### sequel
-?
-续集
-
-#word
-#### stalwart
-?
-忠诚的， 拥护者
-
-#word
-#### stretch out
-?
-伸展
-
-#word
-#### subway
-?
-地铁
-
-#word
-#### unyoke
-?
-解开束缚
-
-#word
-#### uptight
-?
-紧张的， 拮据的
+引人注目的
 

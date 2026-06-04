@@ -1,10 +1,7 @@
 ---
 expression: scrap
-meaning: 碎片
-date: 2026-04-24 15:09:56
-status: 了解
+meaning: '抛弃， 放弃'
+date: 2026-06-04 17:59:27
+status: 新学
 type: WORD
-sentence1: scraps of burned paper
-trans1: ""
-origin1: ""
 ---

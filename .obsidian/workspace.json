@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6ed61b4dd64470e1",
+        "id": "ec060be770390fb6",
         "type": "tabs",
         "children": [
           {
-            "id": "cc02098194666f85",
+            "id": "293a2fed7bfb14ae",
             "type": "leaf",
             "state": {
               "type": "bases",
@@ -21,7 +21,7 @@
             }
           },
           {
-            "id": "96ffc7e7fe354f92",
+            "id": "02f5788764fb88ea",
             "type": "leaf",
             "state": {
               "type": "terminal:terminal",
@@ -119,7 +119,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 374.5
+    "width": 243.5
   },
   "right": {
     "id": "f8f92b5db2032903",
@@ -182,7 +182,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 272.5,
+    "width": 722.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -198,9 +198,21 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "96ffc7e7fe354f92",
+  "active": "02f5788764fb88ea",
   "lastOpenFiles": [
     "word-datset.base",
+    "word-dataset/meadow.md",
+    "word-dataset/timeline.md",
+    "word-dataset/bronze.md",
+    "word-dataset/renaissance.md",
+    "word-dataset/transaction.md",
+    "word-dataset/leisure.md",
+    "word-dataset/visa.md",
+    "word-dataset/aspirational.md",
+    "word-dataset/visible.md",
+    "word-dataset/text.md",
+    "word-dataset/acquaintance.md",
+    "word-dataset/nope.md",
     "word-dataset/count.md",
     "word-dataset/immersion.md",
     "word-dataset/barrel.md",
@@ -214,18 +226,6 @@
     "word-dataset/stretch out.md",
     "word-dataset/pointer.md",
     "word-dataset/recommendation.md",
-    "word-dataset/accountable.md",
-    "word-dataset/enlist.md",
-    "word-dataset/bounty.md",
-    "word-dataset/lavishly.md",
-    "word-dataset/feast.md",
-    "word-dataset/uptight.md",
-    "word-dataset/checklist.md",
-    "word-dataset/plate.md",
-    "word-dataset/buffet.md",
-    "word-dataset/graze.md",
-    "word-dataset/unyoke.md",
-    "word-dataset/go it alone.md",
     "积累/单词/后缀base.base",
     "积累/单词/后缀",
     "积累/单词/词根base.base",
