@@ -1,0 +1,453 @@
+
+
+
+
+
+
+
+ 
+<style>
+	@media print
+	{
+		#printmytab {page-break-after:always;}
+	}
+	
+	p.MsoNormal, li.MsoNormal, div.MsoNormal {
+	    margin: 0cm;
+	    margin-bottom: .0001pt;
+	    text-align: justify;
+	    text-justify: inter-ideograph;
+	    font-size: 10.5pt;
+	    font-family: "Times New Roman","serif";
+	}
+	
+	table{ border-collapse:collapse;
+	        border:1px solid #ddd;}
+	
+	table td{ 
+	 border:1px solid #ddd;
+	}
+	table th,
+	table td {
+	  font-size:14px;
+	  padding: 4px;
+	  line-height: 20px;
+	  text-align: left;
+	  vertical-align: top;
+	}
+	
+	.FontMinSize{
+	 font-size:12px;
+	 line-height: 20px;
+	 }
+	 
+	 pre{font-size: 14px;background: white;border:0;}
+</style>
+
+<body>
+
+<div id='printmytab'>
+	<div class="container-fluid">
+		<div class="row-fluid">
+			<div class="span9">
+				<div class=WordSection1 style='layout-grid:15.6pt'>
+				<!-- 填报信息结果 -->
+				<div class="b-unit-list">
+				<!--页眉-->
+					<p class=MsoNormal align=center style='text-align: center'>
+						<b style='mso-bidi-font-weight: normal'>
+							<span style='font-size: 16.0pt; font-family: 楷体_GB2312'>中国科学院大学
+							<span lang=EN-US>2026</span>年大学生夏令营申请表<span lang=EN-US><o:p></o:p></span></span>
+						</b>
+					</p>
+					<!-- 夏令营名称、申请号 -->
+					<p class=style26 align=center style='margin-top: 23.4pt; margin-right: 0cm; margin-bottom: 15.6pt; margin-left: 0cm; mso-para-margin-top: 1.5gd; mso-para-margin-right: 0cm; mso-para-margin-bottom: 1.0gd; mso-para-margin-left: 0cm; height: 22px; width: 871px;'>
+						<b align="center" style="font-size: 13px; width: 100%">
+							<strong>夏令营名称：</strong>
+						</b>
+						<u>
+							<span lang=EN-US style='font-size: 11.0pt'>
+								<span style='mso-spacerun: yes'>&nbsp; </span>
+								<span style='mso-spacerun: yes'>&nbsp;</span>2026"成都生之夏"
+								<span style='mso-spacerun: yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>
+							</span>
+						</u>
+							&nbsp;&nbsp;
+						<b align="center" style="font-size: 13px; width: 100%">
+							<strong>申请号：</strong>
+						</b>
+						<u>
+							<span lang=EN-US style='font-size: 11.0pt'>
+								
+									<span style='mso-spacerun: yes'>&nbsp; </span>
+									<span style='mso-spacerun: yes'>&nbsp;</span>20261014095&nbsp;&nbsp;&nbsp;
+									<span style='mso-spacerun: yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>
+								
+							</span>
+						</u>
+					</p>	
+					
+					<!--结束页眉-->
+				<div align=center>
+					<table class="NewTable" cellspacing="0" cellpadding="0">
+						<tbody>
+							<tr>
+								<td class="td-10" colspan="2">姓名</td>
+								<td class="td-10">
+									刘景元
+								</td>
+								<td class="td-10">性别</td>
+								<td class="td-15">
+									男
+								</td>
+								<td class="td-15">出生日期</td>
+								<td class="td-20" colspan="2">
+									2005-02-27
+								</td>
+								<td class="td-20" rowspan="4">
+									<img alt="近期照片"  width="120" height="160" src="http://zxsq.ucas.ac.cn:80/file/self/imgStr/dd025b5caf2446f6b22e10eb1a7fdb6d" />
+								</td>
+							</tr>
+							<tr>
+								<td colspan="2">民族</td>
+								<td>
+									汉族
+								</td>
+								<td>是否住宿</td>
+								<td>
+									是
+									
+								</td>
+								<td>
+									身份证号
+									
+								</td>
+								<td colspan="2">
+									41018520050227651X
+									
+								</td>
+								
+							</tr>
+							<tr>
+								<td colspan="2">通信地址</td>
+								<td colspan="3">
+									内蒙古大学南校区,010020
+								</td>
+								<td>政治面貌</td>
+								<td colspan="2">
+									群众
+								</td>
+							</tr>
+							<tr>
+								<td colspan="2">本人手机</td>
+								<td colspan="3">
+									13027628128
+								</td>
+								<td>E-mail</td>
+								<td colspan="2">
+									twb72743075@126.com
+								</td>
+							</tr>
+							<tr>
+								<td colspan="2">应急联系人及电话</td>
+								<td colspan="3">
+									刘效伟,13213213689
+								</td>
+								<td>家庭地址及邮编</td>
+								<td colspan="3">
+									河南省郑州市登封县颍阳镇刘寨村306号,452486
+								</td>
+							</tr>
+							<tr>
+								<td class="td-5" rowspan="7">大学情况</td>
+								<td class="td-15" colspan="2">所在学校</td>
+								<td class="td-25" colspan="2">
+									
+										内蒙古大学
+									
+									
+								</td>
+								<td class="td-15">学院</td>
+								<td class="td-10">
+									生命科学学院
+								</td>
+								<td class="td-10">系</td>
+								<td class="td-10">
+									生物系
+								</td>
+							</tr>
+							<tr>
+								<td colspan="2">所在班级（基地班等）</td>
+								<td colspan="3">
+									生物科学2班
+								</td>
+								<td>所学专业</td>
+								<td colspan="3">
+									
+										生物科学
+									
+									
+								</td>
+							</tr>
+							<tr>
+								<td colspan="2">学制</td>
+								<td colspan="3">
+									
+										4
+									
+									
+								</td>
+								<td>预计毕业年月</td>
+								<td colspan="3">
+									2027年06月
+								</td>
+							</tr>
+							<tr>
+								<td colspan="2">本科入学时间</td>
+								<td colspan="2">
+									2023-08-19
+								</td>
+								<td>英语级别及分数</td>
+								<td colspan="3">
+									
+                 				        CET6
+                 				    
+                 				    
+                 				    ,512.0
+								</td>
+							</tr>
+							<tr>
+								<td colspan="2">辅导员姓名</td>
+								<td colspan="2">
+									管文荻
+								</td> 
+								<td>辅导员电话</td>
+								<td colspan="3">
+									17614889135
+								</td>
+							</tr>
+							<tr>
+								<td colspan="2">所在年级（专业）人数</td>
+								<td colspan="2">
+									127
+								</td> 
+								<td>年级（专业）排名</td>
+								<td colspan="3">
+									29
+								</td>
+							</tr>
+							<tr>
+								<td colspan="2">学生干部或社团组织</td>
+								<td colspan="6">
+									无
+								</td> 
+							</tr>
+							<tr>
+								<td class="td-r1">个人简历（从高中阶段起）</td>
+								<td class="td-lotfont" colspan="8">
+									<p class=MsoNormal>
+									<span lang=EN-US><pre>见文件</pre></span>
+								</p>
+									<p class=MsoNormal>
+										<span lang=EN-US><o:p>&nbsp;</o:p></span>
+									</p>
+									<p class=MsoNormal>
+										<span lang=EN-US><o:p>&nbsp;</o:p></span>
+									</p>
+									<p class=MsoNormal>
+										<span lang=EN-US><o:p>&nbsp;</o:p></span>
+									</p>
+									<p class=MsoNormal>
+										<span lang=EN-US><o:p>&nbsp;</o:p></span>
+									</p>
+									<p class=MsoNormal>
+										<span lang=EN-US><o:p>&nbsp;</o:p></span>
+									</p>
+									<p class=MsoNormal>
+										<span lang=EN-US><o:p>&nbsp;</o:p></span>
+									</p>
+								</td>
+							</tr>
+							<tr>
+								<td>本科期间获奖情况</td>
+								<td class="td-lotfont" colspan="8" >
+									
+									<p class=MsoNormal>
+									<span lang=EN-US><pre>2023-2024国家励志奖学金
+2024一等本科生学业优秀奖学金
+2025 三等标兵奖学金
+2025 二等本科生学业优秀奖学金
+2024-2025 自治区励志奖学金
+2026 全国大学生英语竞赛C组优秀奖</pre></span>
+								</p>
+									<p class=MsoNormal>
+										<span lang=EN-US><o:p>&nbsp;</o:p></span>
+									</p>
+									<p class=MsoNormal>
+										<span lang=EN-US><o:p>&nbsp;</o:p></span>
+									</p>
+									<p class=MsoNormal>
+										<span lang=EN-US><o:p>&nbsp;</o:p></span>
+									</p>
+									<p class=MsoNormal>
+										<span lang=EN-US><o:p>&nbsp;</o:p></span>
+									</p>
+									<p class=MsoNormal>
+										<span lang=EN-US><o:p>&nbsp;</o:p></span>
+									</p>
+									<p class=MsoNormal>
+										<span lang=EN-US><o:p>&nbsp;</o:p></span>
+									</p>
+								</td>
+							</tr>
+							<tr>
+								<td>爱好及特长</td>
+								<td class="td-lotfont" colspan="8">
+									<p class=MsoNormal>
+									<span lang=EN-US><pre>特长：掌握生信基本技能及生物分子的AI建模， 包括序列比对， 主成分分析， 分子对接， 分子动力学模拟， Pymol,  AI框架(tensorflow， pytorch)， 绘图(python, R),  Linux,等。
+爱好：热爱生命科学研究， 享受探索未知的科研过程以及编程等计算机技术。
+</pre></span>
+								</p>
+									<p class=MsoNormal>
+										<span lang=EN-US><o:p>&nbsp;</o:p></span>
+									</p>
+									<p class=MsoNormal>
+										<span lang=EN-US><o:p>&nbsp;</o:p></span>
+									</p>
+									<p class=MsoNormal>
+										<span lang=EN-US><o:p>&nbsp;</o:p></span>
+									</p>
+									<p class=MsoNormal>
+										<span lang=EN-US><o:p>&nbsp;</o:p></span>
+									</p>
+									<p class=MsoNormal>
+										<span lang=EN-US><o:p>&nbsp;</o:p></span>
+									</p>
+								</td>
+							</tr>
+							<tr>
+								<td>申请理由</td>
+								<td class="td-lotfont" colspan="8">
+									<p class=MsoNormal>
+									<span lang=EN-US><pre>尊敬的老师：
+您好！我叫刘景元，是内蒙古大学生物科学专业的一名本科生。根据学院推免政策， 我将以6/55的成绩获得推免资格，让我有机会继续在研究生阶段学习和深造，为实现更高的目标而努力奋进。
+我于2023年8月考入内蒙古大学生物科学专业，本科就读期间，我始终怀揣着对生物信息学的热忱，认真学习、深刻理解所学课程知识，除生物化学， 细胞生物学等主干课程外，我还进一步自学了山东大学出版生物信息学课程。本科期间在左永春教授课题组跟随师兄师姐不断学习生物信息学知识， 主要学习方向为AI模型在生物大模型的应用。除专业学习之外，我还重视英语能力的培养，不仅通过四、六级考试，还具备了较好的英语听说读写能力；我还注重文献阅读与生物信息领域前言知识的扩充， 坚持追踪领域前沿进展， 复现了Bert, ProtBert, ProtT5, LABind, AF2Bind等著名模型或文献的工作， 掌握了AI-生物大分子领域的前沿技术。就读期间，我先后获得国家励志奖学金、校级学业奖学金等各项荣誉和奖励。
+本科学习期间，我积极参与专业相关科研实践，以课题组成员身份深度参与RaccMetal项目研究。在项目中，我主要负责模型搭建、训练优化、参数调优及结果可视化分析等核心工作。通过此次系统的科研训练，我熟练掌握了基于 PyTorch、TensorFlow 2.x 与 scikit-learn 开展深度学习与机器学习建模的流程，具备独立完成模型训练、调参与实验复现的能力；同时能够熟练运用 Python、R 语言及 Photoshop 进行科研图表绘制与结果呈现，具备较为扎实的生物信息学与计算生物学科研实践基础。
+仰慕成都生物所在生物资源、生态等领域雄厚积淀，钦佩所内高水平师资团队治学精深。本人专业契合研究方向，希望依托顶尖平台与名师指导潜心钻研，立足西南特色生物资源开展研究，投身资源保护与开发，特此申请深造。</pre></span>
+								</p>
+									<p class=MsoNormal>
+										<span lang=EN-US><o:p>&nbsp;</o:p></span>
+									</p>
+									<p class=MsoNormal>
+										<span lang=EN-US><o:p>&nbsp;</o:p></span>
+									</p>
+									<p class=MsoNormal>
+										<span lang=EN-US><o:p>&nbsp;</o:p></span>
+									</p>
+									<p class=MsoNormal>
+										<span lang=EN-US><o:p>&nbsp;</o:p></span>
+									</p>
+									<p class=MsoNormal>
+										<span lang=EN-US><o:p>&nbsp;</o:p></span>
+									</p>
+									<p class=MsoNormal>
+										<span lang=EN-US><o:p>&nbsp;</o:p></span>
+									</p>
+									<p class=MsoNormal>
+										<span lang=EN-US><o:p>&nbsp;</o:p></span>
+									</p>
+									<p class=MsoNormal>
+										<span lang=EN-US><o:p>&nbsp;</o:p></span>
+									</p>
+									<p class=MsoNormal>
+										<span lang=EN-US><o:p>&nbsp;</o:p></span>
+									</p>
+									<p class=MsoNormal>
+										<span lang=EN-US><o:p>&nbsp;</o:p></span>
+									</p>
+									<p class=MsoNormal>
+										<span lang=EN-US><o:p>&nbsp;</o:p></span>
+									</p>
+								</td>
+							</tr>
+							<tr>
+								<td>备注</td>
+								<td class="td-lotfont" colspan="8">
+									<p class=MsoNormal>
+									<span lang=EN-US><pre>意向导师：张韬</pre></span>
+								</p>
+									<p class=MsoNormal>
+										<span lang=EN-US><o:p>&nbsp;</o:p></span>
+									</p>
+									<p class=MsoNormal>
+										<span lang=EN-US><o:p>&nbsp;</o:p></span>
+									</p>
+									<p class=MsoNormal>
+										<span lang=EN-US><o:p>&nbsp;</o:p></span>
+									</p>
+									<p class=MsoNormal>
+										<span lang=EN-US><o:p>&nbsp;</o:p></span>
+									</p>
+									<p class=MsoNormal>
+										<span lang=EN-US><o:p>&nbsp;</o:p></span>
+									</p>
+									<p class=MsoNormal>
+										<span lang=EN-US><o:p>&nbsp;</o:p></span>
+									</p>
+								</td>
+							</tr>
+							<tr>
+								<td>个人签字</td>
+								<td class="td-lotfont" colspan="8">
+									<div>
+										我承诺：所填上述内容均真实、有效，如有不实，后果自负。
+										<br>
+	     								我保证：报名前已与所在大学和家属沟通，且履行请假等相关手续，遵守所在大学的相关规章制度，出现任何责任事件由我个人承担。
+										<br>
+									</div>
+									<br>
+									<div class="td-qz">
+										<p class=MsoNormal align=center style='text-align: center; layout-grid-mode: char'>
+											<span lang=EN-US><span style='mso-spacerun: yes'>&nbsp;&nbsp; </span></span>
+											<span style='font-family: 宋体; mso-ascii-font-family: "Times New Roman"; mso-hansi-font-family: "Times New Roman"'>签字：</span>
+										</p>
+										<p class=MsoNormal align=center style='text-align: center'>
+											<span lang=EN-US><span style='mso-spacerun: yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></span>
+											<span style='font-family: 宋体; mso-ascii-font-family: "Times New Roman"; mso-hansi-font-family: "Times New Roman"'>年</span>
+											<span lang=EN-US><span style='mso-spacerun: yes'>&nbsp;&nbsp;</span></span>
+											<span style='font-family: 宋体; mso-ascii-font-family: "Times New Roman"; mso-hansi-font-family: "Times New Roman"'>月</span>
+											<span lang=EN-US><span style='mso-spacerun: yes'>&nbsp;&nbsp;</span></span>
+											<span style='font-family: 宋体; mso-ascii-font-family: "Times New Roman"; mso-hansi-font-family: "Times New Roman"'>日</span>
+										</p>
+									</div>
+									<p class=MsoNormal>
+										<span lang=EN-US><o:p>&nbsp;</o:p></span>
+									</p>
+									<p class=MsoNormal>
+										<span lang=EN-US><o:p>&nbsp;</o:p></span>
+									</p>
+									<p class=MsoNormal>
+										<span lang=EN-US><o:p>&nbsp;</o:p></span>
+									</p>
+									<p class=MsoNormal>
+										<span lang=EN-US><o:p>&nbsp;</o:p></span>
+									</p>
+									<p class=MsoNormal>
+										<span lang=EN-US><o:p>&nbsp;</o:p></span>
+									</p>
+									<p class=MsoNormal>
+										<span lang=EN-US><o:p>&nbsp;</o:p></span>
+									</p>
+								</td>
+							</tr>
+						</tbody>
+					</table>
+				<br /> 注：是否需要提交其他材料等具体要求请以各夏令营承办单位通知为准。
+			</div>
+				</div>
+				</div>
+	       </div>
+	    </div> 
+	</div>
+</div>
+</body>

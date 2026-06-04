@@ -1,0 +1,157 @@
+/**
+ * 将视频替换为外网可播放地址
+ * 在模板中使用时请手动添加<script>标签
+ */
+
+// iframe
+var videoList = document.getElementsByTagName('video')
+  , removeIndex = [];
+masUrl = "//videosz.cas.cn";
+//mas代理域名
+
+for (var i = 0, length = videoList.length; i < length; i++) { 
+	 var video = videoList[i],
+		  src = video.getAttribute('src')
+		  , durl = video.getAttribute('durl');
+		masid = video.getAttribute('masid');
+		 poster=video.getAttribute('poster');
+	 streamsmap=video.getAttribute('streamsmap');
+if(streamsmap==""){
+continue;
+}	
+		if (durl) {
+			var videoEle = document.createElement('div');
+			videoEle.setAttribute('id', 'mse' + i);
+			videoEle.setAttribute('style', 'margin:0 auto;');
+
+			//document.getElementById('mse').appendChild(videoEle);
+			video.parentElement.insertBefore(videoEle, video);
+			removeIndex.push(i);
+			var vsrc =streamsmap.split('~');
+			var newsrc=new Array(vsrc.length);
+			for( var l=0;l<newsrc.length;l++){
+				newsrc[l]=new Array();
+				newsrc[l][0]=vsrc[l].slice(2,4);
+				newsrc[l][1]=vsrc[l].slice(5);
+			}
+
+			xgVideo(i, newsrc,poster);
+		}else{
+			var videoEle = document.createElement('div');
+			videoEle.setAttribute('id', 'mse' + i);
+			videoEle.setAttribute('style', 'margin:0 auto;');
+			
+			video.parentElement.insertBefore(videoEle, video);
+			removeIndex.push(i);
+			
+			var newsrc = new Array();
+			newsrc[0] = new Array();
+			newsrc[0][0]="高清";
+			newsrc[0][1]=src.replace('//videozh.cas.cn',masUrl);
+			var poster_a = poster.replace('//videozh.cas.cn',masUrl);
+			xgVideo(i, newsrc, poster_a);
+		}
+}
+if (removeIndex.length > 0) {
+	for (var i = 0, length = removeIndex.length; i < length; i++) {
+		var videoIframe = videoList[removeIndex[0]];
+		videoIframe.parentElement.removeChild(videoIframe);
+	}
+}
+
+$(function() {
+	$('video').each(function(i,e){
+		if(!$(this).parent().hasClass('xgplayer')){
+			var srcs = $(this).attr('src');
+			var srcs_x = srcs.replace(/videozh/g,'videozh');
+			$(this).attr('src',srcs_x);
+			
+			var posters = $(this).attr('poster');
+			if(posters){
+				var posters_x = posters.replace(/videozh/g,'videozh');
+				$(this).attr('poster',posters_x);
+			}
+		}
+	});
+})
+function xgVideo(i, newsrc,poster) {
+
+	if(newsrc.length==3){
+		var player = new Player({
+			"id": "mse" + i,
+			"url": newsrc[0][1],
+			"playsinline": true,
+			"whitelist": [""],
+			"playbackRate": [0.5, 0.75,1, 1.5, 2,3],
+	//		"download": true,
+			"pip": true,
+			"poster": poster,
+		});
+		player.emit('resourceReady', [{
+			"name": newsrc[1][0],
+			"url": newsrc[1][1]
+		}, {
+			"name": newsrc[2][0],
+			"url": newsrc[2][1]
+		}, {
+			"name": newsrc[0][0],
+			"url": newsrc[0][1]
+		}, ])
+	}
+	if(newsrc.length==1){
+		var player = new Player({
+			"id": "mse" + i,
+			"url": newsrc[0][1],
+			"playsinline": true,
+			"whitelist": [""],
+			"playbackRate": [0.5, 0.75,1, 1.5, 2,3],
+	//		"download": true,
+			"pip": true,
+			"poster": poster,
+		});
+		player.emit('resourceReady', [{
+			"name": newsrc[0][0],
+			"url": newsrc[0][1]
+		} ])
+	}
+	if(newsrc.length==2){
+		var player = new Player({
+			"id": "mse" + i,
+			"url": newsrc[0][1],
+			"playsinline": true,
+			"whitelist": [""],
+			"playbackRate": [0.5, 0.75,1, 1.5, 2,3],
+	//		"download": true,
+			"pip": true,
+			"poster": poster,
+		});
+		player.emit('resourceReady', [{
+			"name": newsrc[0][0],
+			"url": newsrc[0][1]
+		}, {
+			"name": newsrc[1][0],
+			"url": newsrc[1][1]
+		} ])
+	}
+}
+
+/*20240307添加去除ifiam的http的代码*/
+$(function() {  
+    // 获取页面上所有的iframe元素  
+    var iframes = $("iframe");  
+    // 遍历每个iframe元素  
+    iframes.each(function() {  
+        var $iframe = $(this); // 将当前iframe元素封装成jQuery对象以便链式调用  
+        var src = $iframe.attr("src");  
+        // 检查src属性是否存在且不为空  
+        if (!src || src.trim() === "") {  
+            // 如果src为空或者不存在，隐藏对应的iframe  
+            $iframe.hide();  
+        } else {  
+            // 如果src存在且有内容，则去掉http:协议部分  
+            var urlNoProtocol = src.replace(/^http:/, "");  
+            // 更新iframe的src属性  
+            $iframe.attr("src", urlNoProtocol).css({"width": "600px", "height": "337.5px"});
+        }  
+    });  
+});

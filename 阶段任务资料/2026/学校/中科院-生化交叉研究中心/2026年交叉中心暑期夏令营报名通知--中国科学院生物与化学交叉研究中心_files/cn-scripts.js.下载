@@ -1,0 +1,188 @@
+(function($){
+  "use strict";
+  // nav
+    (function($) {
+        var $nav = $('#main-nav');
+        var $toggle = $('.toggle');
+        var defaultData = {
+            maxWidth: false,
+            customToggle: $toggle,
+            navTitle: '<img src="//ircbc.ac.cn/images/cn-logo-xs.png">',
+            labelClose: "关闭",
+            levelTitles: true,
+            levelOpen:'expand',
+            levelSpacing:25
+        };
+        var $clone = null;
+        var data = {};
+        const initNav = function(conf) {
+            if ($clone) {
+                $clone.remove();
+            }
+            $toggle.off('click');
+            $clone = $nav.clone();
+            $.extend(data, conf)
+            $clone.hcMobileNav($.extend({}, defaultData, data));
+        }
+        initNav({});
+    })(jQuery);
+	
+	$(".nav-parent").each(function(){
+		if($(this).find(".nav-wrapper").find("ul").find("a").length==0){
+			$(this).find(".nav-next").remove();
+		}
+	})
+	
+	//Back To Top
+    function BackToTop() {
+        $('.back-to-top').on('click', function () {
+            $('html, body').animate({
+                scrollTop: 0
+            }, 100);
+            return false;
+        });
+
+        $(document).scroll(function () {
+            var y = $(this).scrollTop();
+            if (y > 400) {
+                $('.back-to-top').fadeIn();
+                $('.back-to-top').addClass('open');
+            } else {
+                $('.back-to-top').fadeOut();
+                $('.back-to-top').removeClass('open');
+            }
+        });
+    }
+    BackToTop();
+	
+	// 导航
+	$(function(){
+       $(".bread-item").find("span:last-child").remove();
+        var len = "";
+        var curChannel = $(".bread-item").find("a:eq(1)").text();
+        var curChannelSub = $(".bread-item").find("a:eq(2)").text();
+        var curChannelThree = $(".bread-item").find("a:last-child").html();
+        $(".dropdown").each(function(){
+            len = $(this).children(".dropdown-menu").children("li").length;
+            if(len<1){
+                $(this).removeClass("dropdown");
+                $(this).children(".dropdown-menu").remove();
+                $(this).children("a").removeAttr("data-toggle").removeClass("dropdown-toggle");
+                $(this).find("i").remove();
+                $("a", this).off('click');
+                $("a.dropdown-toggle", this).on('click', function (e) {});
+            }
+            if($(this).children("a").text()==curChannel){
+                $(this).addClass("active").siblings().removeClass('active');
+            }
+        });
+		$(".leftNavigation li").each(function(){
+			var channelDesc=$(this).find("a").text().trim();
+			if(channelDesc==curChannelSub){
+				$(this).addClass("active").siblings().removeClass("active");
+			}
+		});
+        $(".leftNavigation li").each(function(){
+			var channelDesc=$(this).find("a").text().trim();
+			if(channelDesc==curChannelThree){
+				$(this).addClass("active").siblings().removeClass("active");
+			}
+		});
+    });
+	
+	$(function(){
+	  var len = "";
+	  $(".dropdown").each(function(){
+		len = $(this).children(".dropdown-menu").children("li").length;
+		if(len==0){
+		  $(this).children(".dropdown-menu").remove();
+		  $(this).children("a").removeAttr("data-toggle").removeClass("dropdown-toggle");
+		}
+	  });
+	});//无二级级栏目时去除样式
+	
+  // LeftNav
+	$('.sub-menu').each(function(){
+		$(this).click(function(){
+			if($(this).hasClass('active')) {
+				$(this).removeClass('active')
+			} else {
+				$(this).addClass('active')
+			}
+		})
+	})
+	
+    //Search
+	function isValid(str){
+        if(str.indexOf('&') != -1 || str.indexOf('<') != -1 || str.indexOf('>') != -1 || str.indexOf('\'') != -1
+            || str.indexOf('\\') != -1 || str.indexOf('/') != -1 || str.indexOf('"') != -1
+            || str.indexOf('%') != -1 || str.indexOf('#') != -1){
+            return false;
+        }
+        return true;
+    }
+    $(function(){
+        $('#sub-pc').click(function(){
+            var searchword = $.trim($('#searchword').val());
+        if(searchword == "" || searchword == "请输入关键字" || !isValid(searchword)){
+            alert("请输入关键词后再进行提交。");
+            return false;
+        }
+        $('input[name="keyword"]').val(encodeURI(searchword));
+        $('form[name="searchform"]').submit();
+        });
+
+        $('#sub-mobile').click(function(){
+            var iptSword = $.trim($('#iptSword').val());
+        if(iptSword == "" || iptSword == "请输入关键字" || !isValid(iptSword)){
+            alert("请输入关键词后再进行提交。");
+            return false;
+        }
+        $('input[name="keyword"]').val(encodeURI(iptSword));
+        $('form[name="searchform"]').submit();
+        });
+    });
+
+    $(document).ready(function() {
+        $('#searchword').focus(function() {
+        $("body").keydown(function (e) {
+            e = e ? e : event;
+        if (e.keyCode == "13") {//keyCode=13是回车键
+            $('#sub-pc').click();
+            e.preventDefault();
+            return false;
+        }
+        });
+        });
+    });
+	
+	//提取摘要
+	String.prototype.replaceAll = function(s1, s2) {
+        return this.replace(new RegExp(s1, "gm"), s2);
+    }
+    var reg = /<\/?.+?\/?>/g;
+    var abstract = "";
+    var content = "";
+    var formatContent = "";
+    $(".itemtxt").each(function(){
+        abstract = $(this).find(".abstract").text().trim();
+        content = $(this).find(".content").text().trim();
+        formatContent = content.replaceAll(' ','');
+        formatContent = formatContent.replace(reg,'');
+        formatContent = formatContent.replaceAll('&nbsp;','');
+        formatContent = formatContent.replaceAll('　','');
+        formatContent = formatContent.replaceAll('？','');
+        if(abstract==""){
+            $(this).find(".abstract").remove();
+        }else{
+            $(this).find(".content").remove();
+        }
+        if(content==""){
+            $(this).find(".content").remove();
+        }else{
+            $(this).find(".content").html(formatContent);
+        }
+    });
+	
+
+})(jQuery);

@@ -1,0 +1,37 @@
+div .xgplayer *{
+	font-size: 13px !important;
+	line-height: 20px !important;
+	margin-bottom: 0px !important;
+}
+div .xgplayer .xgplayer-time{
+	line-height: 40px !important;
+}
+@media only screen and (max-width: 767px) {
+	.video .xgplayer {
+		width: 100% !important;
+	}
+}
+
+.xl_content .xgplayer *{
+        font-size: 13px !important;
+        line-height: 20px !important;
+        margin-bottom: 0px !important;
+}
+.xl_content .xgplayer .xgplayer-time{
+        line-height: 40px !important;
+}
+.xgplayer-skin-default .xgplayer-error .xgplayer-error-text{
+        margin-bottom: auto !important;
+}
+.xgplayer-skin-default .xgplayer-definition .name{
+        left: 0;
+}
+div .xgplayer-skin-default .xgplayer-poster{ z-index: 1; }
+div .xgplayer-skin-default .xgplayer-start{ z-index: 3; }
+
+.xgplayer-skin-default .xgplayer-poster{
+        background-size: auto 100%;
+        background-repeat: no-repeat;
+}
+
+#xlmain .textxl video{line-height: auto!important;}
