@@ -26,6 +26,36 @@
             "id": "f3485b142db74ea0",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "temp.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "temp"
+            }
+          },
+          {
+            "id": "c7c30ca54b82b4c3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "生物化学/第十章 脂质和生物膜.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "第十章 脂质和生物膜"
+            }
+          },
+          {
+            "id": "ebc652c3a333bfa2",
+            "type": "leaf",
+            "state": {
               "type": "terminal:terminal",
               "state": {
                 "terminal:terminal": {
@@ -63,7 +93,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -116,8 +146,7 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -160,11 +189,16 @@
       "daily-notes:打开/创建今天的日记": false,
       "command-palette:打开命令面板": false,
       "bases:创建新数据库": false,
-      "terminal:Open terminal": false
+      "terminal:Open terminal": false,
+      "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "f3485b142db74ea0",
+  "active": "ebc652c3a333bfa2",
   "lastOpenFiles": [
+    "生物化学/第十章 脂质和生物膜.md",
+    "第十二章 建设社会主义生态文明.md",
+    "第十三章 维护和塑造国家安全.md",
+    "temp.md",
     "生物化学/第九章 糖.md",
     "生物化学/第二章 氨基酸， 肽， 蛋白质.md",
     "生物化学/第一章 生命分子基础.md",
@@ -173,7 +207,6 @@
     "生物化学/第八章 酶作用机制和活性调节.md",
     "生物化学/第六章 酶的催化作用.md",
     "生物化学/第七章 酶动力学.md",
-    "temp.md",
     "专业英语/专业英语课程.md",
     "染色体包装.png",
     "Pasted image 20260514111311.png",
@@ -201,11 +234,8 @@
     "生物学知识引用块/蛋白质分离纯化鉴定技术/电泳/按分离原理分类/荧光差异双向电泳.md",
     "生物学知识引用块/蛋白质分离纯化鉴定技术/电泳/按分离原理分类",
     "生物学知识引用块/蛋白质分离纯化鉴定技术/电泳/按介质分/聚丙烯酰胺凝胶电泳.md",
-    "生物学知识引用块/蛋白质分离纯化鉴定技术/电泳/按介质分/琼脂糖凝胶电泳原理.md",
     "生物学知识引用块/蛋白质分离纯化鉴定技术/电泳/按介质分",
     "生物学知识引用块/蛋白质分离纯化鉴定技术/电泳",
-    "生物学知识引用块/蛋白质分离纯化鉴定技术/等电聚焦.md",
-    "生物学知识引用块/蛋白质分离纯化鉴定技术/色谱/层析的类型.md",
     "生物学知识引用块/蛋白质分离纯化鉴定技术/色谱",
     "生物学知识引用块/蛋白质分离纯化鉴定技术",
     "生物学知识引用块/新建文件夹",
