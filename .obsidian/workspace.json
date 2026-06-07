@@ -11,13 +11,55 @@
             "id": "293a2fed7bfb14ae",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "word-datset.base",
-                "viewName": "表格"
+                "file": "积累/单词/近义词.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-table",
-              "title": "word-datset"
+              "icon": "lucide-file",
+              "title": "近义词"
+            }
+          },
+          {
+            "id": "c769334a8c11fa74",
+            "type": "leaf",
+            "state": {
+              "type": "terminal:terminal",
+              "state": {
+                "terminal:terminal": {
+                  "cwd": "E:\\markdown\\obsidian-files\\english",
+                  "focus": false,
+                  "profile": {
+                    "args": [
+                      "--login"
+                    ],
+                    "executable": "C:\\Program Files\\Git\\bin\\bash.exe",
+                    "followTheme": true,
+                    "name": "",
+                    "platforms": {
+                      "win32": true
+                    },
+                    "pythonExecutable": "python3",
+                    "restoreHistory": false,
+                    "rightClickAction": "copyPaste",
+                    "successExitCodes": [
+                      "0",
+                      "SIGINT",
+                      "SIGTERM"
+                    ],
+                    "terminalOptions": {
+                      "documentOverride": null
+                    },
+                    "type": "integrated",
+                    "useWin32Conhost": true
+                  },
+                  "serial": null
+                }
+              },
+              "icon": "terminal",
+              "title": "终端：MINGW64:/e/markdown/obsidian-files/english"
             }
           },
           {
@@ -114,8 +156,7 @@
               "title": "查词面板"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -198,8 +239,10 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "02f5788764fb88ea",
+  "active": "c769334a8c11fa74",
   "lastOpenFiles": [
+    "积累/单词/近义词.md",
+    "口语/情景/订酒店.md",
     "word-datset.base",
     "word-dataset/meadow.md",
     "word-dataset/timeline.md",
@@ -225,7 +268,6 @@
     "word-dataset/engross.md",
     "word-dataset/stretch out.md",
     "word-dataset/pointer.md",
-    "word-dataset/recommendation.md",
     "积累/单词/后缀base.base",
     "积累/单词/后缀",
     "积累/单词/词根base.base",
