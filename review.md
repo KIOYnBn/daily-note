@@ -1,67 +1,69 @@
 #flashcards
 
 #word
-#### acquaintance
+#### allergy
 ?
-相识之人
+过敏
 
 #word
-#### aspirational
+#### clash
 ?
-梦寐以求的
+冲突
 
 #word
-#### bronze
+#### expired
 ?
-青铜
+过期的
 
 #word
-#### leisure
+#### keep track of
 ?
-休闲
+记录
 
 #word
-#### meadow
+#### needlessly
 ?
-草地
+不必要地
 
 #word
-#### nope
+#### overwhelmed
 ?
-不（俚语）
+不知所措的
 
 #word
-#### renaissance
+#### pharmacy
 ?
-文艺复兴
+药店
 
 #word
-#### scrap
+#### proprietor
 ?
-抛弃， 放弃
+业主
 
 #word
-#### text
+#### pry
 ?
-短信
+窥探
 
 #word
-#### timeline
+#### sibling
 ?
-时间线
+兄弟姐妹
 
 #word
-#### transaction
+#### snapshot
 ?
-交易
+快照
 
 #word
-#### visa
+#### stuff
 ?
-签证
+事情
 
 #word
-#### visible
+#### surgery
 ?
-引人注目的
+外科手术
+**Sentences**:
+*His father has just recovered from heart surgery*
 

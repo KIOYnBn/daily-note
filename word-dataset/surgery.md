@@ -1,8 +1,8 @@
 ---
 expression: surgery
-meaning: 手术
-date: 2026-03-24 14:48:01
-status: 了解
+meaning: 外科手术
+date: 2026-06-09 11:56:24
+status: 新学
 type: WORD
 sentence1: His father has just recovered from heart surgery
 ---

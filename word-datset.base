@@ -4,7 +4,7 @@ views:
     filters:
       and:
         - file.folder == "word-dataset"
-        - status == "了解"
+        - status == "新学"
     order:
       - file.name
       - status

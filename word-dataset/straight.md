@@ -1,0 +1,7 @@
+---
+expression: straight
+meaning: '连续的'
+date: 2026-06-08 11:06:34
+status: 新学
+type: WORD
+---

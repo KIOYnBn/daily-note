@@ -8,22 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "293a2fed7bfb14ae",
+            "id": "c769334a8c11fa74",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "积累/单词/近义词.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "file": "word-datset.base",
+                "viewName": "表格"
               },
-              "icon": "lucide-file",
-              "title": "近义词"
+              "icon": "lucide-table",
+              "title": "word-datset"
             }
           },
           {
-            "id": "c769334a8c11fa74",
+            "id": "67b62675c641be0e",
             "type": "leaf",
             "state": {
               "type": "terminal:terminal",
@@ -156,11 +154,12 @@
               "title": "查词面板"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 243.5
+    "width": 411.5
   },
   "right": {
     "id": "f8f92b5db2032903",
@@ -239,35 +238,34 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "c769334a8c11fa74",
+  "active": "67b62675c641be0e",
   "lastOpenFiles": [
-    "积累/单词/近义词.md",
-    "口语/情景/订酒店.md",
     "word-datset.base",
-    "word-dataset/meadow.md",
-    "word-dataset/timeline.md",
-    "word-dataset/bronze.md",
-    "word-dataset/renaissance.md",
-    "word-dataset/transaction.md",
-    "word-dataset/leisure.md",
-    "word-dataset/visa.md",
-    "word-dataset/aspirational.md",
-    "word-dataset/visible.md",
-    "word-dataset/text.md",
-    "word-dataset/acquaintance.md",
-    "word-dataset/nope.md",
-    "word-dataset/count.md",
-    "word-dataset/immersion.md",
-    "word-dataset/barrel.md",
-    "word-dataset/complexion.md",
-    "word-dataset/devour.md",
-    "word-dataset/subway.md",
-    "word-dataset/lemonade.md",
-    "word-dataset/stalwart.md",
-    "word-dataset/sequel.md",
-    "word-dataset/engross.md",
-    "word-dataset/stretch out.md",
-    "word-dataset/pointer.md",
+    "word-dataset/expired.md",
+    "word-dataset/proprietor.md",
+    "积累/单词/近义词.md",
+    "word-dataset/pharmacy.md",
+    "word-dataset/allergy.md",
+    "word-dataset/pry.md",
+    "word-dataset/keep track of.md",
+    "word-dataset/stuff.md",
+    "word-dataset/snapshot.md",
+    "word-dataset/needlessly.md",
+    "word-dataset/sibling.md",
+    "word-dataset/clash.md",
+    "word-dataset/overwhelmed.md",
+    "word-dataset/contagious.md",
+    "word-dataset/collapse.md",
+    "word-dataset/disastrous.md",
+    "word-dataset/knock out.md",
+    "word-dataset/straight.md",
+    "word-dataset/wilt.md",
+    "word-dataset/streak.md",
+    "word-dataset/pecking order.md",
+    "word-dataset/arguably.md",
+    "word-dataset/tournament.md",
+    "word-dataset/pinnacle.md",
+    "word-dataset/peculiar.md",
     "积累/单词/后缀base.base",
     "积累/单词/后缀",
     "积累/单词/词根base.base",
