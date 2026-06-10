@@ -1,8 +1,7 @@
 ---
 expression: wit
-meaning: 机智
-date: 2026-05-01 17:55:36
-status: 了解
+meaning: '风趣'
+date: 2026-06-10 18:03:21
+status: 新学
 type: WORD
-sentence1: She has used her wits to progress to the position she holds.
 ---

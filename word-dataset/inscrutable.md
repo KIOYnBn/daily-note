@@ -2,7 +2,7 @@
 expression: inscrutable
 meaning: 难以理解的
 date: 2026-05-30 13:35:35
-status: 新学
+status: 了解
 type: WORD
-sentence1: In public he remained inscrutable
+sentence1: His expression remained inscrutable throughout the meeting, giving no clue to his real thoughts.
 ---

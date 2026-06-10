@@ -1,69 +1,97 @@
 #flashcards
 
 #word
-#### allergy
+#### assist
 ?
-过敏
+帮助
 
 #word
-#### clash
+#### at any cost
 ?
-冲突
+不惜代价
 
 #word
-#### expired
+#### clamp
 ?
-过期的
+夹住
 
 #word
-#### keep track of
+#### designate
 ?
-记录
+指定
 
 #word
-#### needlessly
+#### handrail
 ?
-不必要地
+扶手
 
 #word
-#### overwhelmed
+#### in charge
 ?
-不知所措的
+负责
 
 #word
-#### pharmacy
+#### incapacitated
 ?
-药店
+使丧失能力的
 
 #word
-#### proprietor
+#### intern
 ?
-业主
+拘留， 实习生
 
 #word
-#### pry
+#### just as important
 ?
-窥探
+同样重要的
 
 #word
-#### sibling
+#### muddled
 ?
-兄弟姐妹
+糊涂的， 不知所措的
 
 #word
-#### snapshot
+#### point
 ?
-快照
+关键
 
 #word
-#### stuff
+#### rehab
 ?
-事情
+康复治疗
 
 #word
-#### surgery
+#### rehearse
 ?
-外科手术
-**Sentences**:
-*His father has just recovered from heart surgery*
+排练
+
+#word
+#### rug
+?
+地毯
+
+#word
+#### rush
+?
+匆忙
+
+#word
+#### sanction
+?
+制裁
+
+#word
+#### strike
+?
+引起强烈的情感
+
+#word
+#### tweak
+?
+稍微调整
+
+#word
+#### wit
+?
+风趣
 
