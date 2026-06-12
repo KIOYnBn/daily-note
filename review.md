@@ -1,97 +1,82 @@
 #flashcards
 
 #word
-#### assist
+#### behead
 ?
-帮助
+砍头
 
 #word
-#### at any cost
+#### bull
 ?
-不惜代价
+公牛
 
 #word
-#### clamp
+#### confidential
 ?
-夹住
+机密的
 
 #word
-#### designate
+#### convicted
 ?
-指定
+被判刑的
 
 #word
-#### handrail
+#### custody
 ?
-扶手
+监狱
 
 #word
-#### in charge
+#### eerie
 ?
-负责
+可怕的
 
 #word
-#### incapacitated
+#### envoy
 ?
-使丧失能力的
+使者
 
 #word
-#### intern
+#### gesture
 ?
-拘留， 实习生
+表示
 
 #word
-#### just as important
+#### goodwill
 ?
-同样重要的
+善意
 
 #word
-#### muddled
+#### jeopardy
 ?
-糊涂的， 不知所措的
+危险
 
 #word
-#### point
+#### lift
 ?
-关键
+撤销
 
 #word
-#### rehab
+#### prosecute
 ?
-康复治疗
+起诉
 
 #word
-#### rehearse
+#### pry
 ?
-排练
+窥探
 
 #word
-#### rug
+#### pursuit
 ?
-地毯
+追捕， 追求
 
 #word
-#### rush
+#### tie
 ?
-匆忙
+关系
 
 #word
-#### sanction
+#### wrongdoing
 ?
-制裁
-
-#word
-#### strike
-?
-引起强烈的情感
-
-#word
-#### tweak
-?
-稍微调整
-
-#word
-#### wit
-?
-风趣
+坏事
 

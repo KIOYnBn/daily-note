@@ -36,7 +36,7 @@
             }
           },
           {
-            "id": "e7f97fc009fe725f",
+            "id": "2203358db8639178",
             "type": "leaf",
             "state": {
               "type": "terminal:terminal",
@@ -197,7 +197,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 722.5
+    "width": 722.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -212,9 +213,23 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "e7f97fc009fe725f",
+  "active": "2203358db8639178",
   "lastOpenFiles": [
     "word-datset.base",
+    "word-dataset/lift.md",
+    "word-dataset/gesture.md",
+    "word-dataset/eerie.md",
+    "word-dataset/wrongdoing.md",
+    "word-dataset/pursuit.md",
+    "word-dataset/jeopardy.md",
+    "word-dataset/confidential.md",
+    "word-dataset/bull.md",
+    "word-dataset/prosecute.md",
+    "word-dataset/custody.md",
+    "word-dataset/convicted.md",
+    "word-dataset/tie.md",
+    "word-dataset/envoy.md",
+    "word-dataset/behead.md",
     "word-dataset/clamp.md",
     "word-dataset/intern.md",
     "积累/单词/词根/capit.md",
@@ -226,20 +241,6 @@
     "word-dataset/incapacitated.md",
     "word-dataset/rehearse.md",
     "word-dataset/assist.md",
-    "word-dataset/at any cost.md",
-    "word-dataset/tweak.md",
-    "word-dataset/rehab.md",
-    "word-dataset/handrail.md",
-    "word-dataset/rug.md",
-    "word-dataset/expired.md",
-    "word-dataset/proprietor.md",
-    "积累/单词/近义词.md",
-    "word-dataset/pharmacy.md",
-    "word-dataset/allergy.md",
-    "word-dataset/pry.md",
-    "word-dataset/keep track of.md",
-    "word-dataset/stuff.md",
-    "word-dataset/snapshot.md",
     "积累/单词/后缀base.base",
     "积累/单词/后缀",
     "积累/单词/词根base.base",
